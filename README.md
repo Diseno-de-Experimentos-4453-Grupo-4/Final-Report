@@ -1,16 +1,16 @@
 <div align="center">
 
-  ![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
+![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
   
   **Universidad Peruana de Ciencias Aplicadas**
   
   Ingeniería de Software
   
-  **CURSO:** SI730 Aplicaciones Web - SI92
+  **CURSO:** 1ASI0732
   
-  **SECCIÓN:** SI92
+  **NRC:** 4453
   
-  **Profesor:** Naldo Reupo-Musayon Gastul
+  **Profesor:** Julio Manuel Noriega Melendez
   
   **Informe de Trabajo Final**
   
@@ -29,35 +29,35 @@
     </thead>
     <tbody>
         <tr>
-            <td>Adriana María Diestra Zambrano</td>
-            <td>u202218110</td>
+            <td>Gustavo Huilca Chipana </td>
+            <td>u202213983</td>
         </tr>
         <tr>
-            <td>Bárbara Antonella Espinoza Delgado</td>
-            <td>u201911727</td>
+            <td>Integrante </td>
+            <td>codigo</td>
         </tr>
         <tr>
             <td>Mathias Adriano Hidalgo Lopez</td>
             <td>u202213222</td>
         </tr>
         <tr>
-            <td>Néstor Velarde Gonzales</td>
-            <td>u20211C221</td>
+            <td>Integrante </td>
+            <td>codigo</td>
         </tr>
         <tr>
-            <td>Quique Vladimir Jara Benites</td>
-            <td>u202022365</td>
+            <td>Integrante </td>
+            <td>codigo</td>
         </tr>
         <tr>
-            <td>Roy Linsh Fernandez Remon</td>
-            <td>u20221B778</td>
+            <td>Integrante</td>
+            <td>codigo</td>
         </tr>
     </tbody>
 </table>
 
 <br/><br/>
   
-  ## **Noviembre, 2024**
+  ## **Abril, 2025**
 
 </div>
 
@@ -77,153 +77,9 @@
   <tbody>
     <tr>
       <td>1.0</td>
-      <td>2024/08/14</td>
-      <td>Velarde Gonzales, Néstor</td>
-      <td>Creación del documento de trabajo en formato Markdown.</td>
-    </tr>
-    <tr>
-      <td>1.1</td>
-      <td>2024/08/21</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Redacción del <b>Startup Profile</b>, Descripción de la <b>Startup</b>, <b>Solution Profile</b>, Antecedentes y problemática, <b>Lean UX Process</b> y Segmentos objetivo.</td>
-    </tr>
-    <tr>
-      <td>1.2</td>
-      <td>2024/08/23</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td><b>Information Architecture</b> y <b>Database Diagram</b>.</td>
-    </tr>
-    <tr>
-      <td>1.3</td>
-      <td>2024/08/23</td>
-      <td>Hidalgo Lopez, Mathias Adriano</td>
-      <td><b>Empathy Mapping, To-Be Mapping</b>.</td>
-    </tr>
-    <tr>
-      <td>1.4</td>
-      <td>2024/08/24</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td><b>User Stories, Product Backlog</b>.</td>
-    </tr>
-    <tr>
-      <td>1.5</td>
-      <td>2024/08/30</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Entrevista, redacción del análisis competitivo, estrategias frente a competidores, <b>User Persona, User Task Matrix, User Journey Mapping, As-Is Scenario* y Lenguaje ubicuo</b>.</td>
-    </tr>
-    <tr>
-      <td>1.6</td>
-      <td>2024/08/30</td>
-      <td>Diestra Zambrano, Adriana María</td>
-      <td>Entrevista.</td>
-    </tr>
-    <tr>
-      <td>1.7</td>
-      <td>2024/08/30</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td><b>Sprint Planning* y *Sprint Backlog</b>.</td>
-    </tr>
-    <tr>
-      <td>1.8</td>
-      <td>2024/09/01</td>
-      <td>Fernandez Remon, Roy Linsh</td>
-      <td>Entrevista.</td>
-    </tr>
-    <tr>
-      <td>1.9</td>
-      <td>2024/09/02</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td><b>Style Guidelines</b>, Diseño de la <b>Landing Page UI</b>, UX/UI de la Aplicación Web.</td>
-    </tr>
-    <tr>
-      <td>1.10</td>
-      <td>2024/09/02</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Configuración de software, desarrollo de software, gestión de código fuente, estilo de código fuente y despliegue de software.</td>
-    </tr>
-    <tr>
-      <td>1.11</td>
-      <td>2024/09/04</td>
-      <td>Hidalgo Lopez, Mathias Adriano</td>
-      <td>Entrevista, <b>Impact Mapping</b>.</td>
-    </tr>
-    <tr>
-      <td>1.12</td>
-      <td>2024/09/04</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td><b>Testing Suite</b>, evidencia de ejecución, documentación del servicio, despliegue de software y <b>Team Collaboration Insights</b>.</td>
-    </tr>
-    <tr>
-      <td>1.13</td>
-      <td>2024/09/04</td>
-      <td>Velarde Gonzales, Néstor</td>
-      <td>Entrevista y correcciones generales.</td>
-    </tr>
-    <tr>
-      <td>1.14</td>
-      <td>2024/09/05</td>
-      <td>Velarde Gonzales, Néstor</td>
-      <td><b>Landing Page</b>, servicios y aplicaciones, bibliografía y conclusiones.</td>
-    </tr>
-    <tr>
-      <td>1.15</td>
-      <td>2024/09/06</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Prototipado web.</td>
-    </tr>
-    <tr>
-      <td>1.16</td>
-      <td>2024/09/06</td>
-      <td>Diestra Zambrano, Adriana María</td>
-      <td>Arquitectura de software basada en dominios (<b>Domain-Driven Software Architecture</b>).</td>
-    </tr>
-    <tr>
-      <td>1.17</td>
-      <td>2024/09/06</td>
-      <td>Diestra Zambrano, Adriana María</td>
-      <td>Arquitectura de software basada en dominios (<b>Domain-Driven Software Architecture</b>).</td>
-    </tr>
-    <tr>
-      <td>1.18</td>
-      <td>2024/09/06</td>
-      <td>Fernandez Remon, Roy Linsh</td>
-      <td>Diagrama de clases y diccionario de clases.</td>
-    </tr>
-    <tr>
-      <td>1.19</td>
-      <td>2024/09/06</td>
-      <td>Velarde Gonzales, Néstor</td>
-      <td><b>Conclusiones</b> y anexos.</td>
-    </tr>
-    <tr>
-      <td>2.0</td>
-      <td>2024/09/20</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Capítulo 5</td>
-    </tr>
-     <tr>
-      <td>2.1</td>
-      <td>2024/09/20</td>
-      <td>Velarde Gonzales, Néstor</td>
-      <td>Conclusiones y anexos.</td>
-    </tr>
-    <tr>
-      <td>3.0</td>
-      <td>2024/10/25</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td><b>Sprint 3</b>, evaluación según heurisiticas y conclusiones</td>
-    </tr>
-    <tr>
-      <td>4.0</td>
-      <td>2024/11/06</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Sprint 4 y conclusiones</td>
-    </tr>
-    <tr>
-      <td>4.1</td>
-      <td>2024/11/16</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Sprint Planning</td>
+      <td>2024/08/13</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -234,173 +90,16 @@
 
 **TB1**
 
-Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la siguiente forma:
-
-<table align="center" border="1">
-    <thead>
-        <tr>
-            <th>Integrante</th>
-            <th>Actividades Asignadas</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td>Capítulo 1, User Stories, Product Backlog, Style Guidelines, Landing Page UI Design, Web Application UX/UI, Information Architecture, Database Diagram, Sprint Planning y Sprint Backlog.</td>
-        </tr>
-        <tr>
-            <td>Velarde Gonzales, Néstor</td>
-            <td>Entrevistas Owner, User historias funcionales, Software Configuration Management, Diseño de prototipado para landing en Figma.</td>
-        </tr>
-        <tr>
-            <td>Diestra Zambrano, Adriana María</td>
-            <td>Entrevistas y Bounded Context Diagrams.</td>
-        </tr>
-        <tr>
-            <td>Hidalgo López, Mathias Adriano</td>
-            <td>Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping.</td>
-        </tr>
-        <tr>
-            <td>Jara Benitez, Quique Vladimir</td>
-            <td>Entrevista, Redacción del Análisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, User Journey Mapping, As-Is Scenario, Ubiquitous Language, Software Configuration, Software Development, Source Code Management, Source Code Style, Software Deployment, Testing Suite, Execution Evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
-        </tr>
-        <tr>
-            <td>Fernandez Remon, Roy Linsh</td>
-            <td>Entrevistas y Diagrama de Clases.</td>
-        </tr>
-    </tbody>
-</table>
-
-**TP**
-
-Para el desarrollo de la entrega TP, se optó por dividir el trabajo de la siguiente forma:
-
-<table align="center" border="1">
-    <thead>
-        <tr>
-            <th>Integrante</th>
-            <th>Actividades Asignadas</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
-        </tr>
-        <tr>
-            <td>Velarde Gonzales, Néstor Hernán</td>
-            <td>Conclusiones y Anexos</td>
-        </tr>
-        <tr>
-            <td>Diestra Zambrano, Adriana María</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Hidalgo López, Mathias Adriano</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Jara Benitez, Quique Vladimir</td>
-            <td> Service Documentation y Software Deployment.</td>
-        </tr>
-        <tr>
-            <td>Fernandez Remon, Roy Linsh</td>
-            <td>-</td>
-        </tr>
-    </tbody>
-</table>
-
-
-**TB2**
-
-Para el desarrollo de la entrega TB2, se optó por dividir el trabajo de la siguiente forma:
-
-<table align="center" border="1">
-    <thead>
-        <tr>
-            <th>Integrante</th>
-            <th>Actividades Asignadas</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence, Team Collaboration Insights y Evaluación según heuristicas.</td>
-        </tr>
-        <tr>
-            <td>Velarde Gonzales, Néstor</td>
-            <td>Entrevista, Conclusiones y Anexos</td>
-        </tr>
-        <tr>
-            <td>Diestra Zambrano, Adriana María</td>
-            <td>Entrevista</td>
-        </tr>
-        <tr>
-            <td>Hidalgo López, Mathias Adriano</td>
-            <td>Entrevista</td>
-        </tr>
-        <tr>
-            <td>Jara Benitez, Quique Vladimir</td>
-            <td>Entrevista, Service Documentation y Software Deployment.</td>
-        </tr>
-        <tr>
-            <td>Fernandez Remon, Roy Linsh</td>
-            <td>Entrevista</td>
-        </tr>
-    </tbody>
-</table>
-
-**TF**
-
-Para el desarrollo de la entrega TF, se optó por dividir el trabajo de la siguiente forma:
-
-<table align="center" border="1">
-    <thead>
-        <tr>
-            <th>Integrante</th>
-            <th>Actividades Asignadas</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td> Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
-        </tr>
-        <tr>
-            <td>Velarde Gonzales, Néstor</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Diestra Zambrano, Adriana María</td>
-            <td>Sprint Planning</td>
-        </tr>
-        <tr>
-            <td>Hidalgo López, Mathias Adriano</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Jara Benitez, Quique Vladimir</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Fernandez Remon, Roy Linsh</td>
-            <td>-</td>
-        </tr>
-    </tbody>
-</table>
-
 <div style="page-break-before: always;"></div>
 
 ## Student Outcome
 
-### ABET – EAC - Student Outcome 5
+### ABET – EAC - Student Outcome 4
 
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
+Criterio: La capacidad de reconocer responsabilidades éticas y
+profesionales en situaciones de ingeniería y hacer juicios informados, que deben
+considerar el impacto de las soluciones de ingeniería en contextos globales, económicos,
+ambientales y sociales
 
 <table align="center" border="1">
     <thead>
@@ -413,81 +112,9 @@ del ABET – EAC - Student Outcome 5.
     <tbody>
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-            <td>
-                <b>TB1</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: Realicé el análisis de entrevistas y "Bounded". Me enfoqué en la investigación de los segmentos de clientes y dueños de scooters eléctricos, desarrollé los 5W y 2H para analizar los datos a profundidad, y elaboré los diagramas de C4.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar decisiones colaborativas.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Realicé entrevistas para reconocer las necesidades principales de nuestro segmento de clientes. Elaboré el To-Be y el Impact Mapping para la creación del landing page.<br><br>
-                - <b>Quique Vladimir Jara Benites</b>: Realicé entrevistas a propietarios, desarrollé historias de usuario funcionales y no funcionales basadas en las entrevistas y colaboré en el desarrollo de la landing page usando GitHub Pages.<br><br>
-                - <b>Fernández Remón, Roy</b>: Realicé entrevistas para conocer las necesidades de los clientes y elaboré el diagrama de clases UML para organizar el desarrollo.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Realicé entrevistas para obtener necesidades de clientes y dueños, colaboré en historias de usuario y el diseño de prototipos en Figma.<br><br><br>
-                <b>TP</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: Colaboro en equipo para liderar la implementación del front-end, la conexión a la API y funcionalidades como <code>i18n</code> y el componente de <code>Not Found</code>. Aseguro la planificación y ejecución del sprint, ajustando el sprint backlog junto al equipo y asegurando que las evidencias reflejen el progreso colectivo.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: Trabajo en equipo para implementar el login y registro en el front-end, asegurando un flujo de autenticación intuitivo. Superviso el progreso y me adapto a los cambios necesarios en el proceso.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Trabajo en equipo para diseñar y desarrollar un sistema de interfaz de usuario donde los usuarios pueden dejar reseñas sobre scooters, asumiendo un rol de liderazgo compartido.<br><br>
-                - <b>Quique Vladimir Jara Benites</b>: Lidero la implementación de la funcionalidad de eliminación, garantizando que el proceso sea efectivo y cumpla con los estándares de seguridad.<br><br>
-                - <b>Fernández Remón, Roy</b>: Lidero la creación de preguntas frecuentes y políticas de privacidad.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Participo activamente en la creación de la pantalla para subir y editar scooters, asegurando un liderazgo colaborativo.<br><br>
-              <b>TB2</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>:  Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambien ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella y correcciones del front-end. <br><br>
-                - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br><br>
-                - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 0% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
-              <b>TF</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>:  <br> Me encargué de trabajar en el backend realizando pruebas para garantizar su correcto funcionamiento, contribuyendo al cumplimiento de los objetivos del proyecto.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta cuarta y ultima entrega, trabajé en conjunto para proporcionar los pendientes y asignar las partes obligatorias a realizar de cada miembro del equipo.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: <br><br>
-                - <b>Quique Vladimir Jara Benites</b>: <br><br>
-                - <b>Fernández Remón, Roy</b>: <br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br><br>
-            </td>
-            <td>
-                <b>TB1</b>: Se cumplió con los objetivos y se entregó un documento detallado que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
-                <b>TP</b>: Se desarrolló un front-end sobresaliente, completando funcionalidades clave como reseñas de scooters, login, registro y eliminación, reflejando un proceso detallado de planificación y entrega del proyecto. <br><br>
-               <b>TB2</b>: Se culminó el front-end de la aplicación, completando todas las funcionalidades. Además de realizar un avance con el backend de la aplicación. <br><br>
-              <b>TF</b>: Se corrigió el front-end de la aplicación, se culminó el desarrollo del backend y se hicieron los despliegues y vinvulaciones respectivas. <br><br>
-            </td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-            <td>
-                <b>TB1</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Realicé entrevistas y creé el To-Be mapping y el Impact Mapping.<br><br>
-                - <b>Quique Vladimir Jara Benites</b>: Realicé entrevistas y colaboré en historias de usuario, ayudando a cumplir objetivos.<br><br>
-                - <b>Fernández Remón, Roy</b>: Realicé entrevistas y elaboré el class dictionary para organizar los atributos.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Propuse preguntas para entrevistas y realicé Empathy Maps.<br><br>
-                <b>TP1</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: Fomento un entorno inclusivo mientras desarrollo la pantalla de subir y editar scooters, asegurando que cada miembro tenga un rol activo.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: Implemento funcionalidades de login y registro, estableciendo metas claras y planificando en equipo.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Fomento un entorno colaborativo estableciendo metas claras y planificando de manera organizada con el equipo.<br><br>
-                - <b>Quique Vladimir Jara Benites</b>: Fomento un entorno inclusivo al desarrollar la funcionalidad de eliminar, estableciendo metas claras y planificando con el equipo.<br><br>
-                - <b>Fernández Remón, Roy</b>: Creo un entorno colaborativo al desarrollar preguntas frecuentes y políticas de privacidad, estableciendo metas específicas en cada fase.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Desarrollo la pantalla para subir y editar scooters, asegurando que todos los miembros del equipo participen activamente.<br><br>
-              <b>TB2</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: <br>Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
-                - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br><br>
-                - <b>Fernández Remón, Roy</b>: <br>Colaboré con las entrevistas asignadas en el documento.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión y despliegue a la nube.<br/><br>
-              <b>TF</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: <br> Cumplí con las tareas asignadas dentro del plazo establecido y colaboré activamente con mi equipo, asegurando una comunicación clara para alcanzar los objetivos del proyecto.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo deadlines para la realización de tareas y pronta culminación del proyecto.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
-                - <b>Quique Vladimir Jara Benites</b>: <br><br>
-                - <b>Fernández Remón, Roy</b>:<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br><br>
-            </td>
-            <td>
-                <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
-                <b>TP1</b>: Se cumplieron los objetivos, implementando funcionalidades esenciales como reseñas, login y registro, asegurando la calidad del proyecto en cada fase.<br><br>
-              <b>TB2</b>: Se cumplieron los objetivos, implementando todas las funcionalidades pendientes en el front end y se avanzaron los endpoints escenciales como el de scooter y suscripción.<br><br>
-              <b>TF</b>: Se cumplieron los objetivos, corrigiendo los puntos de mejora del front end proporcionados por el profesor en la retroalimentación de la entrega anterior y se terminaron los endpoints en el backend.<br><br>
-            </td>
         </tr>
     </tbody>
 </table>
@@ -660,35 +287,18 @@ Somos CiberMach, una startup conformada por 6 estudiantes de la Universidad Peru
     </thead>
     <tbody>
         <tr>
-            <td>Adriana María Diestra Zambrano</td>
-            <td><img src="https://github.com/user-attachments/assets/4bb2fc25-e51f-4b85-bb7c-bc94d02323d4" alt="Foto de Adriana María Diestra Zambrano"/></td>
-            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
+            <td>Gustavo Huilca Chipana</td>
+            <td><img src="assets/chapter-01/photos/Gustavo-Huilca-Chipana.png" alt="Gustavo Huilca Chipana"/></td>
+            <td>Cuento con conocimientos en UI/UX design, trabajo colaborativo de desarrollos ágiles a través de SCRUM, desarrollo de aplicaciones web y móvil haciendo uso de los frameworks Vue, Angular, Astro, ASP.NET Core y Spring Boot; así como habilidades blandas que me permiten a mí y a mis compañeros trabajar de forma organizada y eficiente, priorizando la comunicación y la participación permanente.</td>
         </tr>
         <tr>
-            <td>Bárbara Antonella Espinoza Delgado</td>
-            <td><img src="https://github.com/user-attachments/assets/23213ed8-9966-4c39-8be3-d7d895b670c7" alt="Foto de Bárbara Antonella Espinoza Delgado"/></td>
-            <td>Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
-        <tr>
-            <td>Mathias Adriano Hidalgo Lopez</td>
-            <td><img src="https://github.com/user-attachments/assets/34c47867-1556-49e3-8349-28e7d37275f4" alt="Foto de Mathias Adriano Hidalgo Lopez"/></td>
-            <td>Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C#, entre otros.</td>
-        </tr>
-        <tr>
-            <td>Néstor Velarde Gonzales</td>
-            <td><img src="https://github.com/user-attachments/assets/a93d3997-ae00-4c2f-b98e-98c7b2ad8662" alt="Foto de Néstor Velarde Gonzales"/></td>
-            <td>Estudiante de la carrera de Ingeniería de Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologías de desarrollo. Tengo experiencia desarrollando pequeños proyectos basados en sistemas de electrónica y sé programación en Python, C++, Arduino, Logo soft.</td>
-        </tr>
-        <tr>
-            <td>Quique Vladimir Jara Benites</td>
-            <td><img src="https://github.com/user-attachments/assets/9c33067f-1712-4333-be1d-f2c15e00918a" alt="Foto de Quique Vladimir Jara Benites"/></td>
-            <td>Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones.</td>
-        </tr>
-        <tr>
-            <td>Roy Linsh Fernandez Remon</td>
-            <td><img src="https://github.com/user-attachments/assets/88f9a4e9-750a-4fbe-b19e-2d17bc03402e" alt="Foto de Roy Linsh Fernandez Remon"/></td>
-            <td>Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
-        </tr>
+        <tr> </tr>
+        <tr></tr>
+        <tr></tr>
     </tbody>
 </table>
 
