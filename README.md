@@ -111,39 +111,51 @@ ambientales y sociales
     </thead>
     <tbody>
         <tr>
-            <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+            <td>Reconoce responsabilidad
+ética y profesional en
+situaciones de ingeniería de
+software
+</td>
             <td>
                 <p style="font-weight:bold">Mathias Alejandro Jave Diaz:</p> 
-                TB1: Durante esta entrega, lideré el desarrollo de la aplicación móvil en Flutter, aplicando principios de arquitectura limpia y gestionando el backend con CQRS y DDD. Tomé decisiones clave sobre la arquitectura y la integración del sistema, guiando al equipo de manera técnica. Esta experiencia reforzó mis habilidades de liderazgo técnico, trabajo colaborativo y comunicación.
+                TB1: Durante esta entrega, Identifiqué algunos riesgos éticos y de privacidad en el proyecto de software, sobre todo relacionados con la protección de datos personales de los usuarios. Trabajé en conjunto con el equipo para establecer medidas de seguridad y privacidad, asegurando que la información de los usuarios estuviera protegida. Esta experiencia me permitió mejorar mis habilidades en la identificación y gestión de riesgos éticos en proyectos de software.
                 <p style="font-weight:bold">Mathias Adriano Hidalgo Lopez:</p> 
-                TB1: En esta entrega, asumí un rol de liderazgo junto con el equipo, promoviendo un entorno inclusivo y asegurando que todos pudieran aportar ideas. Fui responsable del desarrollo de la aplicación web en Vue.js, alineando la interfaz a los objetivos del proyecto y coordinando su integración con el sistema. Esta colaboración fortaleció mis habilidades de liderazgo y comunicación en equipo.
+                TB1: En esta entrega, Analicé si las decisiones técnicas del proyecto respetan principios éticos establecidos por organizaciones como la ACM o IEEE, de esta manera, me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales. Trabajé en conjunto con el equipo para identificar y mitigar riesgos éticos relacionados con la privacidad y la seguridad de los datos de los usuarios.
                 <p style="font-weight:bold">Sebastian Valente Lobato Pozo:</p>
-                TB1: Trabajé estrechamente con el equipo, colaborando activamente en el desarrollo de la aplicación móvil en Flutter. Fomenté un ambiente inclusivo donde todos los miembros del equipo pudieron aportar sus ideas y opiniones. Mi responsabilidad principal fue apoyar en el desarrollo de la app, asegurando que la implementación fuera eficiente y alineada con los objetivos del proyecto. Esta experiencia me permitió mejorar mis habilidades de trabajo en equipo, liderazgo y comunicación, contribuyendo al éxito del proyecto.
+                TB1: En esta entrega, me pude reconocer posibles conflictos de interés durante la revisión del proyecto y pude comunicar alternativas para resolverlos. De esta manera, me aseguré de que en equipo podamos tomar decisiones con transparencia y responsabilidad en el desarrollo del software.
                 <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
-                TB1: Trabajé estrechamente con el equipo, asumiendo un rol activo en el liderazgo conjunto. Fomenté un ambiente inclusivo donde todos los miembros del equipo pudieron aportar sus ideas y opiniones. Mi responsabilidad principal fue liderar el desarrollo de la aplicación web en Vue.js, asegurando su eficiencia e integración con el backend. Esta experiencia me permitió mejorar mis habilidades de liderazgo y comunicación en un ambiente de trabajo colaborativo.
-                <p style="font-weight:bold">Belén Alexandra Ramos Arguelles:</p>
-                TB1: Colaboré estrechamente con el equipo en el desarrollo de la aplicación móvil en Flutter, asegurando que cada miembro tuviera la oportunidad de aportar sus ideas y opiniones. Mi enfoque principal fue apoyar en la implementación de las funcionalidades, asegurando que la app fuera eficiente y bien integrada con el backend. Esta experiencia fortaleció mis habilidades de trabajo en equipo, liderazgo y comunicación, mejorando mi capacidad para contribuir al éxito del proyecto de manera efectiva.
-            </td>
+                TB1: En esta entrga, me ancargué de evaluar si el diseño del software considera la accesibilidad y la inclusión de todos los usuarios, y propuse mejoras para garantizar que la aplicación sea accesible para personas con discapacidades. Esto me permitió mejorar mis habilidades en la identificación y gestión de riesgos éticos en proyectos de software, así como en la promoción de la inclusión y la diversidad en el desarrollo de software.
+<p style="font-weight:bold">Belén Alexandra Ramos Arguelles:</p>
+                TB1: Me encargué de la revisión y la justificación del uso de herramientas y bibliotecas de terceros considerando aspectos éticos como licencias y propiedad intelectual durante esta entrega, de forma que pudiera asegurarme de que el proyecto cumpla con los estándares éticos y legales establecidos.
+</td>
             <td>
-                La definición de metas claras y la iniciativa de liderazgo para contribuir con las metas definidas para el trabajo fueron claves un desarrollo eficiente de la aplicación móvil y web, alineando cada parte con los objetivos del proyecto.
-            </td>
+                En esta entrega, cada miembro del equipo trabajó para identificar y mitigar riesgos éticos relacionados con la privacidad y la seguridad de los datos de los usuarios. Se establecieron medidas de seguridad y privacidad, asegurando que la información de los usuarios estuviera protegida. Además, se promovió la inclusión y la diversidad en el desarrollo del software, considerando la accesibilidad y la inclusión de todos los usuarios.
+</td>
         </tr>
         <tr>
-            <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+            <td>Emite juicios informados
+considerando el impacto de las
+soluciones de ingeniería de
+software en contextos globales,
+económicos, ambientales y
+sociales
+</td>
             <td>
                 <p style="font-weight:bold">Mathias Alejandro Jave Diaz:</p>
-                TB1: Durante esta entrega, trabajé para crear un entorno colaborativo, proporcionando retroalimentación constante y fomentando las mejores prácticas de desarrollo. Junto al equipo, establecimos metas claras y planificamos tareas para cumplir con los objetivos. Esta experiencia fortaleció mis habilidades de planificación, trabajo en equipo y compromiso con los objetivos del proyecto.
-                <p style="font-weight:bold">Mathias Adriano Hidalgo Lopez:</p> 
-                TB1: Fomenté un ambiente colaborativo e inclusivo, alentando la participación activa de todos los miembros del equipo. Juntos, definimos metas claras y planificamos tareas para garantizar que los objetivos se cumplieran. Mi rol fue crucial para asegurar que la aplicación web se desarrollara eficientemente y alineada con los objetivos experimentales, contribuyendo al éxito del proyecto.
-                <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
-                TB1: Durante esta entrega, aseguré que se creara un ambiente colaborativo e inclusivo, promoviendo la participación de todos los miembros del equipo. Establecimos metas claras y planificamos las tareas necesarias para cumplir con los objetivos del proyecto. Mi principal tarea fue el desarrollo de la aplicación web en Vue.js, alineando la interfaz con los objetivos y garantizando la integración exitosa del sistema. Esta experiencia reforzó mis habilidades de planificación y colaboración.
-                <p style="font-weight:bold">Sebastian Valente Lobato Pozo:</p>
-                TB1: Durante esta entrega, trabajé activamente para fomentar un entorno de trabajo colaborativo e inclusivo, alentando la participación y aportes de todos los miembros del equipo. Junto con mis compañeros, ayudamos a establecer metas claras y a planificar las tareas necesarias para cumplir con los objetivos del proyecto. Mi enfoque principal fue colaborar en el desarrollo de la aplicación móvil en Flutter, asegurando que la implementación fuera eficiente y alineada con los objetivos establecidos. Esta experiencia me permitió mejorar mis habilidades en planificación y trabajo en equipo, y fortalecer mi capacidad para contribuir al éxito del proyecto.
-                <p style="font-weight:bold">Belén Alexandra Ramos Arguelles:</p>
-                TB1: Durante esta entrega, colaboré estrechamente con el equipo para crear un entorno inclusivo, alentando la participación activa de todos los miembros. Juntos, establecimos metas claras y planificamos las tareas necesarias para alcanzar los objetivos del proyecto. Mi principal responsabilidad fue trabajar en el desarrollo de la aplicación móvil en Flutter, apoyando en la implementación eficiente de las funcionalidades y asegurando que el desarrollo estuviera alineado con los objetivos del proyecto. Esta experiencia fortaleció mis habilidades de trabajo en equipo y mi capacidad de cumplir con los plazos establecidos.
-            </td>
+                TB1: Durante esta entrega, evalué cómo el software puede impactar a usuarios de diferentes culturas y regiones, considerando su adaptabilidad y alcance global en el desarrollo del software.
+<p style="font-weight:bold">Mathias Adriano Hidalgo Lopez:</p> 
+                TB1: Durante esta entrega, analicé el impacto ambiental del software en el contexto de la movilidad urbana y propuse soluciones para mitigar su huella de carbono. 
+<p style="font-weight:bold">Gustavo Huilca Chipana:</p>
+                TB1: En esta entrega, evalué el impacto social del software en la movilidad urbana y propuse soluciones para mejorar la calidad de vida de los usuarios. Me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales, considerando su impacto en la sociedad.
+<p style="font-weight:bold">Sebastian Valente Lobato Pozo:</p>
+                TB1: Durante esta entrega, trabajé activamente para fomentar un entorno de trabajo colaborativo e inclusivo, alentando la participación y aportes de todos los miembros del equipo. Junto con mis compañeros, ayudamos a establecer metas claras y a planificar las tareas necesarias para cumplir con los objetivos del proyecto. 
+<p style="font-weight:bold">Belén Alexandra Ramos Arguelles:</p>
+                TB1: En esta entrega pude hacer recomendaciones informadas que equilibren la viabilidad técnica del proyecto con su responsabilidad social, económica y ambiental.
+
+
+</td>
             <td>
-                La planificación adecuada y la creación de un entorno inclusivo y colaborativo fueron factores clave para el éxito del proyecto. Cada miembro del equipo contribuyó con sus habilidades y responsabilidades para cumplir con los objetivos establecidos, logrando un resultado exitoso.
+                En esta entrega, cada miembro del equipo trabajó para evaluar el impacto social, económico y ambiental del software en la movilidad urbana. Se promovió un entorno de trabajo colaborativo e inclusivo, alentando la participación y aportes de todos los miembros del equipo. Se establecieron metas claras y se planificaron las tareas necesarias para cumplir con los objetivos del proyecto. Además, se hicieron recomendaciones informadas que equilibran la viabilidad técnica del proyecto con su responsabilidad social, económica y ambiental.
             </td>
         </tr>
     </tbody>
@@ -2675,7 +2687,7 @@ Para nuestro proyecto se incluyen videos de cada uno de los prototipos realizado
 
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
 
-![Web Database Diagram](https://github.com/user-attachments/assets/abc1c1fd-eb6d-4bd1-9a52-c93867822c18)
+![Web Database Diagram](https://raw.githubusercontent.com/Diseno-de-Experimentos-4453-Grupo-4/Final-Report/refs/heads/main/assets/chapter-04/DataBase/database-diagram.jpeg)
 
 
 <div style="page-break-before: always;"></div>
