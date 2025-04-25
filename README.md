@@ -112,20 +112,31 @@ ambientales y sociales
     <tbody>
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-          <td> <p style="font-weight:bold">      Mathias Jave: </p> TB1: Me encargué del desarrollo de la aplicación móvil en Flutter, aplicando principios de arquitectura limpia, y del backend utilizando CQRS y DDD para una lógica alineada al dominio.  
-          Asumí liderazgo técnico, guiando decisiones sobre la arquitectura e integración del sistema.  
-          Esta experiencia reforzó mis habilidades técnicas, de comunicación, trabajo colaborativo y liderazgo.
-          </td>
+            <td>
+                <p style="font-weight:bold">Mathias Alejandro Jave Diaz:</p> 
+                TB1: Durante esta entrega, lideré el desarrollo de la aplicación móvil en Flutter, aplicando principios de arquitectura limpia y gestionando el backend con CQRS y DDD. Tomé decisiones clave sobre la arquitectura y la integración del sistema, guiando al equipo de manera técnica. Esta experiencia reforzó mis habilidades de liderazgo técnico, trabajo colaborativo y comunicación.
+                <p style="font-weight:bold">Mathias Adriano Hidalgo Lopez:</p> 
+                TB1: En esta entrega, asumí un rol de liderazgo junto con el equipo, promoviendo un entorno inclusivo y asegurando que todos pudieran aportar ideas. Fui responsable del desarrollo de la aplicación web en Vue.js, alineando la interfaz a los objetivos del proyecto y coordinando su integración con el sistema. Esta colaboración fortaleció mis habilidades de liderazgo y comunicación en equipo.
+                <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
+                TB1: Trabajé estrechamente con el equipo, asumiendo un rol activo en el liderazgo conjunto. Fomenté un ambiente inclusivo donde todos los miembros del equipo pudieron aportar sus ideas y opiniones. Mi responsabilidad principal fue liderar el desarrollo de la aplicación web en Vue.js, asegurando su eficiencia e integración con el backend. Esta experiencia me permitió mejorar mis habilidades de liderazgo y comunicación en un ambiente de trabajo colaborativo.
+            </td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
             <td>
-            <p style="font-weight:bold">      Mathias Jave: </p>
-            TB1: Durante esta entrega, fomenté un entorno colaborativo e inclusivo brindando retroalimentación al equipo y fomentando el cumplimiento de las buenas prácticas a nivel de desarrollo, también participé en la planificación de metas y tareas para cumplir con los objetivos del trabajo.  
-          </td>
+                <p style="font-weight:bold">Mathias Alejandro Jave Diaz:</p>
+                TB1: Durante esta entrega, trabajé para crear un entorno colaborativo, proporcionando retroalimentación constante y fomentando las mejores prácticas de desarrollo. Junto al equipo, establecimos metas claras y planificamos tareas para cumplir con los objetivos. Esta experiencia fortaleció mis habilidades de planificación, trabajo en equipo y compromiso con los objetivos del proyecto.
+                <p style="font-weight:bold">Mathias Adriano Hidalgo Lopez:</p> 
+                TB1: Fomenté un ambiente colaborativo e inclusivo, alentando la participación activa de todos los miembros del equipo. Juntos, definimos metas claras y planificamos tareas para garantizar que los objetivos se cumplieran. Mi rol fue crucial para asegurar que la aplicación web se desarrollara eficientemente y alineada con los objetivos experimentales, contribuyendo al éxito del proyecto.
+                <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
+                TB1: Durante esta entrega, aseguré que se creara un ambiente colaborativo e inclusivo, promoviendo la participación de todos los miembros del equipo. Establecimos metas claras y planificamos las tareas necesarias para cumplir con los objetivos del proyecto. Mi principal tarea fue el desarrollo de la aplicación web en Vue.js, alineando la interfaz con los objetivos y garantizando la integración exitosa del sistema. Esta experiencia reforzó mis habilidades de planificación y colaboración.
+            </td>
         </tr>
     </tbody>
 </table>
+
+
+
 <div style="page-break-before: always;"></div>
 
 ## Project Report Online
