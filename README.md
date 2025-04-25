@@ -2500,7 +2500,7 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 
 ![Landing Page Mockup 1](https://github.com/user-attachments/assets/fb2f4208-709e-4ba0-9a07-c1d5fc008563)
 
-![Landing Page Mockup 2](https://github.com/user-attachments/assets/96402d9c-4f76-46c6-8801-51ceff1ae758)
+![Landing Page Mockup 2](assets/chapter-04/images/Image1.png)
 
 ![LandingPage Mockup movil](https://github.com/user-attachments/assets/4546e3bb-e1aa-444b-bf01-39edce322348)
 
