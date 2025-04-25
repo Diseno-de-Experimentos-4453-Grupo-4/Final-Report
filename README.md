@@ -1743,24 +1743,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US12</td>
-        <td>Eliminar cuenta de usuario</td>
-        <td><b>Como</b> Owner/Cliente de MoviRent 
-        <b>Quiero</b> eliminar mi cuenta de usuario
-        <b>Para</b> dejar de usar los servicios de la aplicación</td>
-        <td>
-            <b>Scenario 1: Owner/Cliente elimina cuenta de usuario </b> <br/>
-            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
-            <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil <br><b>Y</b> confirme su intención para proceder con la operación<br/>
-            <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
-            <br>
-            <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario</b> <br/>
-            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
-            <b>Cuando</b> niegue su intención para proceder con la operación<br/>
-            <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US13</td>
         <td>Publicar scooter en alquiler</td>
         <td><b>Como</b> Owner de un scooter eléctrico  
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
@@ -1783,7 +1765,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US14</td>
+        <td>US13</td>
         <td>Visualizar un scooter en alquiler</td>
         <td><b>Como</b> Owner de un scooter eléctrico 
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
@@ -1801,7 +1783,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US15</td>
+        <td>US14</td>
         <td>Editar Scooter en alquiler</td>
         <td><b>Como</b> Owner de un scooter eléctrico 
         <b>Quiero</b> editar la publicación de mi scooter
@@ -1824,7 +1806,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US16</td>
+        <td>US15</td>
         <td>Eliminar scooter en alquiler</td>
         <td><b>Como</b> Owner 
         <b>Quiero</b> eliminar un scooter en alquiler
@@ -1842,7 +1824,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US17</td>
+        <td>US16</td>
         <td>Búsqueda de scooters cercano</td>
         <td><b>Como</b> cliente de MoviRent 
         <b>Quiero</b> poder buscar scooters disponibles en mi distrito
@@ -1860,7 +1842,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US18</td>
+        <td>US17</td>
         <td>Alquiler Scooter</td>
         <td><b>Como</b> Cliente de MoviRent
         <b>Quiero</b> alquilar un scooter
@@ -1883,7 +1865,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US19</td>
+        <td>US18</td>
         <td>Calificación y reseñas</td>
         <td><b>Como</b> cliente de MoviRent
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
@@ -1901,7 +1883,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US20</td>
+        <td>US19</td>
         <td>Visualizar historial de scooters alquilados</td>
         <td><b>Como</b> Cliente de MoviRent
         <b>Quiero</b> visualizar mi historial de scooters alquilados
@@ -1919,25 +1901,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US21</td>
-        <td>Borrar historial de scooters alquilados</td>
-        <td><b>Como</b> Cliente de MoviRent
-        <b>Quiero</b> o borrar mi historial de scooters alquilados
-        <b>Para</b> ya no tener información que considere innecesaria. </td>
-        <td>
-            <b>Scenario 1: Cliente elimina su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> confirme la acción<br/>
-            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado <br><b>Y</b> ya no mostrará la información del historial<br/>
-            <br>
-            <b>Scenario 2: Cliente no elimina su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> cancele la acción. <br/>
-            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado <br><b>Y</b> seguirá mostrando la información del historial.<br/>
-        <td>EP05</td>
-    </tr>
-    <tr>
-        <td>US22</td>
+        <td>US20</td>
         <td>Adquirir plan</td>
         <td><b>Como</b> Cliente de MoviRent 
         <b>Quiero</b> Comprar un plan
@@ -1962,24 +1926,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
-        <td>EP06</td>
-    </tr>
-    <tr>
-        <td>US23</td>
-        <td>Cancelar suscripción </td>
-        <td><b>Como</b> Cliente de MoviRent
-        <b>Quiero</b> cancelar mi suscripción
-        <b>Para</b> ya no seguir teniendo cobros de esta. </td>
-        <td>
-            <b>Scenario 1: Cliente cancela una membresía en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> se confirme la acción<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha cancelado con éxito.<br/>
-            <br>
-            <b>Scenario 2: Cliente no cancela una membresía en MoviTech</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
-            <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> no confirme la acción<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
     </tr>
     <tr>
@@ -2265,118 +2211,95 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
-    <td valign="top"> Eliminar cuenta de usuario </td>
-    <td valign="top"> Como Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
-    <td valign="top"> 3 </td>
-  </tr>
-  <tr>
-    <td valign="top"> 13 </td>
-    <td valign="top"> US13 </td>
     <td valign="top"> Publicar scooter en alquiler </td>
     <td valign="top"> Como Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
-    <td valign="top"> 14 </td>
-    <td valign="top"> US14 </td>
+    <td valign="top"> 13 </td>
+    <td valign="top"> US13 </td>
     <td valign="top"> Visualizar un scooter en alquiler </td>
     <td valign="top"> Como Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
-    <td valign="top"> 15 </td>
-    <td valign="top"> US15 </td>
+    <td valign="top"> 14 </td>
+    <td valign="top"> US14 </td>
     <td valign="top"> Editar Scooter en alquiler </td>
     <td valign="top"> Como Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
-    <td valign="top"> 16 </td>
-    <td valign="top"> US16 </td>
+    <td valign="top"> 15 </td>
+    <td valign="top"> US15 </td>
     <td valign="top"> Eliminar scooter en alquiler </td>
     <td valign="top"> Como Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
     <td valign="top"> 3 </td>
   </tr>
     <tr>
-    <td valign="top"> 17 </td>
-    <td valign="top"> US17 </td>
+    <td valign="top"> 16 </td>
+    <td valign="top"> US16 </td>
     <td valign="top"> Búsqueda de scooters cercano </td>
     <td valign="top"> Como cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
     <td valign="top"> 8 </td>
   </tr>
       <tr>   
   <tr>
-    <td valign="top"> 18 </td>
-    <td valign="top"> US18 </td>
+    <td valign="top"> 17 </td>
+    <td valign="top"> US17 </td>
     <td valign="top"> Alquiler Scooter </td>
     <td valign="top"> Como Cliente de MoviRent Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
     <td valign="top"> 5 </td>
   </tr>
    <tr>
-    <td valign="top"> 19 </td>
-    <td valign="top"> US19 </td>
+    <td valign="top"> 18 </td>
+    <td valign="top"> US18 </td>
     <td valign="top"> Calificación y reseñas </td>
     <td valign="top"> Como cliente de MoviRent Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
-    <td valign="top"> 20 </td>
-    <td valign="top"> US20 </td>
+    <td valign="top"> 19 </td>
+    <td valign="top"> US19 </td>
     <td valign="top"> Visualizar historial de scooters alquilados </td>
     <td valign="top"> Como Cliente de MoviRent Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
     <td valign="top"> 5 </td>
-  </tr>
       <tr>
-    <td valign="top"> 21 </td>
-    <td valign="top"> US21 </td>
-    <td valign="top"> Borrar historial de scooters alquilados </td>
-    <td valign="top"> Como Cliente de MoviRent Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
-    <td valign="top"> 3 </td>
-  </tr>
-      <tr>
-    <td valign="top"> 22 </td>
-    <td valign="top"> US22 </td>
+    <td valign="top"> 20 </td>
+    <td valign="top"> US20 </td>
     <td valign="top"> Adquirir plan </td>
     <td valign="top"> Como Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
     <td valign="top"> 5 </td>
-  </tr>
-      <tr>
-    <td valign="top"> 23 </td>
-    <td valign="top"> US23 </td>
-    <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Como Cliente de MoviRent Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 3 </td>
-  </tr>
      <tr>
-    <td valign="top"> 24 </td>
+    <td valign="top"> 21 </td>
     <td valign="top"> TS01 </td>
     <td valign="top"> Endpoint User </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /user Para gestionar los datos de los usuarios.</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 25 </td>
+    <td valign="top"> 22 </td>
     <td valign="top"> TS02 </td>
     <td valign="top"> Endpoint Scooter </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /scooter Para gestionar los datos de los scooters</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 26 </td>
+    <td valign="top"> 23 </td>
     <td valign="top"> TS03 </td>
     <td valign="top"> Endpoint Suscription </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /suscription Para gestionar los datos de las suscripciones.</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 27 </td>
+    <td valign="top"> 24 </td>
     <td valign="top"> TS04 </td>
     <td valign="top"> Endpoint Historial </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales.</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 28 </td>
+    <td valign="top"> 25 </td>
     <td valign="top"> TS05 </td>
     <td valign="top"> Endpoint Review </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /reviews Para gestionar los datos de las reseñas</td>
