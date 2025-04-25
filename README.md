@@ -340,7 +340,9 @@ Somos CiberMach, una startup conformada por 6 estudiantes de la Universidad Peru
             <td> <img src="assets/chapter-01/photos/Mathias-Jave.jpeg"/> </td>
             <td>Cuento con experiencia en el desarrollo web y móvil, trabajando con frameworks como ASP.NET Core, NestJS y Spring Boot en el backend, así como React, Vue y Angular en el frontend, y Flutter para aplicaciones móviles. Además, tengo conocimientos en Arquitectura de Software y en la implementación de marcos de trabajo ágiles, especialmente Scrum. Me destaco por mi capacidad de autoorganización y aprendizaje autónomo.</td>
         </tr>
-        <tr> </tr>
+        <tr><td>Mathias Adriano Hidalgo Lopez</td>
+            <td> <img src="assets/chapter-01/photos/Mathias.jpeg"/></td>
+            <td>Cuento con conocimientos en UI/UX desing, trabajo colaborativos y en desarrollo de aplicaciones web. Manejo varios lenguajes de programacion como Vue, Angular, ASP.NET, C#; asi mismo poseo habilidades blandas que me permiten a tener mejor rendimiento en los proyectos con mi equipo de trabajo de forma organizada.</td> </tr>
         <tr></tr>
         <tr></tr>
     </tbody>
