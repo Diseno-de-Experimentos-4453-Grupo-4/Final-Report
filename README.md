@@ -117,8 +117,15 @@ ambientales y sociales
                 TB1: Durante esta entrega, lideré el desarrollo de la aplicación móvil en Flutter, aplicando principios de arquitectura limpia y gestionando el backend con CQRS y DDD. Tomé decisiones clave sobre la arquitectura y la integración del sistema, guiando al equipo de manera técnica. Esta experiencia reforzó mis habilidades de liderazgo técnico, trabajo colaborativo y comunicación.
                 <p style="font-weight:bold">Mathias Adriano Hidalgo Lopez:</p> 
                 TB1: En esta entrega, asumí un rol de liderazgo junto con el equipo, promoviendo un entorno inclusivo y asegurando que todos pudieran aportar ideas. Fui responsable del desarrollo de la aplicación web en Vue.js, alineando la interfaz a los objetivos del proyecto y coordinando su integración con el sistema. Esta colaboración fortaleció mis habilidades de liderazgo y comunicación en equipo.
+                <p style="font-weight:bold">Sebastian Valente Lobato Pozo:</p>
+                TB1: Trabajé estrechamente con el equipo, colaborando activamente en el desarrollo de la aplicación móvil en Flutter. Fomenté un ambiente inclusivo donde todos los miembros del equipo pudieron aportar sus ideas y opiniones. Mi responsabilidad principal fue apoyar en el desarrollo de la app, asegurando que la implementación fuera eficiente y alineada con los objetivos del proyecto. Esta experiencia me permitió mejorar mis habilidades de trabajo en equipo, liderazgo y comunicación, contribuyendo al éxito del proyecto.
                 <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
                 TB1: Trabajé estrechamente con el equipo, asumiendo un rol activo en el liderazgo conjunto. Fomenté un ambiente inclusivo donde todos los miembros del equipo pudieron aportar sus ideas y opiniones. Mi responsabilidad principal fue liderar el desarrollo de la aplicación web en Vue.js, asegurando su eficiencia e integración con el backend. Esta experiencia me permitió mejorar mis habilidades de liderazgo y comunicación en un ambiente de trabajo colaborativo.
+                <p style="font-weight:bold">Belén Alexandra Ramos Arguelles:</p>
+                TB1: Colaboré estrechamente con el equipo en el desarrollo de la aplicación móvil en Flutter, asegurando que cada miembro tuviera la oportunidad de aportar sus ideas y opiniones. Mi enfoque principal fue apoyar en la implementación de las funcionalidades, asegurando que la app fuera eficiente y bien integrada con el backend. Esta experiencia fortaleció mis habilidades de trabajo en equipo, liderazgo y comunicación, mejorando mi capacidad para contribuir al éxito del proyecto de manera efectiva.
+            </td>
+            <td>
+                La definición de metas claras y la iniciativa de liderazgo para contribuir con las metas definidas para el trabajo fueron claves un desarrollo eficiente de la aplicación móvil y web, alineando cada parte con los objetivos del proyecto.
             </td>
         </tr>
         <tr>
@@ -130,6 +137,13 @@ ambientales y sociales
                 TB1: Fomenté un ambiente colaborativo e inclusivo, alentando la participación activa de todos los miembros del equipo. Juntos, definimos metas claras y planificamos tareas para garantizar que los objetivos se cumplieran. Mi rol fue crucial para asegurar que la aplicación web se desarrollara eficientemente y alineada con los objetivos experimentales, contribuyendo al éxito del proyecto.
                 <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
                 TB1: Durante esta entrega, aseguré que se creara un ambiente colaborativo e inclusivo, promoviendo la participación de todos los miembros del equipo. Establecimos metas claras y planificamos las tareas necesarias para cumplir con los objetivos del proyecto. Mi principal tarea fue el desarrollo de la aplicación web en Vue.js, alineando la interfaz con los objetivos y garantizando la integración exitosa del sistema. Esta experiencia reforzó mis habilidades de planificación y colaboración.
+                <p style="font-weight:bold">Sebastian Valente Lobato Pozo:</p>
+                TB1: Durante esta entrega, trabajé activamente para fomentar un entorno de trabajo colaborativo e inclusivo, alentando la participación y aportes de todos los miembros del equipo. Junto con mis compañeros, ayudamos a establecer metas claras y a planificar las tareas necesarias para cumplir con los objetivos del proyecto. Mi enfoque principal fue colaborar en el desarrollo de la aplicación móvil en Flutter, asegurando que la implementación fuera eficiente y alineada con los objetivos establecidos. Esta experiencia me permitió mejorar mis habilidades en planificación y trabajo en equipo, y fortalecer mi capacidad para contribuir al éxito del proyecto.
+                <p style="font-weight:bold">Belén Alexandra Ramos Arguelles:</p>
+                TB1: Durante esta entrega, colaboré estrechamente con el equipo para crear un entorno inclusivo, alentando la participación activa de todos los miembros. Juntos, establecimos metas claras y planificamos las tareas necesarias para alcanzar los objetivos del proyecto. Mi principal responsabilidad fue trabajar en el desarrollo de la aplicación móvil en Flutter, apoyando en la implementación eficiente de las funcionalidades y asegurando que el desarrollo estuviera alineado con los objetivos del proyecto. Esta experiencia fortaleció mis habilidades de trabajo en equipo y mi capacidad de cumplir con los plazos establecidos.
+            </td>
+            <td>
+                La planificación adecuada y la creación de un entorno inclusivo y colaborativo fueron factores clave para el éxito del proyecto. Cada miembro del equipo contribuyó con sus habilidades y responsabilidades para cumplir con los objetivos establecidos, logrando un resultado exitoso.
             </td>
         </tr>
     </tbody>
