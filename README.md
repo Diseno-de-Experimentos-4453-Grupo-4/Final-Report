@@ -33,8 +33,8 @@
             <td>u202213983</td>
         </tr>
         <tr>
-            <td>Integrante </td>
-            <td>codigo</td>
+            <td> Mathias Alejandro Jave Diaz </td>
+            <td>U202212721</td>
         </tr>
         <tr>
             <td>Mathias Adriano Hidalgo Lopez</td>
@@ -112,13 +112,20 @@ ambientales y sociales
     <tbody>
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+          <td> <p style="font-weight:bold">      Mathias Jave: </p> TB1: Me encargué del desarrollo de la aplicación móvil en Flutter, aplicando principios de arquitectura limpia, y del backend utilizando CQRS y DDD para una lógica alineada al dominio.  
+          Asumí liderazgo técnico, guiando decisiones sobre la arquitectura e integración del sistema.  
+          Esta experiencia reforzó mis habilidades técnicas, de comunicación, trabajo colaborativo y liderazgo.
+          </td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+            <td>
+            <p style="font-weight:bold">      Mathias Jave: </p>
+            TB1: Durante esta entrega, fomenté un entorno colaborativo e inclusivo brindando retroalimentación al equipo y fomentando el cumplimiento de las buenas prácticas a nivel de desarrollo, también participé en la planificación de metas y tareas para cumplir con los objetivos del trabajo.  
+          </td>
         </tr>
     </tbody>
 </table>
-
 <div style="page-break-before: always;"></div>
 
 ## Project Report Online
@@ -292,9 +299,9 @@ Somos CiberMach, una startup conformada por 6 estudiantes de la Universidad Peru
             <td>Cuento con conocimientos en UI/UX design, trabajo colaborativo de desarrollos ágiles a través de SCRUM, desarrollo de aplicaciones web y móvil haciendo uso de los frameworks Vue, Angular, Astro, ASP.NET Core y Spring Boot; así como habilidades blandas que me permiten a mí y a mis compañeros trabajar de forma organizada y eficiente, priorizando la comunicación y la participación permanente.</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Mathias Alejandro Jave Diaz</td>
+            <td> <img src="assets/chapter-01/photos/Mathias-Jave.jpeg"/> </td>
+            <td>Cuento con experiencia en el desarrollo web y móvil, trabajando con frameworks como ASP.NET Core, NestJS y Spring Boot en el backend, así como React, Vue y Angular en el frontend, y Flutter para aplicaciones móviles. Además, tengo conocimientos en Arquitectura de Software y en la implementación de marcos de trabajo ágiles, especialmente Scrum. Me destaco por mi capacidad de autoorganización y aprendizaje autónomo.</td>
         </tr>
         <tr> </tr>
         <tr></tr>
