@@ -3153,11 +3153,124 @@ Footer, sección donde se muestra información de contacto y redes sociales.
 
 Se va a presentar todas las pantallas desarrolladas para la app móvil.
 Iniciar sesión(login):
+![Imagen de WhatsApp 2025-04-25 a las 20 22 10_1687f8e1](https://github.com/user-attachments/assets/fe61416b-88d2-49ac-afa9-7eab73414f03)
+
+Registarse(Sign Up):
+![Imagen de WhatsApp 2025-04-25 a las 20 22 21_4fc492e6](https://github.com/user-attachments/assets/182c96e2-8e38-489a-a136-926f111b69c7)
+
+Buscar Scooter por distrito:
+![image](https://github.com/user-attachments/assets/085d1b09-b895-4bc0-843c-0f5409aea450)
+
+Buscar Scooter por dirección:
+![image](https://github.com/user-attachments/assets/8fdb9ab1-b1de-4695-8735-773d19729b4e)
+
+Agregar reportes:
+![image](https://github.com/user-attachments/assets/1d87f9cb-29b9-468a-b9a3-73c362f38c1e)
+
+Lista de Reportes del usuario
+![image](https://github.com/user-attachments/assets/e914eff6-326c-4f87-878f-9d29532e1dfd)
+
+Detalles del Scooter:
+![image](https://github.com/user-attachments/assets/5cb58e85-5fd6-499b-b2c6-489edfc26941)
+
+Scooters Disponibles 
+![image](https://github.com/user-attachments/assets/da5968fe-deb8-489f-8d5c-daf9998f54cf)
+
+Lista de los scooter del usuario:
+![image](https://github.com/user-attachments/assets/6571ab94-81f5-46fc-bf5e-37e3831d6eb7)
+
+
+![image](https://github.com/user-attachments/assets/469d4aac-c0e6-42e2-9587-c5c08bb3c5ce)
+
+Plan de subscripción
+![image](https://github.com/user-attachments/assets/14701cfe-924b-4714-8dc7-d20c1710d114)
+
+Perfil del Usuario:
+![image](https://github.com/user-attachments/assets/8b2c7014-9675-451d-b405-0c9a5afcbd24)
+
+Agregar Reseñas del scooter
+![image](https://github.com/user-attachments/assets/63d2a97d-4e13-4511-94b2-752b01785ddd)
+
+Seleccionar tipo de búsqueda: 
+![image](https://github.com/user-attachments/assets/e5582129-eb6b-4bcd-9bfd-1572798af0ba)
+
+
 
 
 #### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
+Se implementaron los siguiente endponts:
+
+**Booking:**
+
+![image](https://github.com/user-attachments/assets/87c8f85a-0a13-4cbd-9eb7-76155328c7d3)
+
+
+**Invoice:**
+
+![image](https://github.com/user-attachments/assets/74828cb5-3484-4a50-9dfc-d47b8c3ff648)
+
+
+**Profile:**
+
+![image](https://github.com/user-attachments/assets/7b717cc5-84d3-4028-bb6a-eae557eba4dd)
+
+**Rate:**
+
+![image](https://github.com/user-attachments/assets/1eab63a2-96b7-4a79-9b62-bbd5ab17ff3f)
+
+
+**Report:**
+
+![image](https://github.com/user-attachments/assets/093bbe68-898c-4ce3-80bb-9f9733f69b07)
+
+
+**Scooter:**
+
+![image](https://github.com/user-attachments/assets/bb4304f3-016d-47ff-bb1c-d00d3e0218cc)
+
+
+**Subscription:**
+
+![image](https://github.com/user-attachments/assets/61aa00ba-b30e-4ae2-ae73-4357e661b0ef)
+
+
 ### 5.2.6. RESTful API documentation
+Se implementaron los siguiente endponts:
+
+**Booking:**
+
+![image](https://github.com/user-attachments/assets/87c8f85a-0a13-4cbd-9eb7-76155328c7d3)
+
+
+**Invoice:**
+
+![image](https://github.com/user-attachments/assets/74828cb5-3484-4a50-9dfc-d47b8c3ff648)
+
+
+**Profile:**
+
+![image](https://github.com/user-attachments/assets/7b717cc5-84d3-4028-bb6a-eae557eba4dd)
+
+**Rate:**
+
+![image](https://github.com/user-attachments/assets/1eab63a2-96b7-4a79-9b62-bbd5ab17ff3f)
+
+
+**Report:**
+
+![image](https://github.com/user-attachments/assets/093bbe68-898c-4ce3-80bb-9f9733f69b07)
+
+
+**Scooter:**
+
+![image](https://github.com/user-attachments/assets/bb4304f3-016d-47ff-bb1c-d00d3e0218cc)
+
+
+**Subscription:**
+
+![image](https://github.com/user-attachments/assets/61aa00ba-b30e-4ae2-ae73-4357e661b0ef)
+
 
 ### 5.2.7. Team Collaboration Insights 
 
@@ -3170,23 +3283,23 @@ Colaboración por alumno en la Landing Page:
   </tr>
   <tr>
     <td>Mathias Alejandro Jave Diaz</td>
-    <td>Implementación de la navbar e inicio de la Landing Page.</td>
+    <td>Desarrollo de API REST, desarrollo de pantallas de la aplicación móvil(reports, susbscription, etc).</td>
   </tr>
   <tr>
     <td>Sebastian Valente Lobato Pozo </td>
-    <td>Implementación de la sección "Sobre Nosotros" de la Landing Page.</td>
+    <td>Desarrollo de pantallas de la aplicación móvil(auth).</td>
   </tr>
   <tr>
     <td>Mathias Adriano Hidalgo Lopez</td>
-    <td>Implementación de la sección "Servicios" de la Landing Page.</td>
+    <td>Desarrollo de la aplicación web.</td>
   </tr>
   <tr>
     <td>Alexandra Belen Ramos Argüelles</td>
-    <td>Implementación de la sección "Planes" de la Landing Page.</td>
+    <td>Desarrollo de pantallas de la aplicación móvil(rates).</td>
   </tr>
   <tr>
     <td>Gustavo Huilca Chipana</td>
-    <td>Implementación de la sección "Equipo de Desarrollo y footer" de la Landing Page.</td>
+    <td>Desarrollo de la aplicación web.</td>
   </tr>
 </table>
  
@@ -3198,28 +3311,24 @@ Tabla para poder identificarnos:
     <th>Nombre</th>
   </tr>
   <tr>
-    <td>VelardeSoft</td>
-    <td>Velarde Gonzales, Nestor</td>
+    <td>AleRamosA</td>
+    <td>Alexandra Ramos</td>
   </tr>
   <tr>
-    <td>MesSobble</td>
-    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>LordMathi2741</td>
+    <td>Mathias Jave</td>
   </tr>
   <tr>
-    <td>QuiqueVladimir</td>
-    <td>Jara Benitez, Quique Vladimir</td>
+    <td>cgozu</td>
+    <td>Sebastian Lobato</td>
   </tr>
   <tr>
     <td>mathiasadriano</td>
     <td>Hidalgo Lopez, Mathias Adriano</td>
   </tr>
   <tr>
-    <td>adriiiiiiiiiiii</td>
-    <td>Diestra Zambrano, Adriana María</td>
-  </tr>
-  <tr>
-    <td>RTPX26</td>
-    <td>Fernandez Remon, Roy Linsh</td>
+    <td>GustavoHuilca31</td>
+    <td>Gustavo Huilca</td>
   </tr>
 </table>
 
