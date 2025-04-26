@@ -45,8 +45,8 @@
             <td>U202215164</td>
         </tr>
         <tr>
-            <td>Integrante </td>
-            <td>codigo</td>
+            <td>Sebastian Valente Lobato Pozo </td>
+            <td>U202215312</td>
         </tr>
         <tr>
             <td>Integrante</td>
@@ -438,15 +438,24 @@ Somos CiberMach, una startup conformada por 6 estudiantes de la Universidad Peru
             <td> <img src="assets/chapter-01/photos/Mathias-Jave.jpeg"/> </td>
             <td>Cuento con experiencia en el desarrollo web y móvil, trabajando con frameworks como ASP.NET Core, NestJS y Spring Boot en el backend, así como React, Vue y Angular en el frontend, y Flutter para aplicaciones móviles. Además, tengo conocimientos en Arquitectura de Software y en la implementación de marcos de trabajo ágiles, especialmente Scrum. Me destaco por mi capacidad de autoorganización y aprendizaje autónomo.</td>
         </tr>
-        <tr><td>Mathias Adriano Hidalgo Lopez</td>
+        <tr>
+            <td>Mathias Adriano Hidalgo Lopez</td>
             <td> <img src="assets/chapter-01/photos/Mathias.jpeg"/></td>
-            <td>Cuento con conocimientos en UI/UX desing, trabajo colaborativos y en desarrollo de aplicaciones web. Manejo varios lenguajes de programacion como Vue, Angular, ASP.NET, C#; asi mismo poseo habilidades blandas que me permiten a tener mejor rendimiento en los proyectos con mi equipo de trabajo de forma organizada.</td> </tr>
-        <tr><td>Alexandra Belen Ramos Argüelles</td>
+            <td>Cuento con conocimientos en UI/UX desing, trabajo colaborativos y en desarrollo de aplicaciones web. Manejo varios lenguajes de programación como Vue, Angular, ASP.NET, C#; así mismo poseo habilidades blandas que me permiten a tener mejor rendimiento en los proyectos con mi equipo de trabajo de forma organizada.</td> 
+        </tr>
+        <tr>
+            <td>Alexandra Belen Ramos Argüelles</td>
             <td> <img src="assets/chapter-01/photos/alexandra_ramos.png"/></td>
-            <td>Cuento con experiencia en el desarrollo de aplicaciones móviles (Flutter) y web (Angular y Spring Boot, Vue, ASP-.NET y C#). Manejo herramientas como MySQL, MongoDB y Docker, además de conceptos clave en redes, estructuras de datos, algoritmos y metodologías como BDD. He trabajado en proyectos aplicando buenas prácticas de diseño UI/UX, colaboración en equipo y planificación ágil. Me destaco por mi organización, responsabilidad y habilidades comunicativas, que potencian el trabajo grupal y el logro de objetivos.</td></tr>
-        <tr></tr>
+            <td>Cuento con experiencia en el desarrollo de aplicaciones móviles (Flutter) y web (Angular y Spring Boot, Vue, ASP-.NET y C#). Manejo herramientas como MySQL, MongoDB y Docker, además de conceptos clave en redes, estructuras de datos, algoritmos y metodologías como BDD. He trabajado en proyectos aplicando buenas prácticas de diseño UI/UX, colaboración en equipo y planificación ágil. Me destaco por mi organización, responsabilidad y habilidades comunicativas, que potencian el trabajo grupal y el logro de objetivos.</td>
+        </tr>
+        <tr>
+            <td>Sebastian Valente Lobato Pozo</td>
+            <td><img src="assets/chapter-01/photos/Sebastian_Lobato.png" alt="Sebastian Valente Lobato Pozo"/></td>
+            <td>Tengo conocimientos en frameworks como React, Flutter, Python, C++, manejo bases de datos relacionales y no relacionales. Las habilidades que me representan son la amabilidad, comunicación asertiva, empatía y adaptabilidad al cambio.</td>
+        </tr>
     </tbody>
 </table>
+
 
 ## 1.2. Solution Profile
 
