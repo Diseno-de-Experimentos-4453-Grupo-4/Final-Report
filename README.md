@@ -329,16 +329,17 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [5.1.2. Source Code Management](#512-source-code-management)
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
+  - [5.2. Product Implementation \& Deployment](#52-product-implementation--deployment)
+    - [5.2.1. Sprint Backlogs](#521-sprint-backlogs)
+    - [Sprint 1](#sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+      - [Sprint Backlog 1](#sprint-backlog-1)
+    - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
+    - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
+      - [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)
+      - [5.2.5. Implemented RESTful API and/or Serverless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)
+    - [5.2.6. RESTful API documentation](#526-restful-api-documentation)
+    - [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
@@ -2962,9 +2963,10 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 ![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
 
-## 5.2. Landing Page, Services & Applications Implementation
+## 5.2. Product Implementation & Deployment
 
-### 5.2.1. Sprint 1
+### 5.2.1. Sprint Backlogs
+### Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
 
@@ -2978,29 +2980,28 @@ Para desplegar la solución se realizó los siguientes pasos:
     </tr>
     <tr>
         <td style="font-weight: bold;">Date</td>
-        <td>27/08/2024</td>
+        <td>06/04/2025</td>
     </tr>
     <tr>
         <td style="font-weight: bold;">Time</td>
-        <td>20:00 pm - 02:00 am</td>
+        <td>10:30 am - 13:00 pm</td>
     </tr>
     <tr>
         <td style="font-weight: bold;">Location</td>
-        <td>Modalidad remota a través de WhatsApp y Google Meets</td>
+        <td>Modalidad remota a través de WhatsApp y una Reunión en Discord</td>
     </tr>
     <tr>
         <td style="font-weight: bold;">Prepared By</td>
-        <td>Bárbara Espinoza Espinoza Delgado</td>
+        <td>Alexandra Belen Ramos Argüelles</td>
     </tr>
     <tr>
         <td style="font-weight: bold;">Attendees (to planning meeting)</td>
         <td>
-            Adriana María Diestra Zambrano<br>
-            Bárbara Espinoza Espinoza Delgado<br>
+            Alexandra Belen Ramos Argüelles<br>
+            Gustavo Huilca Chipana<br>
             Mathias Adriano Hidalgo López<br>
-            Néstor Velarde Gonzales<br>
-            Quique Vladimir Jara Benites<br>
-            Roy Linsh Fernandez Remon
+            Mathias Alejandro Jave Diaz<br>
+            Sebastian Valente Lobato Pozo 
         </td>
     </tr>
     <tr>
@@ -3017,7 +3018,7 @@ Para desplegar la solución se realizó los siguientes pasos:
     <tr>
         <td style="font-weight: bold;">Sprint 1 Goal</td>
         <td>
-            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó en Netlify para que sea accesible por cualquier usuario desde su navegador de preferencia.
+            En este sprint se espera la implementación y despliegue de la landing page, el desarrollo de la aplicación web y móvil con las secciones funcionales.
         </td>
     </tr>
     <tr>
@@ -3031,7 +3032,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 </table>
 
   
-#### 5.2.1.2. Sprint Backlog 1
+#### Sprint Backlog 1
 
 ![TrelloSprint1](https://github.com/user-attachments/assets/2e3b9c35-a927-4003-985a-572ba6fbec90)
 
@@ -3119,252 +3120,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
 </table>
 
     
-#### 5.2.1.3. Development Evidence for Sprint Review  
-En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
-
-<table align="center" border="1px">
-  <tr>
-    <th>User/Repository</th>
-    <th>Branch</th>
-    <th>Commit ID</th>
-    <th>Commit Message</th>
-    <th>Commit Message <br> Body</th>
-    <th>Commited<br>On (Date)</th>
-  </tr>
-  <tr>
-    <td>MesSobble/Landing-Page</td>
-    <td>section-about-us</td>
-    <td>23df9d5</td>
-    <td>feat: add about us index</td>
-    <td>-</td>
-    <td>19/08/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/Landing-Page</td>
-    <td>section-services</td>
-    <td>ef71a1b</td>
-    <td>feat: add service information</td>
-    <td>-</td>
-    <td>19/08/2024</td>
-  </tr>
-  <tr>
-    <td>Adriiiiiiiiii/Landing-Page</td>
-    <td>section-footer</td>
-    <td>bf129f8</td>
-    <td>feat: add index.html</td>
-    <td>-</td>
-    <td>19/08/2024</td>
-  </tr>
-  <tr>
-    <td>mathiasadriano/Landing-Page</td>
-    <td>section-suscription</td>
-    <td>0db4d70</td>
-    <td>feat: update index.html</td>
-    <td>-</td>
-    <td>19/08/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>section-about-the-team</td>
-    <td>648771f</td>
-    <td>feat: Initial commit</td>
-    <td>-</td>
-    <td>19/08/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>Main</td>
-    <td>e807899</td>
-    <td>feat: Development of the landing page, using tools such as Boostrap 5</td>
-    <td>-</td>
-    <td>19/08/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/Landing-Page</td>
-    <td>section-about-us</td>
-    <td>12da25a</td>
-    <td>feat: add about us Title</td>
-    <td>-</td>
-    <td>29/08/2024</td>
-  </tr>
-  <tr>
-    <td>RTPX26/Landing-Page</td>
-    <td>master</td>
-    <td>65e1698</td>
-    <td>feat: add 131 lines code</td>
-    <td>-</td>
-    <td>01/09/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>master</td>
-    <td>82e5199</td>
-    <td>feat: Source code solution</td>
-    <td>-</td>
-    <td>03/09/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>master</td>
-    <td>0806145</td>
-    <td>feat: Aggregate title</td>
-    <td>-</td>
-    <td>03/09/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>master</td>
-    <td>38403f2</td>
-    <td>feat: add team members</td>
-    <td>-</td>
-    <td>03/09/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>master</td>
-    <td>3130e1e</td>
-    <td>feat: correction seccion main</td>
-    <td>-</td>
-    <td>03/09/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/Landing-Page</td>
-    <td>master</td>
-    <td>e61f4e0</td>
-    <td>feat: Insercion de codigo fuente</td>
-    <td>-</td>
-    <td>04/09/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/Landing-Page</td>
-    <td>master</td>
-    <td>31abf05</td>
-    <td>feat: delete change language icon</td>
-    <td>-</td>
-    <td>04/09/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/Landing-Page</td>
-    <td>master</td>
-    <td>3cfd36d</td>
-    <td>fix: position of buttons</td>
-    <td>-</td>
-    <td>04/09/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/Landing-Page</td>
-    <td>master</td>
-    <td>9986ced</td>
-    <td>fix: align cards to center in mobile</td>
-    <td>-</td>
-    <td>04/09/2024</td>
-  </tr>
-</table>
-
-
-![Commits1](https://github.com/user-attachments/assets/af447d15-c9ff-43e6-b712-e9eeee9d0da2)
-![Commits2](https://github.com/user-attachments/assets/25f1ab04-eb43-48e3-be08-94041ae6a77b)
-![Commits3](https://github.com/user-attachments/assets/741e16ec-9a95-45cf-97f5-b3d56ade34a2)
-![Commits4](https://github.com/user-attachments/assets/e6973246-74ff-4433-a2ee-45c6f6a9ec30)
-![Commits5](https://github.com/user-attachments/assets/bbcd8b79-afdc-4d0c-910a-0558e47e5104)
-![Commits6](https://github.com/user-attachments/assets/969f9661-40fc-408f-b782-99ac101e4cf4)
-
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
-
-<table align="center" border="1px">
-  <tr>
-    <th>User/Repository</th>
-    <th>Branch</th>
-    <th>Commit ID</th>
-    <th>Commit Message</th>
-    <th>Commit Message <br> Body</th>
-    <th>Commited<br>On (Date)</th>
-  </tr>
-  <tr>
-    <td>VelardeSoft/AcceptanceTest</td>
-    <td>Main</td>
-    <td>8fa574f</td>
-    <td>feat: add US-01</td>
-    <td>-</td>
-    <td>05/09/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/AcceptanceTest</td>
-    <td>Main</td>
-    <td>7518970</td>
-    <td>feat: add US-02</td>
-    <td>-</td>
-    <td>01/09/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/AcceptanceTest</td>
-    <td>Main</td>
-    <td>6eb6d99</td>
-    <td>feat: add US-03</td>
-    <td>-</td>
-    <td>05/09/2024</td>
-  </tr>
-  <tr>
-    <td>mathiasadriano/AcceptanceTest</td>
-    <td>Main</td>
-    <td>d05c2267</td>
-    <td>feat: add US-04</td>
-    <td>-</td>
-    <td>05/09/2024</td>
-  </tr>
-  <tr>
-    <td>adriiiiiiiiiii/AcceptanceTest</td>
-    <td>Main</td>
-    <td>0450a13</td>
-    <td>feat: add US-05</td>
-    <td>-</td>
-    <td>05/09/2024</td>
-  </tr>
-  <tr>
-    <td>RTPX26/AcceptanceTest</td>
-    <td>Main</td>
-    <td>a6419c3</td>
-    <td>feat: add US-06</td>
-    <td>-</td>
-    <td>05/09/2024</td>
-  </tr>
-</table>
-
-
-En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
-
-**1. Uso de Live Server de Microsoft Visual Studio Code** 
-
-Propósito:
-- Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
-
-Descripción:
-- Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
-
-
-**2. Firefox Developer para Pruebas de Dimensiones Móviles** 
-
-Propósito:
-- Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
-
-Descripción:
-- Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
-
-
-**3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive** 
-
-Propósito:
-- Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
-
-Descripción:
-- Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
-
-
-Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
-
-#### 5.2.1.5. Execution Evidence for Sprint Review
-
+### 5.2.2. Implemented Landing Page Evidence  
 Durante el primer Sprint se logró implementar la landing page con las secciones funcionales, 
 el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto 
 la version web para escritorio como la version mobile:
@@ -3389,38 +3145,21 @@ Integrantes, sección donde se muestra información sobre los integrantes del eq
 ![Landing07](https://github.com/user-attachments/assets/01affb7b-e54c-4aaa-ab7b-b4ab856f6823)
 Footer, sección donde se muestra información de contacto y redes sociales.
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-**No aplica para esta entrega**
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page 
-desplegada junto a los pasos realizados para publicarla:
-[Landing Page](https://upc-appweb-cibermach.github.io/movirent-landing-page/)
-
-**Pasos**
-
-- Terminado de realizar los cambios y unirlos en la rama main.
-![DeployN1](https://github.com/user-attachments/assets/345a9db9-9831-4463-b1c5-b402dc28b4cf)
+### 5.2.3. Implemented Frontend-Web Application Evidence
 
 
-- Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
-  ![DeployN2](https://github.com/user-attachments/assets/a7914874-8ab8-46e8-8256-001373d8643f)
 
-- Seleccionamos la rama main para ejecutar el deploy y damos a guardar
-  ![DeployN3](https://github.com/user-attachments/assets/53bbee82-c944-4446-b43f-97255bccc702)
-  ![DeployN4](https://github.com/user-attachments/assets/59982ac0-03e4-4562-a64b-717530c13b1b)
+#### 5.2.4. Implemented Native-Mobile Application Evidence
 
-- Ingresamos el dominio de la landing page y damos a guardar.
-  ![DeployN5](https://github.com/user-attachments/assets/ae216bc8-16a9-4b34-813b-fd316bd9de9e)
-
-- Esperamos a que termine el despliegue y accedemos al enlace generado.
-![DeployN6](https://github.com/user-attachments/assets/c3fdf1c7-ccbc-47ac-98b9-11468169edd6)
-![DeployN7](https://github.com/user-attachments/assets/adbed39d-b13d-4937-a9c6-32b31333f29f)
-![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
+Se va a presentar todas las pantallas desarrolladas para la app móvil.
+Iniciar sesión(login):
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.  
+#### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+
+### 5.2.6. RESTful API documentation
+
+### 5.2.7. Team Collaboration Insights 
 
 Colaboración por alumno en la Landing Page:
 
@@ -3430,28 +3169,24 @@ Colaboración por alumno en la Landing Page:
     <th>Actividad</th>
   </tr>
   <tr>
-    <td>Velarde Gonzales, Nestor</td>
+    <td>Mathias Alejandro Jave Diaz</td>
     <td>Implementación de la navbar e inicio de la Landing Page.</td>
   </tr>
   <tr>
-    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>Sebastian Valente Lobato Pozo </td>
     <td>Implementación de la sección "Sobre Nosotros" de la Landing Page.</td>
   </tr>
   <tr>
-    <td>Jara Benites, Quique Vladimir</td>
+    <td>Mathias Adriano Hidalgo Lopez</td>
     <td>Implementación de la sección "Servicios" de la Landing Page.</td>
   </tr>
   <tr>
-    <td>Hidalgo Lopez, Mathias Adriano</td>
+    <td>Alexandra Belen Ramos Argüelles</td>
     <td>Implementación de la sección "Planes" de la Landing Page.</td>
   </tr>
   <tr>
-    <td>Diestra Zambrano, Adriana María</td>
+    <td>Gustavo Huilca Chipana</td>
     <td>Implementación de la sección "Equipo de Desarrollo y footer" de la Landing Page.</td>
-  </tr>
-  <tr>
-    <td>Fernandez Remon, Roy Linsh</td>
-    <td>Implementación de código para Landing Page responsiva.</td>
   </tr>
 </table>
  
