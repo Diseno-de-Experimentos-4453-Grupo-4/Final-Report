@@ -1630,13 +1630,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>EP06</td>
-        <td>Gestión de planes</td>
-        <td><b>Cómo</b> cliente de MoviRent <b>Quiero</b> tener una gestión y control de mi plan <b>Para</b> poder adquirirlo y coancelarlo cuando lo requiera</td>
-        <td>No corresponde</td>
-        <td>No corresponde</td>
-    </tr>
-    <tr>
-        <td>EP07</td>
         <td>Desarrollo de la aplicación web</td>
         <td><b>Cómo</b> desarrollador de MoviRent <b>Quiero</b> hacer consultas desde los endpoints de la api rest <b>Para</b> poder probar las respuestas del servicio de la aplicación.</td>
         <td>No corresponde</td>
@@ -2025,34 +2018,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US20</td>
-        <td>Adquirir plan</td>
-        <td><b>Como</b> Cliente de MoviRent 
-        <b>Quiero</b> Comprar un plan
-        <b>Para</b> acceder a sus beneficios al usar la aplicación. </td>
-        <td>
-            <b>Scenario 1: Cliente compra una membresía en MoviTech </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito. <br/>
-            <br>
-            <b>Scenario 2: Cliente cancela compra una membresía en MoviRent </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se dé al botón de cancelar<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la compra de la membresía<br/>
-            <br>
-            <b>Scenario 3: Cliente no compra una membresía en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Cliente no cuente con una membresía <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha adquirido<br/>
-            <br>
-            <b>Scenario 4: Cliente cambia de membresía en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
-        <td>EP06</td>
-    </tr>
-    <tr>
         <td>TS01</td>
         <td>Endpoint User </td>
         <td><b>Como</b> desarrollador de MoviRent
@@ -2099,7 +2064,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> el usuario con el ID proporcionado no exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
             <br>
-        <td>EP07</td>
+        <td>EP06</td>
     </tr>
     <tr>
         <td>TS02</td>
@@ -2148,29 +2113,10 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> el scooter con el ID proporcionado no exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
             <br>
-        <td>EP07</td>
+        <td>EP06</td>
     </tr>
     <tr>
         <td>TS03</td>
-        <td>Endpoint Suscription </td>
-        <td><b>Cómo</b> desarrollador de MoviRent
-        <b>Quiero</b> hacer uso del endpoint /suscription
-        <b>Para</b> gestionar los datos de los planes de suscripción
-        <td>
-            <b>Scenario 1: Solicitud GET exitosa</b> <br/>
-            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /suscription<br>
-            <b>Cuando</b> existan registros de suscripciones disponibles<br/>
-            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de planes.<br/>
-            <br>
-            <b>Scenario 2: Solicitud GET fallida</b> <br/>
-            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /suscriptión<br>
-            <b>Cuando</b> no existan registros de suscripciones disponibles<br/>
-            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
-            <br>
-        <td>EP07</td>
-    </tr>
-    <tr>
-        <td>TS04</td>
         <td>Endpoint Historial </td>
         <td><b>Como</b> desarrollador de MoviRent
         <b>Quiero</b> hacer uso del endpoint /historial
@@ -2196,7 +2142,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> el historial no exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
             <br>
-        <td>EP07</td>
+        <td>EP06</td>
     </tr>
   <tr>
         <td>TS05</td>
@@ -2366,8 +2312,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> Búsqueda de scooters cercano </td>
     <td valign="top"> Como cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
     <td valign="top"> 8 </td>
-  </tr>
-      <tr>   
+  </tr>  
   <tr>
     <td valign="top"> 17 </td>
     <td valign="top"> US17 </td>
@@ -2387,44 +2332,32 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US19 </td>
     <td valign="top"> Visualizar historial de scooters alquilados </td>
     <td valign="top"> Como Cliente de MoviRent Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
+  </tr>
+  <tr>
     <td valign="top"> 5 </td>
-      <tr>
     <td valign="top"> 20 </td>
-    <td valign="top"> US20 </td>
-    <td valign="top"> Adquirir plan </td>
-    <td valign="top"> Como Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
-    <td valign="top"> 5 </td>
-     <tr>
-    <td valign="top"> 21 </td>
     <td valign="top"> TS01 </td>
     <td valign="top"> Endpoint User </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /user Para gestionar los datos de los usuarios.</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 22 </td>
+    <td valign="top"> 21 </td>
     <td valign="top"> TS02 </td>
     <td valign="top"> Endpoint Scooter </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /scooter Para gestionar los datos de los scooters</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 23 </td>
+    <td valign="top"> 22 </td>
     <td valign="top"> TS03 </td>
-    <td valign="top"> Endpoint Suscription </td>
-    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /suscription Para gestionar los datos de las suscripciones.</td>
-    <td valign="top"> 8 </td>
-  </tr> 
-  <tr>
-    <td valign="top"> 24 </td>
-    <td valign="top"> TS04 </td>
     <td valign="top"> Endpoint Historial </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales.</td>
     <td valign="top"> 8 </td>
   </tr> 
   <tr>
-    <td valign="top"> 25 </td>
-    <td valign="top"> TS05 </td>
+    <td valign="top"> 23 </td>
+    <td valign="top"> TS04 </td>
     <td valign="top"> Endpoint Review </td>
     <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /reviews Para gestionar los datos de las reseñas</td>
     <td valign="top"> 8 </td>
@@ -5735,7 +5668,7 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         </tr>
         <tr>
             <td>Nuestra organización en GitHub</td>
-            <td><a href="https://github.com/orgs/UPC-AppWeb-CiberMach/repositories">GitHub</a></td>
+            <td><a href="https://github.com/Diseno-de-Experimentos-4453-Grupo-4">GitHub</a></td>
         </tr>
         <tr>
             <td>Frontend deployada</td>
