@@ -5540,6 +5540,18 @@ Link del video About The Product: [About The Product](https://upcedupe-my.sharep
 ## Capítulo VI: Product Verification & Validation
 
 ### 6.1.1. Core Entities Unit Tests 
+En esta sección se muestran las pruebas unitarias realizadas a las principales clases de nuestra solución con el próposito de garantizar calidad en nuestro software:
+
+Scooter Management Service Test:
+
+A continuación se muestran las pruebas realizadas al servicio de mangement.
+
+<img src="./assets/chapter-06/unit-tests/management.png" alt="Management unit test"/>
+
+
+#### 
+
+
 ### 6.1.2. Core Integration Tests
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests
