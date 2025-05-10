@@ -5537,6 +5537,26 @@ Link del video About The Product: [About The Product](https://upcedupe-my.sharep
 <div style="page-break-before: always;"></div>
 
 
+## Capítulo VI: Product Verification & Validation
+
+### 6.1.1. Core Entities Unit Tests 
+### 6.1.2. Core Integration Tests
+### 6.1.3. Core Behavior-Driven Development
+### 6.1.4. Core System Tests
+
+## Capítulo VII: Devops Practices
+### 7.1. Continuous Integration
+### 7.1.1. Tools and Practices
+### 7.1.2. Build & Test Suite Pipeline Components
+### 7.2. Continuous Delivery
+### 7.2.1. Tools and Practices
+### 7.2.2. Stages Deployments Pipeline Components
+### 7.3. Continuous deployment
+### 7.3.1. Tools and Practices
+### 7.3.2. Production Deployment Pipeline Components
+
+
+
 
 # [Conclusiones](#conclusiones)
 
