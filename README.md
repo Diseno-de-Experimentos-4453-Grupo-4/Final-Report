@@ -5542,11 +5542,11 @@ Link del video About The Product: [About The Product](https://upcedupe-my.sharep
 ### 6.1.1. Core Entities Unit Tests 
 En esta sección se muestran las pruebas unitarias realizadas a las principales clases de nuestra solución con el próposito de garantizar calidad en nuestro software:
 
-Scooter Management Service Test:
+Scooter  Service Test:
 
 A continuación se muestran las pruebas realizadas al servicio de scooter.
 
-<img src="./assets/chapter-06/unit-tests/management.png" alt="Management unit test"/>
+<img src="./assets/chapter-06/unit-tests/scooter.png" alt="Scooter unit test"/>
 
 
 Profile Services Tests:
@@ -5554,6 +5554,16 @@ Profile Services Tests:
 A continuación se muestran las pruebas realizadas al servicio de profile.
 <img src="./assets/chapter-06/unit-tests/profiles.png" alt="Profile unit test"/>
 
+
+Report Services Tests:
+
+A continuación se muestran las pruebas realizadas al servicio de reportes.
+<img src="./assets/chapter-06/unit-tests/reports.png" alt="Report unit test"/>
+
+Rate Services Tests:
+
+A continuación se muestran las pruebas realizadas al servicio de reseñas.
+<img src="./assets/chapter-06/unit-tests/rates.png" alt="Rates unit test"/>
 
 
 #### 
