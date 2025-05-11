@@ -5544,9 +5544,16 @@ En esta sección se muestran las pruebas unitarias realizadas a las principales 
 
 Scooter Management Service Test:
 
-A continuación se muestran las pruebas realizadas al servicio de mangement.
+A continuación se muestran las pruebas realizadas al servicio de scooter.
 
 <img src="./assets/chapter-06/unit-tests/management.png" alt="Management unit test"/>
+
+
+Profile Services Tests:
+
+A continuación se muestran las pruebas realizadas al servicio de profile.
+<img src="./assets/chapter-06/unit-tests/profiles.png" alt="Profile unit test"/>
+
 
 
 #### 
