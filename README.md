@@ -5563,7 +5563,12 @@ A continuación se muestran las pruebas realizadas al servicio de reportes.
 Rate Services Tests:
 
 A continuación se muestran las pruebas realizadas al servicio de reseñas.
-<img src="./assets/chapter-06/unit-tests/rates.png" alt="Rates unit test"/>
+<img src="./assets/chapter-06/unit-tests/rates.png" alt="Rate unit test"/>
+
+Booking Services Tests:
+
+A continuación se muestran las pruebas realizadas al servicio de reservas.
+<img src="./assets/chapter-06/unit-tests/booking.png" alt="Booking unit test"/>
 
 
 #### 
