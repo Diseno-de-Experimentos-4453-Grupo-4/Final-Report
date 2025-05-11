@@ -5561,6 +5561,54 @@ A continuación se muestran las pruebas realizadas al servicio de profile.
 
 ### 6.1.2. Core Integration Tests
 ### 6.1.3. Core Behavior-Driven Development
+
+En esta sección se muestran las pruebas BDD realizadas a las historias de usuario de nuestra solución haciendo uso del lenguaje Gherkin.
+
+<img src="./assets/chapter-06/bdd-tests/US01.png" alt="US01 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US02.png" alt="US02 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US03.png" alt="US03 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US04.png" alt="US04 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US05.png" alt="US05 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US06.png" alt="US06 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US07.png" alt="US07 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US08.png" alt="US08 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US09.png" alt="US09 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US10.png" alt="US10 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US11.png" alt="US11 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US12.png" alt="US12 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US13.png" alt="US13 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US14.png" alt="US14 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US15.png" alt="US15 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US16.png" alt="US16 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US17.png" alt="US17 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/US18.png" alt="US18 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/TS01.png" alt="TS01 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/TS02.png" alt="TS02 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/TS03.png" alt="TS03 BDD test"/>
+
+<img src="./assets/chapter-06/bdd-tests/TS05.png" alt="TS04 BDD test"/>
+
+
 ### 6.1.4. Core System Tests
 
 ## Capítulo VII: Devops Practices
