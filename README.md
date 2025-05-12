@@ -5626,6 +5626,28 @@ En esta sección se muestran las pruebas BDD realizadas a las historias de usuar
 
 ### 6.1.4. Core System Tests
 
+| US08 |   Registrar usuario    | Como visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente.	 |
+|-|-|-|
+
+<img src="./assets/chapter-06/cs-tests/register-test.jpg"/>
+
+| US09 |   Iniciar sesión	    | Como Owner/Cliente de MoviRent Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.		 |
+|-|-|-|
+
+<img src="./assets/chapter-06/cs-tests/login-test.jpg"/>
+
+
+| US12	 |   Publicar scooter en alquiler		    | Como Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente			 |
+|-|-|-|
+
+<img src="./assets/chapter-06/cs-tests/publicar-scooter-test.jpg"/>
+
+| US17	 |   Alquiler Scooter			    | Como Cliente de MoviRent Quiero alquilar un scooter Para llegar rápido a mi destino.				 |
+|-|-|-|
+
+<img src="./assets/chapter-06/cs-tests/alquilar-scooter-test.jpg"/>
+
+
 ## Capítulo VII: Devops Practices
 ### 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices
