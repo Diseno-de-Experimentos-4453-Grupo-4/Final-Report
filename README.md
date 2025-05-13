@@ -5654,6 +5654,29 @@ En esta sección se muestran las pruebas BDD realizadas a las historias de usuar
 ### 7.1.2. Build & Test Suite Pipeline Components
 ### 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices
+
+Herramientas
+
+Git y GitHub:
+Se utilizó Git como sistema de control de versiones, y GitHub como plataforma de hospedaje del repositorio. Esto permitió una gestión eficiente del código, colaboración en equipo y control de cambios mediante pull requests.
+
+GitHub Pages:
+La landing page fue desplegada mediante GitHub Pages, permitiendo una visualización pública rápida y sin necesidad de servidores externos.
+
+Docker:
+Se utilizó Docker para contenerizar la aplicación web y sus servicios asociados (backend, base de datos, etc.), asegurando portabilidad, aislamiento del entorno y facilidad para el despliegue en cualquier máquina con Docker instalado.
+
+Prácticas
+
+Estrategia de Ramas (main + feature-branches):
+Se trabajó con una rama principal (main) y ramas separadas para cada funcionalidad (feature). Las ramas eran revisadas y luego fusionadas mediante pull requests, asegurando calidad del código y reducción de errores.
+
+Integración Continua (CI):
+Las pruebas automatizadas se ejecutaban automáticamente al hacer push a cualquier rama o al generar un pull request, asegurando que el nuevo código no rompiera funcionalidades existentes.
+
+Entrega Continua (CD) con Docker:
+Las versiones de la aplicación se construían como contenedores Docker y se desplegaban en entornos de prueba (staging), simulando el comportamiento en producción y permitiendo una validación rápida y confiable.
+
 ### 7.2.2. Stages Deployments Pipeline Components
 ### 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices
