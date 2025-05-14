@@ -5698,16 +5698,35 @@ El proceso de despliegue del producto MoviRent ha sido estructurado mediante un 
 
 **Build Stage:**
 
-Se construyen imágenes Docker de cada microservicio utilizando su respectivo Dockerfile.
+-Se construyen imágenes Docker de cada microservicio utilizando su respectivo Dockerfile.
 
-Esta etapa asegura que todas las dependencias estén correctamente instaladas y que el código sea ejecutable en un entorno uniforme y replicable.
+-Esta etapa asegura que todas las dependencias estén correctamente instaladas y que el código sea ejecutable en un entorno uniforme y replicable.
 
 **Test Stage:**
 
-Se ejecutan pruebas unitarias (y eventualmente de integración) para validar la lógica de negocio.
+-Se ejecutan pruebas unitarias (y eventualmente de integración) para validar la lógica de negocio.
 
-Se verifica la correcta respuesta de los endpoints y la comunicación entre servicios.
+-Se verifica la correcta respuesta de los endpoints y la comunicación entre servicios.
 
+**Push Stage:**
+
+-Las imágenes Docker validadas se publican en un registro de contenedores (como Docker Hub o el registro de Render).
+
+-Esto facilita el versionamiento, la reutilización y el despliegue en distintos entornos.
+
+**Deploy Stage:**
+
+-Usamos la plataforma Render para desplegar automáticamente los microservicios.
+
+-Se configuran variables de entorno, rutas y la conexión a la base de datos PostgreSQL.
+
+-Cada servicio es desplegado de forma independiente, pero con conectividad entre sí.
+
+**Post-Deployment Stage:**
+
+-Se realizan pruebas rápidas (smoke tests) para asegurar el correcto funcionamiento de los servicios.
+
+-Se monitorea el estado de los servicios mediante las herramientas que ofrece Render, validando que las APIs estén accesibles y funcionales.
 
 
 ### 7.3. Continuous deployment
