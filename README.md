@@ -5647,6 +5647,10 @@ En esta sección se muestran las pruebas BDD realizadas a las historias de usuar
 
 <img src="./assets/chapter-06/cs-tests/alquilar-scooter-test.jpg"/>
 
+| US16	 |   Buscar scooter	cercano		    | Como Cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito para facilitar mi desplazamiento.				 |
+|-|-|-|
+
+<img src="./assets/chapter-06/cs-tests/buscar-scooter.png"/>
 
 ## Capítulo VII: Devops Practices
 ### 7.1. Continuous Integration
