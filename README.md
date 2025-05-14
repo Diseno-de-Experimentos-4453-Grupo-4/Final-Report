@@ -5713,11 +5713,11 @@ Herramientas
 Git y GitHub:
 Se utilizó Git como sistema de control de versiones, y GitHub como plataforma de hospedaje del repositorio. Esto permitió una gestión eficiente del código, colaboración en equipo y control de cambios mediante pull requests.
 
-GitHub Pages:
-La landing page fue desplegada mediante GitHub Pages, permitiendo una visualización pública rápida y sin necesidad de servidores externos.
+Netlify:
+La landing page fue desplegada mediante Netlify, permitiendo una visualización pública rápida y sin necesidad de servidores externos.
 
 Docker:
-Se utilizó Docker para contenerizar la aplicación web y sus servicios asociados (backend, base de datos, etc.), asegurando portabilidad, aislamiento del entorno y facilidad para el despliegue en cualquier máquina con Docker instalado.
+Se utilizó Docker para contenerizar los servicios web, asegurando portabilidad, aislamiento del entorno y facilidad para el despliegue en cualquier máquina con Docker instalado.
 
 Prácticas
 
