@@ -5652,6 +5652,21 @@ En esta sección se muestran las pruebas BDD realizadas a las historias de usuar
 ### 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices
 ### 7.1.2. Build & Test Suite Pipeline Components
+
+Para la integración continua, se utilizaron bibliotecas de pruebas unitarias y de integración como NUnit y Moq para la creación de pruebas unitarias e integrales automatizadas de la API RESTful.
+
+<img src="./assets/chapter-07/continuous-integration/built-test-pipeline/unit-integration-test-pipeline.png" alt="Unit and Integration Test Pipeline"/>
+
+Además, se utilizó el lenguaje Gherkin para la creación de pruebas BDD (Behavior Driven Development) que permiten validar el comportamiento del sistema en función de las historias de usuario y casos de prueba definidos.
+
+<img src="./assets/chapter-06/bdd-tests/US01.png" alt="US01 BDD test"/>
+
+Finalmente, para las pruebas funcionales se hizo uso de la herramienta Selenium, que permite la automatización de pruebas en aplicaciones web.
+
+<img src="./assets/chapter-07/continuous-integration/built-test-pipeline/SIDE.png" alt="Selenium IDE"/>
+
+
+
 ### 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices
 
