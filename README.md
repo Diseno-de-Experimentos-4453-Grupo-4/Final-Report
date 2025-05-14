@@ -5733,6 +5733,33 @@ El proceso de despliegue del producto MoviRent ha sido estructurado mediante un 
 ### 7.3.1. Tools and Practices
 ### 7.3.2. Production Deployment Pipeline Components
 
+Este apartado describe los componentes que forman parte del pipeline de despliegue a producción y cómo se integran para automatizar todo el proceso.
+
+Componentes del Pipeline de la Landing Page (Netlify)
+
+Detección de cambios en GitHub:
+Netlify está conectado al repositorio de la landing page. Cuando se detecta un commit en la rama main, se inicia automáticamente el proceso de construcción.
+
+Compilación del sitio:
+Netlify ejecuta el script npm run build y genera los archivos estáticos para ser servidos.
+
+Despliegue automático:
+Una vez generados los archivos, se publica automáticamente la nueva versión de la landing page en Netlify.
+
+Distribución por CDN:
+La página se distribuye globalmente a través de la red CDN de Netlify, asegurando velocidad y disponibilidad.
+
+Componentes del Pipeline de la Aplicación Web (Vue + Netlify)
+
+Compilación de la app Vue:
+Al detectar un nuevo commit en la rama main, Netlify ejecuta el build de producción (npm run build) de la aplicación Vue.
+
+Despliegue en Netlify:
+La versión actualizada de la aplicación Vue se publica automáticamente y está disponible en producción.
+
+Actualización inmediata:
+Netlify se encarga de invalidar la caché antigua y servir la nueva versión desde su CDN, asegurando que los usuarios vean los últimos cambios.
+
 
 
 
