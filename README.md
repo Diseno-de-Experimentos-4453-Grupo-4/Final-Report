@@ -5697,8 +5697,16 @@ Las versiones de la aplicación se construían como contenedores Docker y se des
 El proceso de despliegue del producto MoviRent ha sido estructurado mediante un pipeline automatizado que garantiza calidad, eficiencia y control en cada entrega. Este pipeline aplica tanto para el microservicio de Inventory (Things) como para el de Observability (Thing States), y está compuesto por las siguientes etapas:
 
 **Build Stage:**
+
 Se construyen imágenes Docker de cada microservicio utilizando su respectivo Dockerfile.
+
 Esta etapa asegura que todas las dependencias estén correctamente instaladas y que el código sea ejecutable en un entorno uniforme y replicable.
+
+**Test Stage:**
+
+Se ejecutan pruebas unitarias (y eventualmente de integración) para validar la lógica de negocio.
+
+Se verifica la correcta respuesta de los endpoints y la comunicación entre servicios.
 
 
 
