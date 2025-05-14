@@ -5777,6 +5777,17 @@ El proceso de despliegue del producto MoviRent ha sido estructurado mediante un 
 
 Este apartado describe los componentes que forman parte del pipeline de despliegue a producción y cómo se integran para automatizar todo el proceso.
 
+Componentes del Pipeline del Backend (.NET + Docker)
+
+Dockerización del Backend:
+La aplicación backend desarrollada en .NET fue dockerizada, lo que permite su ejecución en cualquier entorno que tenga Docker instalado.
+
+Construcción de la Imagen:
+Al realizar cambios en el repositorio, se construye una imagen Docker que contiene la última versión del backend.
+
+Despliegue con Docker:
+La imagen se despliega en el entorno de producción utilizando Docker, lo que facilita la gestión, portabilidad y consistencia del sistema.
+
 Componentes del Pipeline de la Landing Page (Netlify)
 
 Detección de cambios en GitHub:
