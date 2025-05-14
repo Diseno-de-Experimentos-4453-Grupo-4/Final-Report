@@ -5651,6 +5651,44 @@ En esta sección se muestran las pruebas BDD realizadas a las historias de usuar
 ## Capítulo VII: Devops Practices
 ### 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices
+
+En el desarrollo y las pruebas de software, es clave contar con herramientas y métodos que aseguren la calidad del código y la eficiencia del equipo. En nuestro proceso, usamos diversas herramientas que optimizan tanto la creación como la validación de la funcionalidad y el comportamiento esperado de la aplicación. Estas herramientas abarcan distintas fases del ciclo de vida del software, desde la escritura del código hasta la ejecución de pruebas y la automatización de tareas.
+
+Aplicamos metodologías como Desarrollo Basado en Comportamiento (BDD) y Desarrollo Basado en Pruebas (TDD) para garantizar que nuestras soluciones cumplan con los requisitos del cliente y mantengan altos estándares de calidad técnica. Entre las herramientas principales que utilizamos destacan:
+
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Herramienta</th>
+      <th>Tipo</th>
+      <th>Descripción</th>
+      <th>Propósito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NUnit</td>
+      <td>Herramienta para pruebas (TDD)</td>
+      <td>Es un programa que ayuda a probar pequeñas partes de aplicaciones en C#.</td>
+      <td>Hace más fácil crear y ejecutar pruebas para asegurarse de que las funciones de los componentes funcionen como deberían.</td>
+    </tr>
+    <tr>
+      <td>Mockito</td>
+      <td>Herramienta de simulaciones (TDD)</td>
+      <td>Permite crear versiones simuladas de otros componentes para hacer pruebas sin usar las versiones reales.</td>
+      <td>Imitar cómo se comportan objetos externos, lo cual es útil para hacer pruebas de forma efectiva.</td>
+    </tr>
+    <tr>
+      <td>Gherkin</td>
+      <td>Herramienta de BDD</td>
+      <td>Ayuda a desarrollar programas centrándose en el comportamiento, usando un lenguaje simple llamado Gherkin para escribir ejemplos que todos entienden.</td>
+      <td>Crea y prueba ejemplos basados en cómo debería comportarse el sistema, asegurando que el desarrollo esté alineado con lo que necesita el negocio.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 7.1.2. Build & Test Suite Pipeline Components
 
 Para la integración continua, se utilizaron bibliotecas de pruebas unitarias y de integración como NUnit y Moq para la creación de pruebas unitarias e integrales automatizadas de la API RESTful.
