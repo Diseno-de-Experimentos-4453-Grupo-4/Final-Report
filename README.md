@@ -5693,6 +5693,12 @@ Entrega Continua (CD) con Docker:
 Las versiones de la aplicación se construían como contenedores Docker y se desplegaban en entornos de prueba (staging), simulando el comportamiento en producción y permitiendo una validación rápida y confiable.
 
 ### 7.2.2. Stages Deployments Pipeline Components
+
+El proceso de despliegue del producto MoviRent ha sido estructurado mediante un pipeline automatizado que garantiza calidad, eficiencia y control en cada entrega. Este pipeline aplica tanto para el microservicio de Inventory (Things) como para el de Observability (Thing States), y está compuesto por las siguientes etapas:
+
+ # Build Stage:
+
+
 ### 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices
 ### 7.3.2. Production Deployment Pipeline Components
