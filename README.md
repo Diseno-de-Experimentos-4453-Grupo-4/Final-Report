@@ -391,6 +391,22 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [Entrevista 4:](#entrevista-4-1)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
     - [5.4. Video about the product](#54-video-about-the-product)
+  - [Capítulo VI: Product Verification \& Validation](#capítulo-vi-product-verification--validation)
+    - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)
+      - [](#)
+    - [6.1.2. Core Integration Tests](#612-core-integration-tests)
+    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
+    - [6.1.4. Core System Tests](#614-core-system-tests)
+  - [Capítulo VII: Devops Practices](#capítulo-vii-devops-practices)
+    - [7.1. Continuous Integration](#71-continuous-integration)
+    - [7.1.1. Tools and Practices](#711-tools-and-practices)
+    - [7.1.2. Build \& Test Suite Pipeline Components](#712-build--test-suite-pipeline-components)
+    - [7.2. Continuous Delivery](#72-continuous-delivery)
+    - [7.2.1. Tools and Practices](#721-tools-and-practices)
+    - [7.2.2. Stages Deployments Pipeline Components](#722-stages-deployments-pipeline-components)
+    - [7.3. Continuous deployment](#73-continuous-deployment)
+    - [7.3.1. Tools and Practices](#731-tools-and-practices)
+    - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
 - [Conclusiones](#conclusiones)
       - [Conclusiones preliminares](#conclusiones-preliminares)
 - [About The Team](#about-the-team)
@@ -5585,6 +5601,25 @@ A continuación se muestran las pruebas realizadas al servicio de reservas.
 
 
 ### 6.1.2. Core Integration Tests
+
+A continuación se presentan los Core Integration Tests que son esenciales para garantizar que los controladores se comuniquen de forma adecuada con otros elementos del sistema, como los servicios y las bases de datos. Al considerar posibles errores, estas pruebas permiten verificar que el sistema responda de manera apropiada ante situaciones imprevistas y utilice los códigos de estado correctos. Esto no solo mejora la experiencia del usuario, sino que también simplifica la depuración y ayuda a construir un software robusto y de alta calidad.
+
+Tenemos los siguientes Core Integration Test:
+
+- IntegrationTestBase
+  ![integrationdb](image.png)
+- BookingControllerIntegrationTest
+  ![booking](image-1.png)
+- ProfileControllerIntegrationTest
+  ![profile](image-2.png)
+- RateControllerIntegrationTest
+  ![rate](image-3.png)
+- ReportControllerIntegrationTest
+  ![report](image-4.png)
+- ScooterControllerIntegrationTest
+  ![scooter](image-5.png)
+
+  
 ### 6.1.3. Core Behavior-Driven Development
 
 En esta sección se muestran las pruebas BDD realizadas a las historias de usuario de nuestra solución haciendo uso del lenguaje Gherkin.
