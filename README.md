@@ -4976,6 +4976,22 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 ![Captura de pantalla 2024-11-17 190848](https://github.com/user-attachments/assets/3c776ed3-3a91-4fd5-a9db-1d930650a981)
 
+
+### 5.2.5 Acuerdo de Servicio - SaaS
+
+- Términos y Condiciones:
+Uso de la Aplicación:
+Nuestra aplicación está diseñada para facilitar el alquiler de scooters eléctricos. Al usarla, aceptas cumplir con nuestras políticas de uso responsable.
+
+- Responsabilidad del Usuario:
+Los usuarios son responsables de cualquier daño causado a los scooters durante el período de alquiler. Se recomienda leer las instrucciones antes de usar.
+
+- Política de Pagos:
+Los pagos en la aplicación se realizan a través de bouchers que son publicados por el usuario.
+
+- Política de Uso para Pagos:
+El cliente es responsable de subir correctamente el baucher de pago a la plataforma, asegurándose de que sea legible y contenga la información necesaria (monto, fecha, y referencia). Una vez subido, el dueño del servicio revisará y validará el baucher. El proceso de validación puede tomar hasta 24 horas. El servicio o producto asociado al pago solo será habilitado después de la aprobación del baucher. En caso de que el baucher sea inválido o ilegible, el dueño podrá rechazarlo y se notificará al cliente para que lo vuelva a subir correctamente.
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
