@@ -5619,7 +5619,7 @@ Tenemos los siguientes Core Integration Test:
 - ScooterControllerIntegrationTest
   ![scooter](image-5.png)
 
-  
+
 ### 6.1.3. Core Behavior-Driven Development
 
 En esta sección se muestran las pruebas BDD realizadas a las historias de usuario de nuestra solución haciendo uso del lenguaje Gherkin.
@@ -5818,6 +5818,19 @@ El proceso de despliegue del producto MoviRent ha sido estructurado mediante un 
 
 ### 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices
+Para el backend, una vez que se genera la imagen Docker con la versión actual del código, esta puede ser desplegada en un entorno de staging o producción, lo cual facilita la entrega continua. La imagen es portable y garantiza que lo que se prueba es exactamente lo que se despliega.
+
+Para la landing page y la aplicación web en Vue, utilizamos Netlify, el cual detecta automáticamente nuevos commits en la rama main y ejecuta los scripts de construcción (npm run build). Una vez compilados, los archivos estáticos son desplegados automáticamente.
+
+Herramientas utilizadas:
+
+- Netlify
+
+- Vue.js
+
+- GitHub
+
+- Docker (para el backend)
 ### 7.3.2. Production Deployment Pipeline Components
 
 Este apartado describe los componentes que forman parte del pipeline de despliegue a producción y cómo se integran para automatizar todo el proceso.
