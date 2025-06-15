@@ -5913,19 +5913,83 @@ Netlify se encarga de invalidar la caché antigua y servir la nueva versión des
 ### 8.1 Experiment Planning
 
 ### 8.1.1. As-Is Summary.
+
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+i. Assumptions: 
+- Los arrendadores estarán dispuestos a alquilar su scooter a desconocidos a través de una app.
+
+- Los usuarios priorizarán la facilidad de uso sobre funcionalidades avanzadas.
+
+- Las medidas de seguridad percibidas (identificación, historial) serán suficientes para generar confianza.
+
+- La rentabilidad para los dueños será un incentivo sostenible.
+
+- La experiencia de usuario (UX) será intuitiva para un rango etario de 18 a 65 años, sin necesidad de capacitaciones adicionales.
+
+ii. Knowledge Gaps
+- ¿Qué nivel de confianza tienen los usuarios hacia plataformas de economía colaborativa en Perú?
+
+- ¿Qué tan seguros se sienten los dueños de scooters de entregar su vehículo a desconocidos?
+
+- ¿Qué elementos visuales o funcionales generan mayor confianza en adultos mayores?
+
+- ¿Qué frecuencia de uso real tendrá un usuario arrendatario en su primer mes?
+
+- ¿Cuáles son las causas más comunes por las que un arrendador no alquila nuevamente?
+
+- ¿Qué tan efectiva será la propuesta frente a los servicios ya establecidos como Emove o Grin?
+
+- ¿Cuánto tiempo están dispuestos a esperar los arrendatarios para recibir una respuesta o confirmar una reserva?
+
+iii. Ideas
+- El tráfico de Lima es un problema estructural que requiere soluciones innovadoras de movilidad.
+
+- Hay una población creciente interesada en vehículos eléctricos pero que no puede o no quiere comprarlos.
+
+- Hay personas que ya poseen scooters y están dispuestas a alquilarlos si existe una plataforma confiable.
+
+- Una interfaz intuitiva y un proceso claro de alquiler generarán confianza y facilitarán la adopción.
+
+- El ahorro económico y el tiempo son los principales motivadores para los arrendatarios.
+
+- La oportunidad de ingreso extra sin esfuerzo es el principal incentivo para los propietarios.
+
+iv. Claims
+Positivas:
+- "La aplicación permitirá que dueños de scooters generen ingresos extra fácilmente."
+
+- "La plataforma será percibida como confiable por usuarios que desconfían de servicios digitales."
+
+- "Reducir el tiempo de desplazamiento será una ventaja competitiva percibida como valiosa."
+
+- "El diseño simple e intuitivo es suficiente para atraer a adultos y adultos mayores."
+
+Negativas:
+- "Los usuarios desconfiarán de prestar o alquilar su scooter sin medidas de seguridad adicionales."
+
+- "El mercado podría saturarse si los dueños no reciben suficientes reservas."
+
+
 ### 8.1.3. Experiment-Ready Questions.
+
 ### 8.1.4. Question Backlog.
+
 ### 8.1.5. Experiment Cards.
 
 ### 8.2. Experiment Design
 
 ### 8.2.1. Hypotheses.
+
 ### 8.2.2. Measures.
+
 ### 8.2.3. Conditions.
+
 ### 8.2.4. Scale Calculations and Decisions.
+
 ### 8.2.5. Methods Selection.
+
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
+
 ### 8.2.7. Web and Mobile Tracking Plan.
 
 # [Conclusiones](#conclusiones)
