@@ -5009,191 +5009,6 @@ Uso No Comercial: El uso de los scooters alquilados está restringido únicament
 
 Prohibición de Subalquiler: El usuario no está autorizado a subarrendar el scooter a terceros mientras esté en uso bajo su cuenta.
 
-## 5.3. Validation Interviews
-
-### 5.3.1 Diseño de Entrevistas
-
-Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
-
-Preguntas generales:
-- ¿Cuál es tu nombre?
-- ¿Qué edad tienes?
-- ¿Dónde vives actualmente?
-- ¿A qué te dedicas?
-
-Preguntas segmento Owner:
-- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
-- ¿Qué opinas sobre el diseño y la funcionalidad de gestión de tus scooters para alquilar, tales como las caracterisitcas que se deben describir y la opción de actualizarlas?
-- ¿Qué funcionalidades le agregarias a la aplicación?
-- ¿Hay alguna cosa que le quitarías a la aplicación?
-- Como dueño de un scooter ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para dar en alquiler un scooter?
-
-Preguntas segmento Client:
-- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
-- ¿Qué opinas sobre el diseño y la funcionalidad de alquiler de scooters, tales como la busqueda, la información de cada scooter y sus reseñas?
-- ¿Qué funcionalidades le agregarias a la aplicación?
-- ¿Hay alguna cosa que le quitarías a la aplicación?
-- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para alquilar un scooter?
-
-<div style="page-break-before: always;"></div>
-
-### 5.3.2. Registro de entrevistas
-
-### Entrevistas segmento 1: Owner
-
-#### Entrevista 1:
-
-Datos del entrevistador:
-* Nombres: Adriana
-* Apellidos: Diestra
-  
-Datos del entrevistado:
-* Nombres: Brad
-* Apellidos: Salas Cabrera
-* Edad: 25
-* Distrito de residencia: Cajamarca
-* Enlace a la entrevista: [ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
-* Duración de la entrevista: 5:21
-
-![WhatsApp Image 2024-10-30 at 9 57 15 PM](https://github.com/user-attachments/assets/c3eb6122-0c79-42df-b489-7cd3edea93fd)
-
-**Informe del resumen de la entrevista:**
-
-Brad Salas, es un joven de 25 años, es productor de música y músico. A Brad le llamó la atención editar los datos porque generalmente en este tipo de páginas no se encuentra la opción rápida. También opina que, le parece interesante el poder alquilar sus scooters en esta aplicación. Menciona que, todas las funcionalidades le gustaron y que no se debería quitar ninguna de los que se encuentran. Recomienda que para mejor experiencia como dueño de un scooter haya cuidado con la limpieza y las horas de carga.
-
-#### Entrevista 2:
-Datos del entrevistador:
-* Nombres: Quique Vladimir
-* Apellidos: Jara Benites
-
-Datos del entrevistado:
-* Nombres: David
-* Apellidos: Beltran Burgos
-* Edad: 25
-* Distrito de residencia: San Borja
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EYGmpJTK9cZFs0mMcUQkUXgBFO8PioPu37mMjlgaLDlNhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0iDvHP)
-* Duración de la entrevista: 7:36
-
-![Screenshot 2024-10-28 121431](https://github.com/user-attachments/assets/7f1050d2-1d9f-4d8b-9574-dadd5fdb2828)
-
-**Informe del resumen de la entrevista:**
-En la entrevista al señor Beltrán se mostro los avances en el desarrollo de la plataforma "Movi Rent." Quique explicó las principales funcionalidades: registro de usuarios, perfiles personalizables, opciones de suscripción para el alquiler de vehículos y scooters, y la posibilidad de gestionar estos scooters en la plataforma.
-
-David ofreció varias sugerencias, como añadir colores a la barra de navegación y soporte para más idiomas, además del español e inglés. También propuso que los usuarios pudieran subir imágenes directamente desde su dispositivo en lugar de usar una URL. Además, preguntó sobre la responsividad de la plataforma y los métodos de pago, señalando que aún se estaba trabajando en la integración de pagos.
-
-#### Entrevista 3:
-Datos del entrevistador:
-* Nombres: Quique Vladimir
-* Apellidos: Jara Benites
-
-Datos del entrevistado:
-* Nombres: Brissa
-* Apellidos: Hoyos Arevalo
-* Edad: 19
-* Distrito de residencia: Rimac
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/ER6yCwPN9GVGr8TvNmwlTD8Bu_VTpoH15RJe45P-NjA0YQ?e=AuKGXy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 10:02
-
-<img width="773" alt="Captura de pantalla 2024-10-28 a la(s) 17 09 47" src="https://github.com/user-attachments/assets/e2ce94cf-80fc-40ac-a3f6-012eaca15f50">
-
-
-**Informe del resumen de la entrevista:**
-En la entrevista, le presentamos nuestra aplicacion a la joven Brissa mostrandole todas las funcionalidades y el tipo de servicios que ofrecemos. Brissa comenta que la aplicacion le parece muy bien para el negocio, destaca las funcionalidades como el filtro de busqueda de los scooters, ademas de que opina sobre el estilo de la pagina.
-
-Nos brinda recomendaciones y funcionalidades que podemos agregar a la aplicacion como la de un chat en donde el cliente puede comunicarse con el propietario del scooter.
-
-### Entrevistas segmento 2: Clientes
-
-#### Entrevista 1:
-
-Datos del entrevistador:
-* Nombres: Roy Linsh
-* Apellidos: Fernández Remón
-
-Datos del entrevistado:
-* Nombres: Jefry
-* Apellidos: Prado Remón
-* Edad: 24
-* Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdcL2jU9tttAtfnSoP_r9b4BP4rnCXU6wiVGyAJJUjEBog?e=sugqaR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 9:00
-
-![Jefri](https://github.com/user-attachments/assets/f80b982d-3ca5-40fd-81d3-756421f1ec9a)
-
-**Informe del resumen de la entrevista:**
-
-Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante la sectorización que se le da al alquiler de los scooter y que este servicio se brinde mediante una página web. También opina que, le parece una propuesta muy interesante el poder ver a que scooter puede acceder y que tan próximo se encuentra a su ubicación. El considera que se le deberia añadir a la aplicación los datos de los Owner, esto le serviría mucho para poder conocer sobre con quien trata el alquiler del scooter. Menciona que, todas las funcionalidades le gustaron y que no se debería quitar ninguna de los que se encuentran. Recomienda que haya una mayor difusión sobre el alquiler de scooter en muchos más distritos para que el servicio pueda llegar a más personas.
-
-La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
-
-
-### Entrevista 2:
-
-Datos del entrevistador:
-* Nombres: Roy Linsh
-* Apellidos: Fernández Remón
-
-Datos del entrevistado:
-* Nombres: Maryori
-* Apellidos: Atanacio Cruces
-* Edad: 23
-* Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 11:11
-
-![Marjori](https://github.com/user-attachments/assets/c3123665-0b21-4497-9103-566b9910b99f)
-
-**Informe del resumen de la entrevista:**
-
-Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que al ingresar a la página le aparezca la sección de registro de cuenta ya que le facilita a que pueda registrarse en el sistema y le evita tener que buscar ese apartado. También opina que, al iniciar sesión en la página, debería salir directamente el apartado de scooter que se puedan alquilar en vez que la del perfil porque siente que le sería mucho mas cómodo el uso. Ella considera que, al momento de registrarse en la página, le gustaria que aparecieran casilleros donde pueda autorizar el poder recibir notificaciones a su correo sobre publicidad y ofertas de scooter así como también si desea aceptar las políticas de privacidad. Menciona que, la opción de buscar scooter no sería muy necesario para ella cuando existan pocas cantidad que poder alquilar pero si es que hubieran muchas más cantidadades de scooter, sería muy importante esa función. Ella recomienda que, cada scooter existente en la página, pueda tener una vista previa en 360° para poder ver su diseño y que también tengan información sobre la altura y peso.
-
-La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
-
-### Entrevista 3:
-
-Datos del entrevistador:
-* Nombre: Adriana
-* Apellido: Diestra
-
-Datos del entrevistado:
-* Nombres: Nicolas
-* Apellidos: Pardo
-* Edad: 20
-* Distrito de residencia: Chorrillos
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
-* Duración de la entrevista: 3:42
-
-![entrevista 12](https://github.com/user-attachments/assets/81b0ed85-1d60-45ca-8eae-843227a9ee59)
-
-**Informe del resumen de la entrevista:**
-
-Nicolas Pardo, es un joven de 20 años, actualmente es estudiante universitario. A Nicolas le parece muy interesante la página. También opina que, al iniciar sesión en la página, debería ser más fácil arrastrar la foto que poner la url. Él agregaría un chat entre el cliente y owner para que se contacten directamente. Él recomienda agregar un poco más de color y diseño para que sea más llamativo.
-
-### Entrevista 4:
-
-Datos del entrevistador:
-* Nombres: Néstor Hernán
-* Apellidos: Velarde Gonzales
-
-Datos del entrevistado:
-* Nombres:Brandom 
-* Apellidos: Mejia Zarate
-* Edad: 21
-* Distrito de residencia: Santiago de Surco
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXgNMBH3FBhHhOxbOmcsjiEBEXUrrbxheUd1LwjKSYAnww?e=4O0cZP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 0:7:39 minutos
-
-![Entrevista a Owner - Mejía Brandon](https://github.com/user-attachments/assets/a1e37586-3583-4e45-893c-dc6a1397daf6)
-
-
-**Informe del resumen de la entrevista:**
-
-Brandom Mejía, actualmente es estudiante de la UPC y reside en la ciudad de Lima, él cuenta con 1 Scooter que suele usar para ir a la universidad o pasear dentro de la ciudad, basandose a nuestro Front-End (Aplicación web) Brandom nos comenta su buena experiencia de usuario al interactuar con nuestro sistema, como primer punto los colores, las informaciones, los botones están bastanbte claro, además le gusta el color y en base de la funcionalidad nos a dado algunas observaciones como agregar a otros idiomas como el Portugues, según él de su propia experiencia nos demuestra que sí estaría dispuesto usar nuestro servicios para rentar su Scooter.
-Finalmente, la conclusión con Brandom a sido bastante positiva, ya que nos a dado una buena retroalimentación de nuestro sistema y nos a dado algunas recomendaciones para mejorar nuestro sistema.
-
-La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
-
-<div style="page-break-before: always;"></div>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -5730,8 +5545,196 @@ En esta sección se muestran las pruebas BDD realizadas a las historias de usuar
 
 <img src="./assets/chapter-06/cs-tests/buscar-scooter.png"/>
 
+### 6.3. Validation Interviews
+
+### 6.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+Preguntas segmento Owner:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de gestión de tus scooters para alquilar, tales como las caracterisitcas que se deben describir y la opción de actualizarlas?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- Como dueño de un scooter ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para dar en alquiler un scooter?
+
+Preguntas segmento Client:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de alquiler de scooters, tales como la busqueda, la información de cada scooter y sus reseñas?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para alquilar un scooter?
+
+<div style="page-break-before: always;"></div>
+
+### 6.3.2. Registro de entrevistas
+
+### Entrevistas segmento 1: Owner
+
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: Adriana
+* Apellidos: Diestra
+  
+Datos del entrevistado:
+* Nombres: Brad
+* Apellidos: Salas Cabrera
+* Edad: 25
+* Distrito de residencia: Cajamarca
+* Enlace a la entrevista: [ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
+* Duración de la entrevista: 5:21
+
+![WhatsApp Image 2024-10-30 at 9 57 15 PM](https://github.com/user-attachments/assets/c3eb6122-0c79-42df-b489-7cd3edea93fd)
+
+**Informe del resumen de la entrevista:**
+
+Brad Salas, es un joven de 25 años, es productor de música y músico. A Brad le llamó la atención editar los datos porque generalmente en este tipo de páginas no se encuentra la opción rápida. También opina que, le parece interesante el poder alquilar sus scooters en esta aplicación. Menciona que, todas las funcionalidades le gustaron y que no se debería quitar ninguna de los que se encuentran. Recomienda que para mejor experiencia como dueño de un scooter haya cuidado con la limpieza y las horas de carga.
+
+#### Entrevista 2:
+Datos del entrevistador:
+* Nombres: Quique Vladimir
+* Apellidos: Jara Benites
+
+Datos del entrevistado:
+* Nombres: David
+* Apellidos: Beltran Burgos
+* Edad: 25
+* Distrito de residencia: San Borja
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EYGmpJTK9cZFs0mMcUQkUXgBFO8PioPu37mMjlgaLDlNhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0iDvHP)
+* Duración de la entrevista: 7:36
+
+![Screenshot 2024-10-28 121431](https://github.com/user-attachments/assets/7f1050d2-1d9f-4d8b-9574-dadd5fdb2828)
+
+**Informe del resumen de la entrevista:**
+En la entrevista al señor Beltrán se mostro los avances en el desarrollo de la plataforma "Movi Rent." Quique explicó las principales funcionalidades: registro de usuarios, perfiles personalizables, opciones de suscripción para el alquiler de vehículos y scooters, y la posibilidad de gestionar estos scooters en la plataforma.
+
+David ofreció varias sugerencias, como añadir colores a la barra de navegación y soporte para más idiomas, además del español e inglés. También propuso que los usuarios pudieran subir imágenes directamente desde su dispositivo en lugar de usar una URL. Además, preguntó sobre la responsividad de la plataforma y los métodos de pago, señalando que aún se estaba trabajando en la integración de pagos.
+
+#### Entrevista 3:
+Datos del entrevistador:
+* Nombres: Quique Vladimir
+* Apellidos: Jara Benites
+
+Datos del entrevistado:
+* Nombres: Brissa
+* Apellidos: Hoyos Arevalo
+* Edad: 19
+* Distrito de residencia: Rimac
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/ER6yCwPN9GVGr8TvNmwlTD8Bu_VTpoH15RJe45P-NjA0YQ?e=AuKGXy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 10:02
+
+<img width="773" alt="Captura de pantalla 2024-10-28 a la(s) 17 09 47" src="https://github.com/user-attachments/assets/e2ce94cf-80fc-40ac-a3f6-012eaca15f50">
+
+
+**Informe del resumen de la entrevista:**
+En la entrevista, le presentamos nuestra aplicacion a la joven Brissa mostrandole todas las funcionalidades y el tipo de servicios que ofrecemos. Brissa comenta que la aplicacion le parece muy bien para el negocio, destaca las funcionalidades como el filtro de busqueda de los scooters, ademas de que opina sobre el estilo de la pagina.
+
+Nos brinda recomendaciones y funcionalidades que podemos agregar a la aplicacion como la de un chat en donde el cliente puede comunicarse con el propietario del scooter.
+
+### Entrevistas segmento 2: Clientes
+
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Jefry
+* Apellidos: Prado Remón
+* Edad: 24
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdcL2jU9tttAtfnSoP_r9b4BP4rnCXU6wiVGyAJJUjEBog?e=sugqaR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 9:00
+
+![Jefri](https://github.com/user-attachments/assets/f80b982d-3ca5-40fd-81d3-756421f1ec9a)
+
+**Informe del resumen de la entrevista:**
+
+Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante la sectorización que se le da al alquiler de los scooter y que este servicio se brinde mediante una página web. También opina que, le parece una propuesta muy interesante el poder ver a que scooter puede acceder y que tan próximo se encuentra a su ubicación. El considera que se le deberia añadir a la aplicación los datos de los Owner, esto le serviría mucho para poder conocer sobre con quien trata el alquiler del scooter. Menciona que, todas las funcionalidades le gustaron y que no se debería quitar ninguna de los que se encuentran. Recomienda que haya una mayor difusión sobre el alquiler de scooter en muchos más distritos para que el servicio pueda llegar a más personas.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
+
+
+### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Maryori
+* Apellidos: Atanacio Cruces
+* Edad: 23
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 11:11
+
+![Marjori](https://github.com/user-attachments/assets/c3123665-0b21-4497-9103-566b9910b99f)
+
+**Informe del resumen de la entrevista:**
+
+Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que al ingresar a la página le aparezca la sección de registro de cuenta ya que le facilita a que pueda registrarse en el sistema y le evita tener que buscar ese apartado. También opina que, al iniciar sesión en la página, debería salir directamente el apartado de scooter que se puedan alquilar en vez que la del perfil porque siente que le sería mucho mas cómodo el uso. Ella considera que, al momento de registrarse en la página, le gustaria que aparecieran casilleros donde pueda autorizar el poder recibir notificaciones a su correo sobre publicidad y ofertas de scooter así como también si desea aceptar las políticas de privacidad. Menciona que, la opción de buscar scooter no sería muy necesario para ella cuando existan pocas cantidad que poder alquilar pero si es que hubieran muchas más cantidadades de scooter, sería muy importante esa función. Ella recomienda que, cada scooter existente en la página, pueda tener una vista previa en 360° para poder ver su diseño y que también tengan información sobre la altura y peso.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
+
+### Entrevista 3:
+
+Datos del entrevistador:
+* Nombre: Adriana
+* Apellido: Diestra
+
+Datos del entrevistado:
+* Nombres: Nicolas
+* Apellidos: Pardo
+* Edad: 20
+* Distrito de residencia: Chorrillos
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
+* Duración de la entrevista: 3:42
+
+![entrevista 12](https://github.com/user-attachments/assets/81b0ed85-1d60-45ca-8eae-843227a9ee59)
+
+**Informe del resumen de la entrevista:**
+
+Nicolas Pardo, es un joven de 20 años, actualmente es estudiante universitario. A Nicolas le parece muy interesante la página. También opina que, al iniciar sesión en la página, debería ser más fácil arrastrar la foto que poner la url. Él agregaría un chat entre el cliente y owner para que se contacten directamente. Él recomienda agregar un poco más de color y diseño para que sea más llamativo.
+
+### Entrevista 4:
+
+Datos del entrevistador:
+* Nombres: Néstor Hernán
+* Apellidos: Velarde Gonzales
+
+Datos del entrevistado:
+* Nombres:Brandom 
+* Apellidos: Mejia Zarate
+* Edad: 21
+* Distrito de residencia: Santiago de Surco
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXgNMBH3FBhHhOxbOmcsjiEBEXUrrbxheUd1LwjKSYAnww?e=4O0cZP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 0:7:39 minutos
+
+![Entrevista a Owner - Mejía Brandon](https://github.com/user-attachments/assets/a1e37586-3583-4e45-893c-dc6a1397daf6)
+
+
+**Informe del resumen de la entrevista:**
+
+Brandom Mejía, actualmente es estudiante de la UPC y reside en la ciudad de Lima, él cuenta con 1 Scooter que suele usar para ir a la universidad o pasear dentro de la ciudad, basandose a nuestro Front-End (Aplicación web) Brandom nos comenta su buena experiencia de usuario al interactuar con nuestro sistema, como primer punto los colores, las informaciones, los botones están bastanbte claro, además le gusta el color y en base de la funcionalidad nos a dado algunas observaciones como agregar a otros idiomas como el Portugues, según él de su propia experiencia nos demuestra que sí estaría dispuesto usar nuestro servicios para rentar su Scooter.
+Finalmente, la conclusión con Brandom a sido bastante positiva, ya que nos a dado una buena retroalimentación de nuestro sistema y nos a dado algunas recomendaciones para mejorar nuestro sistema.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
+
+<div style="page-break-before: always;"></div>
+
+
 ## Capítulo VII: Devops Practices
 ### 7.1. Continuous Integration
+
 ### 7.1.1. Tools and Practices
 
 En el desarrollo y las pruebas de software, es clave contar con herramientas y métodos que aseguren la calidad del código y la eficiencia del equipo. En nuestro proceso, usamos diversas herramientas que optimizan tanto la creación como la validación de la funcionalidad y el comportamiento esperado de la aplicación. Estas herramientas abarcan distintas fases del ciclo de vida del software, desde la escritura del código hasta la ejecución de pruebas y la automatización de tareas.
@@ -5905,7 +5908,25 @@ Actualización inmediata:
 Netlify se encarga de invalidar la caché antigua y servir la nueva versión desde su CDN, asegurando que los usuarios vean los últimos cambios.
 
 
+## Capítulo VIII: Experiment-Driven-Development
 
+### 8.1 Experiment Planning
+
+### 8.1.1. As-Is Summary.
+### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
+### 8.1.3. Experiment-Ready Questions.
+### 8.1.4. Question Backlog.
+### 8.1.5. Experiment Cards.
+
+### 8.2. Experiment Design
+
+### 8.2.1. Hypotheses.
+### 8.2.2. Measures.
+### 8.2.3. Conditions.
+### 8.2.4. Scale Calculations and Decisions.
+### 8.2.5. Methods Selection.
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
+### 8.2.7. Web and Mobile Tracking Plan.
 
 # [Conclusiones](#conclusiones)
 
