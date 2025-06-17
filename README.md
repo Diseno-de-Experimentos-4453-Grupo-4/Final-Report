@@ -5664,6 +5664,91 @@ Finalmente, la conclusión con Brandom a sido bastante positiva, ya que nos a da
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
+### 6.4. Auditoría de Experiencias de Usuario
+
+### 6.4.1. Auditoría realizada
+
+#### 6.4.1.1. Información del grupo auditado
+
+- Nombre del responsable de auditoría: CiberMach
+-	Especialización: Expertos en diseño de experiencia de usuario (UX), pruebas de usabilidad y desarrollo de software.
+-	Fecha de auditoría: 13/06/2025
+- Herramientas utilizadas:
+  - Navegador web (Google Chrome)
+  - Análisis de prototipos y capturas de pantalla
+  - Documentación del proyecto (README.md)
+
+
+#### 6.4.1.2. Cronograma de auditoría realizada
+
+La auditoría de la experiencia de usuario se llevó a cabo en el siguiente cronograma:
+
+
+| Fecha | Actividad | Responsable |
+| ----- | --------- | ----------- |
+|   11/06/2025    |   Revisión de las vistas principales (Autenticación, publicación de objetos, selección de oferta y confirmación).	        |    Sebastian Valente lobato Pozo        |
+| 12/06/2025 |  Evaluación heurística y análisis de problemas de usabilidad en los flujos principales | Mathias Alejandro Jave Diaz |
+| 13/06/2025 | Elaboración del informe de auditoría y recomendaciones de mejora | Alexandra Belen Ramos Argüelles | 
+
+
+#### 6.4.1.3. Contenido de auditoría realizada
+
+
+| #   | Problema                                                                                                                                        | Escala de servidad | Heurística/Principio violado(a)                           |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------- |
+| 1   | Intuitividad del formulario de publicación de objetos (instrucciones claras, divisiones, subtítulos, campos destacados).	 | 2                  | Ayuda y documentación |
+| 2   | Consistencia en la paleta de colores (amarillo y blanco) y tipografía en todas las pantallas para una experiencia uniforme y moderna.	                                     | 3                  | Consistencia y estándares|
+| 3   | Efectividad de la búsqueda y filtrado de organizaciones benéficas por nombre, localidad y categoría. | 3                  | Flexibilidad y eficiencia de uso|
+| 4   | Claridad en la pantalla de selección de oferta y confirmación (indicación de lo que se ofrece, imagen, flechas de conexión).	                    | 3      | Visibilidad del estado del sistema |
+| 5   | Organización visual y legibilidad de la información en las publicaciones de la pantalla de inicio (espaciado, sombreado, tamaño de letra).	                                             | 2                  | Estética y diseño minimalista                        |
+| 6   | Claridad en los mensajes de éxito/error después de acciones clave como inicio de sesión, registro o publicación. ¿Son lo suficientemente informativos o solo genéricos?	                                                              | 2                  | Visibilidad del estado del sistema                        |
+| 7   | Feedback visual al interactuar con botones o elementos clicables. ¿Hay un estado visual claro (por ejemplo, cambio de color, efecto de pulsación) cuando el usuario presiona un botón?	                                               | 3                  | Visibilidad del estado del sistema                        |
+| 8   | Gestión de errores y validación de campos en formularios (ej. registro, publicación). ¿Se muestra al usuario qué campos faltan o son incorrectos antes de enviar el formulario?	                | 3                  | Prevención de errores     |
+| 9   | Información de privacidad o seguridad en las pantallas de inicio de sesión/registro. ¿Hay alguna indicación visible sobre cómo se protegerán los datos del usuario?	                             | 1                  | Coincidencia entre el sistema y el mundo real                 |
+| 10  | Navegación entre las diferentes secciones (Mi Perfil, favoritos, reseñas, suscripciones). ¿Es intuitiva y se entiende fácilmente cómo volver atrás o ir a otras secciones principales?	                                                       | 2                  | Control y libertad del usuario                        |
+
+### 6.4.2. Auditoría recibida
+
+#### 6.4.2.1. Información del grupo auditado
+
+- Nombre del responsable de auditoría: TechZo
+-	Especialización: Expertos en diseño de experiencia de usuario (UX), pruebas de usabilidad y desarrollo de software.
+-	Fecha de auditoría: 12/06/2025
+- Herramientas utilizadas:
+  - Navegador web (Google Chrome)
+  - Análisis de prototipos y capturas de pantalla
+  - Documentación del proyecto (README.md)
+
+
+#### 6.4.2.2. Cronograma de auditoría realizada
+
+La auditoría de la experiencia de usuario se llevó a cabo en el siguiente cronograma:
+
+
+| Fecha | Actividad | Responsable |
+| ----- | --------- | ----------- |
+|   10/06/2025    |   Revisión de las vistas principales de la plataforma (suscripción, scooters, historial, pagos, creación/edición)        |    Claudio Sandro Quispesivana Torres         |
+| 11/06/2025 |  Evaluación heurística y análisis de problemas de usabilidad en los flujos principales | Jeremy Joel Quispe Andia |
+| 12/06/2025 | Elaboración del informe de auditoría y recomendaciones de mejora | Joseph Alexis Huamani Mandujano| 
+
+
+#### 6.4.2.3. Contenido de auditoría realizada
+
+
+| #   | Problema                                                                                                                                        | Escala de servidad | Heurística/Principio violado(a)                           |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------- |
+| 1   | El botón "Cancelar" y "Borrar" en los popups de confirmación tienen colores similares a los de acción principal, lo que puede causar confusión. | 3                  | Prevención de errores, Reconocer antes que recordar       |
+| 2   | En la vista de suscripción, no se explica claramente qué incluye cada plan ni hay un enlace a más detalles.                                     | 2                  | Ayuda y documentación, Visibilidad del estado del sistema |
+| 3   | En la vista de creación/edición de scooter, no hay validación visible para los campos obligatorios.                                             | 3                  | Prevención de errores, Control y libertad del usuario     |
+| 4   | El mensaje "Tus datos no podrán se recuperados" tiene un error gramatical ("se" en vez de "ser").                                               | 1                  | Ayuda y documentación, Estándares y consistencia          |
+| 5   | No hay retroalimentación visual clara tras realizar acciones como editar o eliminar scooter/cuenta.                                             | 3                  | Visibilidad del estado del sistema                        |
+| 6   | El botón "Ver detalle" no indica claramente qué información adicional se mostrará.                                                              | 2                  | Visibilidad del estado del sistema                        |
+| 7   | No hay confirmación visual tras eliminar historial o scooter, lo que puede generar incertidumbre.                                               | 3                  | Visibilidad del estado del sistema                        |
+| 8   | El botón "Cancelar" en los popups de pago puede ser ambiguo, ya que no se especifica si cancela el pago o la operación completa.                | 2                  | Prevención de errores, Control y libertad del usuario     |
+| 9   | No hay accesibilidad evidente (por ejemplo, no se observa contraste suficiente en algunos textos sobre fondo lila).                             | 3                  | Accesibilidad, Estándares y consistencia                  |
+| 10  | El botón "Buscar Scooter" no indica si hay un filtro aplicado o si la búsqueda es global.                                                       | 2                  | Visibilidad del estado del sistema                        |
+
+
 <div style="page-break-before: always;"></div>
 
 
