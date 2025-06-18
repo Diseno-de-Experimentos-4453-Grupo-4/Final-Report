@@ -6099,6 +6099,15 @@ Negativas:
 
 ### 8.1.3. Experiment-Ready Questions.
 
+| Question                                                                                                                         | Confidence | Risk | Impact | Interest | Puntaje Total |
+|----------------------------------------------------------------------------------------------------------------------------------|:----------:|:----:|:------:|:--------:|:-------------:|
+| ¿Aumentará la tasa de registro de nuevos Owners si destacamos en la interfaz principal la ganancia potencial y la seguridad?      |     4      |  2   |   4    |    5     |      15       |
+| ¿Mejorará la tasa de conversión a alquiler si simplificamos el flujo de reserva a 3 pasos (buscar, seleccionar, pagar)?           |     3      |  3   |   5    |    4     |      15       |
+| ¿Se reducirá el abandono en el proceso de registro de Owners si implementamos un sistema de verificación visualmente prominente?  |     4      |  2   |   4    |    4     |      14       |
+| ¿Incrementará la frecuencia de alquiler en Clients si ofrecemos un descuento del 15% tras completar su perfil al 100%?            |     3      |  3   |   4    |    4     |      14       |
+| ¿Aumentará la percepción de seguridad y disposición a alquilar si mostramos reseñas y calificación promedio del Owner?            |     5      |  1   |   4    |    5     |      15       |
+
+
 ### 8.1.4. Question Backlog.
 
 La bitácora de preguntas (Question Backlog) es el motor que impulsa nuestro aprendizaje en MoviRent. Centraliza todas las incertidumbres críticas que tenemos sobre nuestros usuarios (tanto Owners como Clients), el producto y el mercado. Su propósito es transformar nuestras suposiciones y brechas de conocimiento en preguntas concretas que podamos responder a través de la experimentación, permitiéndonos tomar decisiones basadas en evidencia.
@@ -6222,6 +6231,13 @@ La asignación de usuarios a cada condición se realizará de manera aleatoria p
 ### 8.2.4. Scale Calculations and Decisions.
 
 ### 8.2.5. Methods Selection.
+
+| Pregunta                                                                                                              | Método                       | Razón                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------|
+| ¿Reducirá el tiempo de activación del servicio integrar validación automática de bouchers?                           | Prueba A/B + Medición de KPIs| Permite comparar el tiempo de activación antes y después de la integración de la validación.|
+| ¿Mejorará la experiencia del usuario al integrar una pasarela de pago directa en lugar del baucher?                  | Encuesta + Prueba de Usabilidad| Recoge feedback directo de usuarios y mide facilidad/percepción del nuevo flujo de pago.    |
+| ¿Reducirá la tasa de conflictos implementar un sistema de reporte de daños antes del uso del scooter?                | Análisis de métricas + Entrevistas| Permite medir la tasa de conflictos y entender causas a través de feedback
+
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
 
