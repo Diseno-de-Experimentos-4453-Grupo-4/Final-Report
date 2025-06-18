@@ -6241,6 +6241,35 @@ La asignación de usuarios a cada condición se realizará de manera aleatoria p
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
 
+| ID | Objetivo Estratégico                     | Descripción                                                                                                         |
+|----|------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| G1 | Aumentar la adopción de la plataforma    | Incrementar el número de registros completos y publicaciones de scooters.                                           |
+| G2 | Mejorar la conversión de reservas        | Aumentar la cantidad de reservas completadas respecto al total de sesiones con intención de alquilar.               |
+| G3 | Reducir la fricción en procesos críticos | Identificar y minimizar puntos de abandono en flujos de registro, reserva y pago.                                   |
+| G4 | Aumentar la percepción de seguridad      | Evaluar el impacto de funcionalidades como verificaciones, calificaciones y reseñas sobre la confianza del usuario. |
+| G5 | Maximizar la retención de usuarios       | Incentivar el uso recurrente tanto para arrendadores como arrendatarios.                                            |
+
+| ID    | KPI                                       | Fórmula                                                                  | Frecuencia de Medición | Meta                              |
+|-------|-------------------------------------------|--------------------------------------------------------------------------|------------------------|-----------------------------------|
+| KPI-1 | Tasa de registro completo (Owners)        | (# registros completados) / (# visitas al formulario)                    | Semanal                | ≥ 40%                             |
+| KPI-2 | Tasa de publicación de scooters           | (# scooters publicados) / (# usuarios Owners registrados)                | Semanal                | ≥ 60%                             |
+| KPI-3 | Tasa de conversión de reserva             | (# reservas completadas) / (# sesiones con intención de alquiler)        | Diario                 | ≥ 50%                             |
+| KPI-4 | Tasa de abandono en flujo de pago         | (# abandonos) / (# inicios de proceso de pago)                           | Diario                 | ≤ 20%                             |
+| KPI-5 | Nivel de satisfacción con proceso de pago | Encuesta post-transacción (NPS o CSAT)                                   | Quincenal              | ≥ 4/5                             |
+| KPI-6 | Percepción de seguridad                   | Encuesta sobre confianza en la app (seguridad de datos y alquiler)       | Mensual                | ≥ 80% usuarios se sienten seguros |
+| KPI-7 | Tasa de retención (Clients)               | (# usuarios que vuelven a reservar) / (# usuarios activos)               | Mensual                | ≥ 40%                             |
+| KPI-8 | Tasa de recurrencia de Owners             | (# Owners con publicaciones activas por ≥ 2 ciclos) / (# Owners totales) | Mensual                | ≥ 50%                             |
+
+| Categoría              | Métrica                                             | Descripción                                                          |
+|------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
+| Experiencia de usuario | Tiempo medio para completar reserva                 | Flujo completo desde selección hasta confirmación.                   |
+| Experiencia de usuario | Tiempo promedio en el formulario de publicación     | Medida de fricción cognitiva en Owners.                              |
+| Técnica                | % de fallos en carga de bouchers                    | Indica errores del sistema o usuarios en el proceso de verificación. |
+| Técnica                | Tiempo promedio entre carga de baucher y activación | Compara rendimiento con y sin automatización.                        |
+| Seguridad              | Número de reportes de daños antes del uso           | Mide adopción del nuevo sistema de control preventivo.               |
+| Seguridad              | Número de conflictos evitados por reporte previo    | Evalúa efectividad del sistema de daños.                             |
+
+
 ### 8.2.7. Web and Mobile Tracking Plan
 
 Para MoviRent, nuestro objetivo es monitorear y optimizar las aplicaciones web y móvil con el fin de mejorar los flujos de reserva, validar procesos de pago y garantizar una experiencia de usuario fluida y segura. A medida que avanzamos en la fase final del proyecto, hemos definido un plan de seguimiento detallado que nos permitirá medir con precisión el impacto de las funcionalidades experimentales sobre los usuarios.
