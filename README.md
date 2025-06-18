@@ -5936,15 +5936,15 @@ Netlify se encarga de invalidar la caché antigua y servir la nueva versión des
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
 i. Assumptions: 
-- Los arrendadores estarán dispuestos a alquilar su scooter a desconocidos a través de una app.
+- Al menos el 40% de los arrendadores registrados alquilarán su scooter a desconocidos a través de la app durante los primeros 30 días, asumiendo que las condiciones de seguridad y facilidad operativa sean percibidas como suficientes.
 
-- Los usuarios priorizarán la facilidad de uso sobre funcionalidades avanzadas.
+- Más del 70% de los usuarios priorizarán la facilidad de uso sobre funcionalidades avanzadas, completando el flujo de reserva en menos de 3 minutos durante su primera sesión.
 
-- Las medidas de seguridad percibidas (identificación, historial) serán suficientes para generar confianza.
+- El 80% de los usuarios confiarán en las medidas de seguridad implementadas (verificación de identidad, historial del usuario), reflejado en una tasa de abandono del proceso de registro menor al 20%.
 
-- La rentabilidad para los dueños será un incentivo sostenible.
+- Al menos el 60% de los propietarios activos considerarán rentable el uso de la app si generan S/80 o más al mes, y publicarán nuevamente su scooter en los siguientes 30 días.
 
-- La experiencia de usuario (UX) será intuitiva para un rango etario de 18 a 65 años, sin necesidad de capacitaciones adicionales.
+- El 85% de los usuarios entre 18 y 65 años serán capaces de utilizar la app sin asistencia adicional, completando el proceso de reserva o publicación en menos de 10 minutos durante pruebas de usabilidad.- 
 
 ii. Knowledge Gaps
 - ¿Qué nivel de confianza tienen los usuarios hacia plataformas de economía colaborativa en Perú?
