@@ -5994,6 +5994,59 @@ Negativas:
 
 ### 8.1.4. Question Backlog.
 
+La bitácora de preguntas (Question Backlog) es el motor que impulsa nuestro aprendizaje en MoviRent. Centraliza todas las incertidumbres críticas que tenemos sobre nuestros usuarios (tanto Owners como Clients), el producto y el mercado. Su propósito es transformar nuestras suposiciones y brechas de conocimiento en preguntas concretas que podamos responder a través de la experimentación, permitiéndonos tomar decisiones basadas en evidencia.
+
+A continuación, se presenta la bitácora de preguntas priorizadas para MoviRent:
+
+&lt;table border="1px" align="center">
+&lt;thead>
+&lt;tr>
+&lt;th>ID&lt;/th>
+&lt;th>Pregunta de Experimento&lt;/th>
+&lt;th>Origen / Suposición Clave&lt;/th>
+&lt;th>Prioridad&lt;/th>
+&lt;th>Estado&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>QB-01&lt;/td>
+&lt;td>¿Aumentará la tasa de registro de nuevos &lt;i>Owners&lt;/i> si destacamos en la interfaz principal la ganancia potencial y la seguridad del alquiler?&lt;/td>
+&lt;td>Suposición de negocio: El principal incentivo para los Owners es la oportunidad de ingreso extra sin esfuerzo. (Sección 1.2.2.2)&lt;/td>
+&lt;td>Alta&lt;/td>
+&lt;td>Pendiente&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>QB-02&lt;/td>
+&lt;td>¿Mejorará la tasa de conversión a alquiler si simplificamos el flujo de reserva a 3 pasos (buscar, seleccionar, pagar) en lugar del flujo actual?&lt;/td>
+&lt;td>Hipótesis (Cliente): Creemos que al simplificar el proceso, aumentaremos la cantidad de nuevos usuarios. (Sección 1.2.2.3)&lt;/td>
+&lt;td>Alta&lt;/td>
+&lt;td>Pendiente&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>QB-03&lt;/td>
+&lt;td>¿Se reducirá el abandono en el proceso de registro de &lt;i>Owners&lt;/i> si implementamos un sistema de verificación de identidad visualmente prominente (ej. con insignias de "Confianza y Seguridad")?&lt;/td>
+&lt;td>Brecha de conocimiento: ¿Qué tan seguros se sienten los dueños de scooters de entregar su vehículo a desconocidos? (Sección 8.1.2)&lt;/td>
+&lt;td>Media&lt;/td>
+&lt;td>Pendiente&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>QB-04&lt;/td>
+&lt;td>¿Incrementará la frecuencia de alquiler en &lt;i>Clients&lt;/i> si ofrecemos un descuento del 15% en la primera reserva después de completar su perfil al 100%?&lt;/td>
+&lt;td>Idea: Incentivar la finalización del perfil para obtener más datos del usuario y fomentar el primer uso.&lt;/td>
+&lt;td>Media&lt;/td>
+&lt;td>Pendiente&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>QB-05&lt;/td>
+&lt;td>¿Aumentará la percepción de seguridad y la disposición a alquilar en los &lt;i>Clients&lt;/i> si mostramos de forma obligatoria las reseñas y la calificación promedio del &lt;i>Owner&lt;/i> en la vista de detalle del scooter?&lt;/td>
+&lt;td>Suposición (Cliente): Valoran la seguridad, confiabilidad y soporte que proporcionamos. (Sección 1.2.2.2)&lt;/td>
+&lt;td>Baja&lt;/td>
+&lt;td>Pendiente&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+
 ### 8.1.5. Experiment Cards.
 
 <table>
@@ -6063,6 +6116,26 @@ Negativas:
 ### 8.2.2. Measures.
 
 ### 8.2.3. Conditions.
+
+Para que un experimento sea válido, es fundamental definir claramente las condiciones, que son las distintas variantes de la experiencia que se mostrarán a diferentes grupos de usuarios. Esto nos permite aislar el impacto de un cambio específico y medir sus efectos de manera precisa.
+
+Basándonos en nuestra hipótesis de negocio clave (sección 1.2.2.3): "Creemos que al simplificar el proceso de poner en alquiler un scooter en nuestra plataforma, aumentaremos la cantidad de arrendadores (Owners)", diseñamos un experimento con las siguientes condiciones:
+
+Experimento: Simplificación del formulario de publicación de scooters.
+
+Variable a modificar: El número de campos y pasos requeridos para que un Owner publique su scooter.
+Métrica principal: Tasa de finalización del formulario (N.º de scooters publicados / N.º de usuarios que iniciaron el proceso).
+Las condiciones del experimento serán:
+
+Condición A (Control):
+
+Descripción: Representa la versión actual de la plataforma MoviRent. Los usuarios asignados a este grupo verán el formulario de publicación de scooters tal como está diseñado, con todos sus campos y pasos actuales (ej. descripción detallada, múltiples imágenes, especificaciones técnicas completas, etc.).
+Propósito: Este grupo servirá como nuestra línea base o punto de referencia. El rendimiento de la métrica en este grupo nos dirá qué tan efectivo es el proceso actual sin ninguna modificación.
+Condición B (Tratamiento):
+
+Descripción: A los usuarios de este grupo se les presentará una versión simplificada del formulario de publicación. Este formulario reducirá el número de campos a los más esenciales (ej. marca, modelo, ubicación y una foto principal), consolidando el proceso en un solo paso. Los campos opcionales se moverán a una sección de "Editar detalles" accesible después de la publicación inicial.
+Propósito: Esta condición nos permitirá medir si, al reducir la fricción y el esfuerzo cognitivo, efectivamente logramos que más Owners completen el proceso y publiquen su scooter, validando así nuestra hipótesis.
+La asignación de usuarios a cada condición se realizará de manera aleatoria para garantizar que los resultados sean estadísticamente significativos y no estén influenciados por sesgos.
 
 ### 8.2.4. Scale Calculations and Decisions.
 
