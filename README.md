@@ -249,6 +249,91 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [Capítulo I: Introducción](#capítulo-i-introducción-1)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+      - [Estrategias competitivas para MoviRent:](#estrategias-competitivas-para-movirent)
+      - [Tácticas específicas para MoviRent:](#tácticas-específicas-para-movirent)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [Entrevistas segmento 01: Owner](#entrevistas-segmento-01-owner)
+      - [Entrevistas segmento 2: Client](#entrevistas-segmento-2-client)
+    - [2.2.2 Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [Entrevistas segmento 1: Owners](#entrevistas-segmento-1-owners)
+      - [Entrevista 1:](#entrevista-1)
+      - [Entrevista 2:](#entrevista-2)
+      - [Entrevista 3:](#entrevista-3)
+    - [Entrevistas segmento 2: Clientes](#entrevistas-segmento-2-clientes)
+      - [Entrevista 1:](#entrevista-1-1)
+    - [Entrevista 2:](#entrevista-2-1)
+    - [Entrevista 3:](#entrevista-3-1)
+    - [Entrevista 4:](#entrevista-4)
+    - [2.2.3 Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [Owner:](#owner)
+    - [Client:](#client)
+    - [Principales diferencias y coincidencias entre los User Personas:](#principales-diferencias-y-coincidencias-entre-los-user-personas)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [Brand Name](#brand-name)
+      - [Colores](#colores)
+      - [Tipografía](#tipografía)
+      - [Espaciado](#espaciado)
+      - [Tono de comunicación y lenguaje aplicado](#tono-de-comunicación-y-lenguaje-aplicado)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [Botones en la Parte Superior Derecha del Home Page](#botones-en-la-parte-superior-derecha-del-home-page)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [**Landing Page**](#landing-page)
+      - [**Aplicación Web**](#aplicación-web)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment-1)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -292,10 +377,18 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
       - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
       - [5.2.4.8. Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
-	- [5.2.5. Acuerdo de Servicio - SaaS](#525-acuerdo-de-servicio-saas)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.2.5 Acuerdo de Servicio - SaaS](#525-acuerdo-de-servicio---saas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video about the product](#54-video-about-the-product)
+  - [Capítulo VI: Product Verification \& Validation](#capítulo-vi-product-verification--validation)
+    - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)
+      - [](#)
+    - [6.1.2. Core Integration Tests](#612-core-integration-tests)
+    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
+    - [6.1.4. Core System Tests](#614-core-system-tests)
+    - [6.3. Validation Interviews](#63-validation-interviews)
+    - [6.3.1 Diseño de Entrevistas](#631-diseño-de-entrevistas)
+    - [6.3.2. Registro de entrevistas](#632-registro-de-entrevistas)
     - [Entrevistas segmento 1: Owner](#entrevistas-segmento-1-owner)
       - [Entrevista 1:](#entrevista-1-2)
       - [Entrevista 2:](#entrevista-2-2)
@@ -305,18 +398,15 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [Entrevista 2:](#entrevista-2-3)
     - [Entrevista 3:](#entrevista-3-3)
     - [Entrevista 4:](#entrevista-4-1)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4. Video about the product](#54-video-about-the-product)
-  - [Capítulo VI: Product Verification \& Validation](#capítulo-vi-product-verification--validation)
-    - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)
-    - [6.1.2. Core Integration Tests](#612-core-integration-tests)
-    - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
-    - [6.1.4. Core System Tests](#614-core-system-tests)
-	- [6.2. Static testing & Verification]
-	- [6.2.1. Static Code Analysis]
-	- [6.2.1.1. Coding standard & Code conventions.]
-	- [6.2.1.2. Code Quality & Code Security.]
-	- [6.2.2. Reviews]
+    - [6.4. Auditoría de Experiencias de Usuario](#64-auditoría-de-experiencias-de-usuario)
+    - [6.4.1. Auditoría realizada](#641-auditoría-realizada)
+      - [6.4.1.1. Información del grupo auditado](#6411-información-del-grupo-auditado)
+      - [6.4.1.2. Cronograma de auditoría realizada](#6412-cronograma-de-auditoría-realizada)
+      - [6.4.1.3. Contenido de auditoría realizada](#6413-contenido-de-auditoría-realizada)
+    - [6.4.2. Auditoría recibida](#642-auditoría-recibida)
+      - [6.4.2.1. Información del grupo auditado](#6421-información-del-grupo-auditado)
+      - [6.4.2.2. Cronograma de auditoría realizada](#6422-cronograma-de-auditoría-realizada)
+      - [6.4.2.3. Contenido de auditoría realizada](#6423-contenido-de-auditoría-realizada)
   - [Capítulo VII: Devops Practices](#capítulo-vii-devops-practices)
     - [7.1. Continuous Integration](#71-continuous-integration)
     - [7.1.1. Tools and Practices](#711-tools-and-practices)
@@ -327,21 +417,21 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [7.3. Continuous deployment](#73-continuous-deployment)
     - [7.3.1. Tools and Practices](#731-tools-and-practices)
     - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
-  - [Capítulo VIII: Experiment-Driven Development]
-	- [Experiment Planning]
-	- [As-Is Summary.]
-	- [Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.]
-	- [Experiment-Ready Questions.]
-	- [Question Backlog.]
-	- [Experiment Cards.]
-	- [Experiment Design]
-	- [Hypotheses.]
-	- [Measures.]
-	- [Conditions.]
-	- [Scale Calculations and Decisions.]
-	- [Methods Selection.]
-	- [Data Analytics: Goals, KPIs and Metrics Selection.]
-	- [Web and Mobile Tracking Plan]
+  - [Capítulo VIII: Experiment-Driven-Development](#capítulo-viii-experiment-driven-development)
+    - [8.1 Experiment Planning](#81-experiment-planning)
+    - [8.1.1. As-Is Summary.](#811-as-is-summary)
+    - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)
+    - [8.1.3. Experiment-Ready Questions.](#813-experiment-ready-questions)
+    - [8.1.4. Question Backlog.](#814-question-backlog)
+    - [8.1.5. Experiment Cards.](#815-experiment-cards)
+    - [8.2. Experiment Design](#82-experiment-design)
+    - [8.2.1. Hypotheses.](#821-hypotheses)
+    - [8.2.2. Measures.](#822-measures)
+    - [8.2.3. Conditions.](#823-conditions)
+    - [8.2.4. Scale Calculations and Decisions.](#824-scale-calculations-and-decisions)
+    - [8.2.5. Methods Selection.](#825-methods-selection)
+    - [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.](#826-data-analytics-goals-kpis-and-metrics-selection)
+    - [8.2.7. Web and Mobile Tracking Plan.](#827-web-and-mobile-tracking-plan)
 - [Conclusiones](#conclusiones)
       - [Conclusiones preliminares](#conclusiones-preliminares)
 - [About The Team](#about-the-team)
@@ -5934,6 +6024,21 @@ Netlify se encarga de invalidar la caché antigua y servir la nueva versión des
 
 ### 8.1.1. As-Is Summary.
 
+
+El sistema actual de MoviRent permite el alquiler de scooters eléctricos mediante una aplicación web y móvil, enfocada en dos tipos de usuarios: arrendadores (personas que ofrecen sus scooters) y arrendatarios (personas que los alquilan). El flujo actual de uso involucra registro de usuarios, publicación de scooters, carga de comprobantes de pago mediante bouchers y validación manual por parte de los dueños. El servicio se habilita solo cuando el baucher es validado.
+
+**Problemas detectados en el estado actual:**
+
+- La validación de pagos puede tomar hasta 24 horas, generando demoras en el acceso al servicio.
+
+- No hay una verificación automática del baucher, lo que genera riesgo de errores humanos o fraude.
+
+- No se integran pasarelas de pago digitales, lo que complica la experiencia de usuario.
+
+- La trazabilidad del scooter (estado, daños, ubicación) depende en gran parte del usuario, sin sensores ni automatización.
+
+- No existen alertas automatizadas para la gestión de bouchers inválidos o uso indebido de scooters.
+
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
 i. Assumptions: 
 - Al menos el 40% de los arrendadores registrados alquilarán su scooter a desconocidos a través de la app durante los primeros 30 días, asumiendo que las condiciones de seguridad y facilidad operativa sean percibidas como suficientes.
@@ -6073,6 +6178,22 @@ A continuación, se presenta la bitácora de preguntas priorizadas para MoviRent
 - 	¿Personas de entre 18 y 65 años logran utilizar la app sin ayuda durante el proceso de reserva?
 
 ### 8.2.2. Measures.
+
+| **Question** | ¿Reducirá el tiempo de activación del servicio integrar validación automática de bouchers? |
+|--------------|---------------------------------------------------------------------------------------------|
+| **Measure** | Medir el tiempo promedio entre la carga del baucher y la activación del servicio. Se recopilarán datos antes y después de la implementación de validación automática para comparar los resultados. También se analizará la tasa de rechazos por bouchers inválidos. |
+
+---
+
+| **Question** | ¿Mejorará la experiencia del usuario al integrar una pasarela de pago directa en lugar del baucher? |
+|--------------|---------------------------------------------------------------------------------------------------|
+| **Measure** | Evaluar la satisfacción del usuario a través de encuestas antes y después de la implementación, y comparar la tasa de conversión de pagos completados. Se registrará la cantidad de abandonos en el flujo de pago y el tiempo promedio para completarlo. |
+
+---
+
+| **Question** | ¿Reducirá la tasa de conflictos implementar un sistema de reporte de daños antes del uso del scooter? |
+|--------------|------------------------------------------------------------------------------------------------------|
+| **Measure** | Registrar el número de conflictos reportados por daños no informados antes del uso. Comparar esta métrica antes y después de implementar el reporte obligatorio desde la app, junto con la cantidad de reportes de daños efectivamente realizados por los usuarios. |
 
 ### 8.2.3. Conditions.
 
