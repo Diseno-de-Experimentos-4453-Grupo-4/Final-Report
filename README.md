@@ -5998,54 +5998,13 @@ La bitácora de preguntas (Question Backlog) es el motor que impulsa nuestro apr
 
 A continuación, se presenta la bitácora de preguntas priorizadas para MoviRent:
 
-&lt;table border="1px" align="center">
-&lt;thead>
-&lt;tr>
-&lt;th>ID&lt;/th>
-&lt;th>Pregunta de Experimento&lt;/th>
-&lt;th>Origen / Suposición Clave&lt;/th>
-&lt;th>Prioridad&lt;/th>
-&lt;th>Estado&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>QB-01&lt;/td>
-&lt;td>¿Aumentará la tasa de registro de nuevos &lt;i>Owners&lt;/i> si destacamos en la interfaz principal la ganancia potencial y la seguridad del alquiler?&lt;/td>
-&lt;td>Suposición de negocio: El principal incentivo para los Owners es la oportunidad de ingreso extra sin esfuerzo. (Sección 1.2.2.2)&lt;/td>
-&lt;td>Alta&lt;/td>
-&lt;td>Pendiente&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>QB-02&lt;/td>
-&lt;td>¿Mejorará la tasa de conversión a alquiler si simplificamos el flujo de reserva a 3 pasos (buscar, seleccionar, pagar) en lugar del flujo actual?&lt;/td>
-&lt;td>Hipótesis (Cliente): Creemos que al simplificar el proceso, aumentaremos la cantidad de nuevos usuarios. (Sección 1.2.2.3)&lt;/td>
-&lt;td>Alta&lt;/td>
-&lt;td>Pendiente&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>QB-03&lt;/td>
-&lt;td>¿Se reducirá el abandono en el proceso de registro de &lt;i>Owners&lt;/i> si implementamos un sistema de verificación de identidad visualmente prominente (ej. con insignias de "Confianza y Seguridad")?&lt;/td>
-&lt;td>Brecha de conocimiento: ¿Qué tan seguros se sienten los dueños de scooters de entregar su vehículo a desconocidos? (Sección 8.1.2)&lt;/td>
-&lt;td>Media&lt;/td>
-&lt;td>Pendiente&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>QB-04&lt;/td>
-&lt;td>¿Incrementará la frecuencia de alquiler en &lt;i>Clients&lt;/i> si ofrecemos un descuento del 15% en la primera reserva después de completar su perfil al 100%?&lt;/td>
-&lt;td>Idea: Incentivar la finalización del perfil para obtener más datos del usuario y fomentar el primer uso.&lt;/td>
-&lt;td>Media&lt;/td>
-&lt;td>Pendiente&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>QB-05&lt;/td>
-&lt;td>¿Aumentará la percepción de seguridad y la disposición a alquilar en los &lt;i>Clients&lt;/i> si mostramos de forma obligatoria las reseñas y la calificación promedio del &lt;i>Owner&lt;/i> en la vista de detalle del scooter?&lt;/td>
-&lt;td>Suposición (Cliente): Valoran la seguridad, confiabilidad y soporte que proporcionamos. (Sección 1.2.2.2)&lt;/td>
-&lt;td>Baja&lt;/td>
-&lt;td>Pendiente&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
+| ID | Pregunta de Experimento | Origen / Suposición Clave | Prioridad | Estado |
+| :--- | :--- | :--- | :--- | :--- |
+| QB-01 | ¿Aumentará la tasa de registro de nuevos *Owners* si destacamos en la interfaz principal la ganancia potencial y la seguridad del alquiler? | Suposición de negocio: El principal incentivo para los Owners es la oportunidad de ingreso extra sin esfuerzo. (Sección 1.2.2.2) | Alta | Pendiente |
+| QB-02 | ¿Mejorará la tasa de conversión a alquiler si simplificamos el flujo de reserva a 3 pasos (buscar, seleccionar, pagar) en lugar del flujo actual? | Hipótesis (Cliente): Creemos que al simplificar el proceso, aumentaremos la cantidad de nuevos usuarios. (Sección 1.2.2.3) | Alta | Pendiente |
+| QB-03 | ¿Se reducirá el abandono en el proceso de registro de *Owners* si implementamos un sistema de verificación de identidad visualmente prominente (ej. con insignias de "Confianza y Seguridad")? | Brecha de conocimiento: ¿Qué tan seguros se sienten los dueños de scooters de entregar su vehículo a desconocidos? (Sección 8.1.2) | Media | Pendiente |
+| QB-04 | ¿Incrementará la frecuencia de alquiler en *Clients* si ofrecemos un descuento del 15% en la primera reserva después de completar su perfil al 100%? | Idea: Incentivar la finalización del perfil para obtener más datos del usuario y fomentar el primer uso. | Media | Pendiente |
+| QB-05 | ¿Aumentará la percepción de seguridad y la disposición a alquilar en los *Clients* si mostramos de forma obligatoria las reseñas y la calificación promedio del *Owner* en la vista de detalle del scooter? | Suposición (Cliente): Valoran la seguridad, confiabilidad y soporte que proporcionamos. (Sección 1.2.2.2) | Baja | Pendiente |
 
 ### 8.1.5. Experiment Cards.
 
