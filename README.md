@@ -431,7 +431,9 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [8.2.4. Scale Calculations and Decisions.](#824-scale-calculations-and-decisions)
     - [8.2.5. Methods Selection.](#825-methods-selection)
     - [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.](#826-data-analytics-goals-kpis-and-metrics-selection)
-    - [8.2.7. Web and Mobile Tracking Plan.](#827-web-and-mobile-tracking-plan)
+    - [8.2.7. Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan)
+    - [Implementación Inicial](#implementación-inicial)
+    - [Seguimiento Continuo](#seguimiento-continuo)
 - [Conclusiones](#conclusiones)
       - [Conclusiones preliminares](#conclusiones-preliminares)
 - [About The Team](#about-the-team)
@@ -6223,7 +6225,44 @@ La asignación de usuarios a cada condición se realizará de manera aleatoria p
 
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.
 
-### 8.2.7. Web and Mobile Tracking Plan.
+### 8.2.7. Web and Mobile Tracking Plan
+
+Para MoviRent, nuestro objetivo es monitorear y optimizar las aplicaciones web y móvil con el fin de mejorar los flujos de reserva, validar procesos de pago y garantizar una experiencia de usuario fluida y segura. A medida que avanzamos en la fase final del proyecto, hemos definido un plan de seguimiento detallado que nos permitirá medir con precisión el impacto de las funcionalidades experimentales sobre los usuarios.
+
+El monitoreo se estructurará en dos etapas clave:
+
+
+### Implementación Inicial
+
+Durante esta fase, nos enfocaremos en desplegar nuevas funcionalidades vinculadas al proceso de validación de bouchers, la integración de reportes de daños y la mejora del sistema de pagos, con el objetivo de establecer una línea base de rendimiento.
+
+**Recopilación de datos:**
+
+* **Eventos de uso clave:** Se recolectarán datos sobre interacciones específicas como la carga de bouchers, el estado de su validación, el inicio y finalización de reservas y reportes de daños.
+
+* **Métricas de experiencia:** Se registrará la duración de sesiones de los usuarios, abandono en flujos críticos (como el proceso de pago) y tiempo promedio para completar una reserva.
+
+
+**Análisis comparativo:**
+
+Los datos recopilados se contrastarán con la etapa previa al experimento, permitiendo evaluar el impacto de las nuevas funcionalidades sobre la tasa de reservas exitosas, la frecuencia de rechazos de bouchers y la tasa de conflictos reportados.
+
+
+### Seguimiento Continuo
+
+Tras la implementación inicial, se establecerá un sistema de monitoreo continuo que permita mantener control sobre el desempeño de la plataforma, así como detectar oportunidades de mejora basadas en el comportamiento del usuario.
+
+**Recopilación de datos:**
+
+* **Segmentación de usuarios:** Los datos se agruparán por tipo de usuario (arrendador o arrendatario), frecuencia de uso, historial de validaciones exitosas o fallidas y número de reservas completadas.
+
+* **Tasa de retención:** Se monitoreará la cantidad de usuarios que vuelven a reservar scooters tras su primer uso, así como la recurrencia en propietarios que mantienen scooters activos en la plataforma.
+
+**Evaluación y ajustes:**
+
+* **Informes periódicos:** Se generarán reportes mensuales que resuman la actividad de los usuarios, el estado de los flujos experimentales y las métricas de rendimiento de cada funcionalidad clave.
+
+* **Iteración basada en datos:** Los ajustes en la plataforma se realizarán en función de los resultados obtenidos en cada iteración, priorizando mejoras en validación automática de bouchers, integración de pagos digitales y usabilidad general.
 
 # [Conclusiones](#conclusiones)
 
