@@ -5996,9 +5996,69 @@ Negativas:
 
 ### 8.1.5. Experiment Cards.
 
+<table>
+ <thead>
+    <th> Nombre del experimento </th>
+  <th>Hipótesis </th>
+  <th> Métrica clave </th>
+  <th> Duración </th>
+  <th> Resultado esperado </th>
+ </thead>
+ <tbody>
+
+ </tbody>
+
+   <tr>
+      <td>
+        Fake door test para arrendadores
+      </td>
+      <td>
+     ¿Los dueños de scooters harán clic y dejarán sus datos si les presentamos una propuesta de alquiler entre pares?
+      </td>
+      <td>% de clics en "Quiero alquilar mi scooter" en landing page</td>
+      <td>30 días</td>
+      <td>Al menos 40% de conversión sobre 100 visitas únicas</td>
+   </tr>
+   <tr>
+      <td>A/B Test de interfaz simple vs avanzada</td>
+      <td>¿Los usuarios completarán más rápido el flujo de reserva en una interfaz simple que en una avanzada?</td>
+      <td>Tiempo promedio para completar una reserva</td>
+      <td>3 minutos</td>
+      <td>70% prefiere o termina antes con la interfaz simple (&lt; 3 minutos)</td>
+    </tr>
+    <tr>
+      <td>Prueba de confianza en medidas de seguridad</td>
+      <td>¿La presencia de verificación de identidad y reputación del usuario genera suficiente confianza como para registrarse y alquilar?</td>
+      <td>% de usuarios que completan registro y manifiestan confianza</td>
+      <td>5 días</td>
+      <td>≥ 80% manifiesta sentirse seguro con la app</td>
+    </tr>
+    <tr>
+      <td>Entrevistas sobre motivación económica</td>
+      <td>¿Los propietarios consideran que generar ≥ S/80 al mes es suficiente motivación para participar en la app?</td>
+      <td>% de entrevistados dispuestos a publicar con ese ingreso</td>
+      <td>1 semana</td>
+      <td>≥ 60% respondería afirmativamente</td>
+    </tr>
+    <tr>
+      <td>Pruebas de usabilidad multietaria</td>
+      <td>¿Personas de entre 18 y 65 años logran utilizar la app sin ayuda durante el proceso de reserva?</td>
+      <td>% que completa el flujo sin ayuda</td>
+      <td>4 días</td>
+      <td>≥ 85% completa la acción sin asistencia en &lt; 10 minutos</td>
+    </tr>
+
+</table>
+
 ### 8.2. Experiment Design
 
 ### 8.2.1. Hypotheses.
+
+- ¿Los dueños de scooters harán clic y dejarán sus datos si les presentamos una propuesta de alquiler entre pares?
+- ¿Los usuarios completarán más rápido el flujo de reserva en una interfaz simple que en una avanzada?
+- 	¿La presencia de verificación de identidad y reputación del usuario genera suficiente confianza como para registrarse y alquilar?
+-	¿Los propietarios consideran que generar ≥ S/80 al mes es suficiente motivación para participar en la app?
+- 	¿Personas de entre 18 y 65 años logran utilizar la app sin ayuda durante el proceso de reserva?
 
 ### 8.2.2. Measures.
 
