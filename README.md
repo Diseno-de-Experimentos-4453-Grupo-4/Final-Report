@@ -262,6 +262,91 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [Capítulo I: Introducción](#capítulo-i-introducción-1)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+      - [Estrategias competitivas para MoviRent:](#estrategias-competitivas-para-movirent)
+      - [Tácticas específicas para MoviRent:](#tácticas-específicas-para-movirent)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [Entrevistas segmento 01: Owner](#entrevistas-segmento-01-owner)
+      - [Entrevistas segmento 2: Client](#entrevistas-segmento-2-client)
+    - [2.2.2 Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [Entrevistas segmento 1: Owners](#entrevistas-segmento-1-owners)
+      - [Entrevista 1:](#entrevista-1)
+      - [Entrevista 2:](#entrevista-2)
+      - [Entrevista 3:](#entrevista-3)
+    - [Entrevistas segmento 2: Clientes](#entrevistas-segmento-2-clientes)
+      - [Entrevista 1:](#entrevista-1-1)
+    - [Entrevista 2:](#entrevista-2-1)
+    - [Entrevista 3:](#entrevista-3-1)
+    - [Entrevista 4:](#entrevista-4)
+    - [2.2.3 Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [Owner:](#owner)
+    - [Client:](#client)
+    - [Principales diferencias y coincidencias entre los User Personas:](#principales-diferencias-y-coincidencias-entre-los-user-personas)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [Brand Name](#brand-name)
+      - [Colores](#colores)
+      - [Tipografía](#tipografía)
+      - [Espaciado](#espaciado)
+      - [Tono de comunicación y lenguaje aplicado](#tono-de-comunicación-y-lenguaje-aplicado)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [Botones en la Parte Superior Derecha del Home Page](#botones-en-la-parte-superior-derecha-del-home-page)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [**Landing Page**](#landing-page)
+      - [**Aplicación Web**](#aplicación-web)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment-1)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -362,10 +447,25 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
     - [8.2.7. Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan)
     - [Implementación Inicial](#implementación-inicial)
     - [Seguimiento Continuo](#seguimiento-continuo)
-    - [8.3. Experimentation] (#83-experimentation)
-    - [8.3.1. To-Be User Stories.] (#831-to-be-user-stories)
-    - [8.3.2. To-Be Product Backlog] (#832-to-be-product-backlog)
-    - 
+  - [8.3 Experimentation](#83-experimentation)
+    - [8.3.1. To-Be User Stories](#831-to-be-user-stories)
+    - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)
+    - [8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#833-pipeline-supported-experiment-driven-to-be-software-platform-lifecycle)
+      - [8.3.3.1. To-Be Sprint Backlogs](#8331-to-be-sprint-backlogs)
+      - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
+      - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
+      - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
+      - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
+    - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
+      - [8.3.4.1. Diseño de Entrevistas.](#8341-diseño-de-entrevistas)
+      - [8.3.4.2. Registro de Entrevistas.](#8342-registro-de-entrevistas)
+  - [8.4. Experiment Aftermath \& Analysis](#84-experiment-aftermath--analysis)
+    - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
+    - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
+  - [8.5. Continuous Learning](#85-continuous-learning)
+    - [8.5.1. Shareback Session Artifacts: Learning Workflow](#851-shareback-session-artifacts-learning-workflow)
+  - [8.6. To-Be Software Platform Pre-launch](#86-to-be-software-platform-pre-launch)
+    - [8.6.1. About-the-Product Intro Video](#861-about-the-product-intro-video)
 - [Conclusiones](#conclusiones)
       - [Conclusiones preliminares](#conclusiones-preliminares)
 - [About The Team](#about-the-team)
@@ -6249,6 +6349,25 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 
 
 <table border="1px" align="center"> <tr> <td valign="top"> #Orden </td> <td valign="top"> User Story Id </td> <td valign="top"> Título </td> <td valign="top"> Descripción </td> <td valign="top"> StoryPoints (1/2/3/5/8) </td> </tr> <tr> <td valign="top"> 24 </td> <td valign="top"> US20 </td> <td valign="top"> Visualización destacada de beneficios para Owners </td> <td valign="top"> Como visitante de la landing page Quiero visualizar claramente los beneficios económicos y la seguridad de alquilar Para motivarme a registrarme como Owner. </td> <td valign="top"> 3 </td> </tr> <tr> <td valign="top"> 25 </td> <td valign="top"> US21 </td> <td valign="top"> Formulario simplificado para publicación de scooter </td> <td valign="top"> Como Owner registrado Quiero acceder a un formulario simple para publicar mi scooter Para agilizar el proceso y reducir el esfuerzo de publicación. </td> <td valign="top"> 5 </td> </tr> <tr> <td valign="top"> 27 </td> <td valign="top"> US24 </td> <td valign="top"> Mostrar  calificaciones del Owner </td> <td valign="top"> Como cliente de MoviRent Quiero visualizar la calificación promedio del dueño Para sentirme más seguro al alquilar su scooter. </td> <td valign="top"> 3 </td> </tr> <tr> <td valign="top"> 28 </td> <td valign="top"> US27 </td> <td valign="top"> Reporte de daños antes del uso </td> <td valign="top"> Como cliente de MoviRent Quiero registrar daños visibles antes de usar un scooter Para evitar ser responsable por fallas que no cometí. </td> <td valign="top"> 5 </td> </tr> <tr> <td valign="top"> 29 </td> <td valign="top"> US28 </td> <td valign="top"> Notificación de daños al Owner </td> <td valign="top"> Como Owner de MoviRent Quiero recibir alertas de los daños reportados en mis scooters Para actuar rápidamente y mantenerlos en buen estado. </td> <td valign="top"> 3 </td> </tr> <tr> <td valign="top"> 30 </td> <td valign="top"> US29 </td> <td valign="top"> Usabilidad para distintos rangos de edad </td> <td valign="top"> Como usuario de entre 18 y 65 años Quiero usar la app sin necesidad de ayuda Para completar reservas fácilmente sin soporte técnico. </td> <td valign="top"> 3 </td> </tr> </table>
+
+
+### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+#### 8.3.3.1. To-Be Sprint Backlogs
+#### 8.3.3.2. Implemented To-Be Landing Page Evidence
+#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+#### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+#### 8.3.3.6. Team Collaboration Insights
+### 8.3.4. To-Be Validation Interviews
+#### 8.3.4.1. Diseño de Entrevistas.
+#### 8.3.4.2. Registro de Entrevistas.
+## 8.4. Experiment Aftermath & Analysis
+### 8.4.1. Analysis and Interpretation of Results
+### 8.4.2. Re-scored and Re-prioritized Question Backlog
+## 8.5. Continuous Learning
+### 8.5.1. Shareback Session Artifacts: Learning Workflow
+## 8.6. To-Be Software Platform Pre-launch
+### 8.6.1. About-the-Product Intro Video
+
 
 # [Conclusiones](#conclusiones)
 
