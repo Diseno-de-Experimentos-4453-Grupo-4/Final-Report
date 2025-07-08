@@ -6354,6 +6354,41 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 #### 8.3.3.1. To-Be Sprint Backlogs
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
+**Hipótesis del Experimento**
+
+El presente experimento busca validar la hipótesis derivada de la pregunta QB-01 del Question Backlog del proyecto: se cree que al destacar de forma prominente los beneficios de ganancia potencial y la seguridad del alquiler en la sección principal de la landing page, aumentará la tasa de conversión de visitantes a registros de nuevos Owners.
+
+**Descripción de la Implementación "To-Be"**
+
+Para probar la hipótesis, se implementó una versión modificada ("To-Be") de la landing page principal. Los cambios se centraron en la sección <section id="hero"> del archivo index.html para alterar el mensaje principal dirigido al visitante.
+
+**Los cambios específicos fueron:**
+
+Modificación del Mensaje Principal: Se reemplazó el titular general "Bienvenido a MoviRent" por un encabezado enfocado directamente en el Owner: "Genera Ingresos Extra con tu Scooter".
+
+Énfasis en Beneficios Clave: El subtítulo "¿ESTÁS LISTO PARA NUEVAS AVENTURAS?" se actualizó para comunicar explícitamente el valor para el Owner, mencionando tanto la ganancia como la seguridad: "Alquila tu vehículo de forma segura con MoviRent y gana hasta S/500 al mes. ¡Tu inversión está protegida!".
+
+Llamado a la Acción (Call to Action) Específico: El botón principal que decía "Empieza Ya!" se modificó a "¡Registra tu Scooter Ahora!" y se enlazó directamente a la aplicación web (https://movirent-tb2.web.app/) para facilitar el siguiente paso en el embudo de conversión.
+
+Enlaces de Evidencia
+
+URL de la Landing Page Original (As-Is):
+
+URL de la Landing Page Experimental (To-Be):
+
+https://movirentlandingpage.netlify.app
+
+Capturas de Pantalla Comparativas
+
+Vista de Escritorio (Desktop View)
+
+
+
+Vista Móvil (Mobile View)
+
+
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.6. Team Collaboration Insights
