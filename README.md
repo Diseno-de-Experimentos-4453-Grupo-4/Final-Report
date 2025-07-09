@@ -6395,7 +6395,15 @@ https://movirentlandingpage.netlify.app
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+
 #### 8.3.3.6. Team Collaboration Insights
+
+![insight-1](assets/chapter-08/insight-image1.png)
+![insight-2](assets/chapter-08/insight-image2.png)
+![insight-3](assets/chapter-08/insight-image3.png)
+![insight-4](assets/chapter-08/insight-image4.png)
+![insight5](assets/chapter-08/insight-image5.png)
+
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas.
 #### 8.3.4.2. Registro de Entrevistas.
