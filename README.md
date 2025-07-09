@@ -6355,37 +6355,41 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 #### 8.3.3.1. To-Be Sprint Backlogs
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
-**Hipótesis del Experimento**
+**Hipótesis y User Story Asociada**
 
-El presente experimento busca validar la hipótesis derivada de la pregunta QB-01 del Question Backlog del proyecto: se cree que al destacar de forma prominente los beneficios de ganancia potencial y la seguridad del alquiler en la sección principal de la landing page, aumentará la tasa de conversión de visitantes a registros de nuevos Owners.
+El presente experimento busca validar la hipótesis de que destacar los beneficios económicos y de seguridad para los dueños de scooters (Owners) aumenta su motivación para registrarse. Esta implementación da cumplimiento directo a la siguiente Historia de Usuario del Product Backlog:
+
+*US20: Visualización destacada de beneficios para Owners*
+
+Como visitante de la landing page quiero visualizar claramente los beneficios económicos y la seguridad de alquilar para motivarme a registrarme como Owner.
 
 **Descripción de la Implementación "To-Be"**
 
-Para probar la hipótesis, se implementó una versión modificada ("To-Be") de la landing page principal. Los cambios se centraron en la sección <section id="hero"> del archivo index.html para alterar el mensaje principal dirigido al visitante.
+Para ejecutar el experimento y cumplir con la US20, se desarrolló una versión modificada ("To-Be") de la landing page. La implementación se centró en la sección principal (<section id="hero">) del archivo index.html para transformar el mensaje de bienvenida en una propuesta de valor clara para los propietarios de scooters.
 
-**Los cambios específicos fueron:**
+**Los cambios específicos en el código fueron:**
 
-Modificación del Mensaje Principal: Se reemplazó el titular general "Bienvenido a MoviRent" por un encabezado enfocado directamente en el Owner: "Genera Ingresos Extra con tu Scooter".
+Titular Enfocado en el Beneficio: El encabezado general "Bienvenido a MoviRent" fue reemplazado por un titular que comunica directamente el principal beneficio para el Owner: "Genera Ingresos Extra con tu Scooter".
 
-Énfasis en Beneficios Clave: El subtítulo "¿ESTÁS LISTO PARA NUEVAS AVENTURAS?" se actualizó para comunicar explícitamente el valor para el Owner, mencionando tanto la ganancia como la seguridad: "Alquila tu vehículo de forma segura con MoviRent y gana hasta S/500 al mes. ¡Tu inversión está protegida!".
+Subtítulo con Propuesta de Valor: El subtítulo anterior, "¿ESTÁS LISTO PARA NUEVAS AVENTURAS?", fue sustituido por un texto que detalla la propuesta de valor de ganancia y seguridad: "Alquila tu vehículo de forma segura con MoviRent y gana hasta S/500 al mes. ¡Tu inversión está protegida!".
 
-Llamado a la Acción (Call to Action) Específico: El botón principal que decía "Empieza Ya!" se modificó a "¡Registra tu Scooter Ahora!" y se enlazó directamente a la aplicación web (https://movirent-tb2.web.app/) para facilitar el siguiente paso en el embudo de conversión.
+Llamado a la Acción (Call to Action) Claro: El texto del botón principal se cambió de "Empieza Ya!" a "¡Registra tu Scooter Ahora!" para guiar al usuario hacia la acción deseada. Adicionalmente, se enlazó este botón a la aplicación web (https://movirent-tb2.web.app/) para facilitar el inicio del proceso de registro.
 
-Enlaces de Evidencia
+**Enlaces de Evidencia**
 
-URL de la Landing Page Original (As-Is):
+*URL de la Landing Page Original (As-Is):*
 
-URL de la Landing Page Experimental (To-Be):
+*URL de la Landing Page Experimental (To-Be):*
 
 https://movirentlandingpage.netlify.app
 
-Capturas de Pantalla Comparativas
+**Capturas de Pantalla Comparativas**
 
-Vista de Escritorio (Desktop View)
+*Vista de Escritorio (Desktop View)*
 
 
 
-Vista Móvil (Mobile View)
+*Vista Móvil (Mobile View)*
 
 
 
