@@ -6399,23 +6399,23 @@ Subtítulo con Propuesta de Valor: El subtítulo anterior, "¿ESTÁS LISTO PARA 
 
 Llamado a la Acción (Call to Action) Claro: El texto del botón principal se cambió de "Empieza Ya!" a "¡Registra tu Scooter Ahora!" para guiar al usuario hacia la acción deseada. Adicionalmente, se enlazó este botón a la aplicación web (https://movirent-tb2.web.app/) para facilitar el inicio del proceso de registro.
 
-**Enlaces de Evidencia**
-
-*URL de la Landing Page Original (As-Is):*
-
-*URL de la Landing Page Experimental (To-Be):*
-
-https://movirentlandingpage.netlify.app
-
 **Capturas de Pantalla Comparativas**
 
 *Vista de Escritorio (Desktop View)*
 
-
+![Landingpage1](assets/chapter-08/Landing1)
+![Landingpage2](assets/chapter-08/Landing2)
+![Landingpage3](assets/chapter-08/Landing3)
+![Landingpage4](assets/chapter-08/Landing4)
 
 *Vista Móvil (Mobile View)*
 
-
+![LandingMovile1](assets/chapter-08/LanMov1.jpeg)
+![LandingMovile2](assets/chapter-08/LanMov2.jpeg)
+![LandingMovile3](assets/chapter-08/LanMov3.jpeg)
+![LandingMovile4](assets/chapter-08/LanMov4.jpeg)
+![LandingMovile5](assets/chapter-08/LanMov5.jpeg)
+![LandingMovile6](assets/chapter-08/LanMov6.jpeg)
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
