@@ -6359,7 +6359,7 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 | HU20-T01 | Implementación de la sección de beneficios de la landing page.      | 2            | Done   | Mathias Hidalgo   |
 | HU21-T01 | Simplificar el formulario en la aplicación web usando drawers       | 3            | Done   | Gustavo Huilca    |
 | HU21-T02 | Simplificar el formulario en la aplicación móvil usando drawers     | 2            | Done   | Mathias Jave      |
-| HU24-T01 | Modificación de la entidad Profile para incluir las calificaciones. | 3            | Done   | Mathias Jave      |
+| HU24-T01 | Modificación de backend para incluir las calificaciones.            | 3            | Done   | Mathias Jave      |
 | HU24-T02 | Modificación de la aplicación web para mostrar las calificaciones   | 2            | Done   | Gustavo Huilca    |
 | HU24-T03 | Modificación de la aplicación móvil para mostrar las calificaciones | 3            | Done   | Belen Ramos       |
 | HU27-T01 | Implementación de las reseñas en el backend                         | 2            | Done   | Belen Ramos       |
@@ -6410,6 +6410,81 @@ https://movirentlandingpage.netlify.app
 
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
+**Hipótesis y User Story Asociada**
+El presente experimento busca validar la hipótesis de que simplificar el proceso de publicación de scooters para los Owners incrementará la cantidad de arrendadores en la plataforma. Esta implementación da cumplimiento directo a la siguiente Historia de Usuario del Product Backlog:
+
+*US21: Formulario simplificado para publicación de scooter*
+
+Como Owner registrado quiero acceder a un formulario simple para publicar mi scooter para agilizar el proceso y reducir el esfuerzo de publicación.
+
+**Descripción de la Implementación "To-Be"**
+
+Para ejecutar el experimento y cumplir con la US21, se desarrolló una versión modificada ("To-Be") del formulario de publicación de scooters en la aplicación web. La implementación se centró en simplificar el proceso de registro de scooters, reduciendo el número de campos obligatorios y pasos necesarios.
+
+**Los cambios específicos en el código fueron:**
+
+* Eliminación de Campos Opcionales: Se eliminaron campos como "Descripción detallada", "Especificaciones técnicas" y "Múltiples imágenes". Ahora, solo se requieren los campos esenciales: "Marca", "Modelo", "Ubicación" y una foto principal del scooter.
+
+* Consolidación del Proceso: El formulario se ha simplificado para que los Owners puedan publicar su scooter en un solo paso, sin necesidad de completar información adicional en el momento de la publicación.
+
+**Capturas de Pantalla**
+
+
+*Vista de Escritorio (Desktop View)*
+
+<img src="assets/chapter-08/frontend1.png" alt="Formulario Simplificado" width="600">
+
+*Vista Móvil (Mobile View)*
+
+<img src="assets/chapter-08/frontend-mobile1.png" alt="Formulario Simplificado Móvil" width="600">
+
+**US24: Mostrar calificaciones del Owner**
+
+Como cliente de MoviRent quiero visualizar la calificación promedio del dueño para sentirme más seguro al alquilar su scooter.
+
+**Descripción de la Implementación "To-Be"**
+
+Para ejecutar el experimento y cumplir con la US24, se desarrolló una versión modificada ("To-Be") de la sección de detalles del scooter en la aplicación web. La implementación se centró en mostrar la calificación promedio del Owner y las reseñas de clientes anteriores.
+
+**Los cambios específicos en el código fueron:**
+
+* Integración de Calificaciones: Se agregó un componente que muestra la calificación promedio del Owner en una escala de 1 a 5 estrellas, junto con el número total de reseñas recibidas.
+
+**Capturas de Pantalla**
+
+*Vista de Escritorio (Desktop View)*
+
+<img src="assets/chapter-08/frontend2.png" alt="Formulario Simplificado" width="600">
+
+*Vista Móvil (Mobile View)*
+
+<img src="assets/chapter-08/frontend-mobile2.png" alt="Formulario Simplificado Móvil" width="600">
+
+*US27: Reporte de daños antes del uso*
+
+Como cliente de MoviRent quiero registrar daños visibles antes de usar un scooter para evitar ser responsable por fallas que no cometí.
+
+**Descripción de la Implementación "To-Be"**
+
+Para ejecutar el experimento y cumplir con la US27, se desarrolló una versión modificada ("To-Be") del flujo de reserva de scooters en la aplicación web. La implementación se centró en permitir a los clientes registrar daños visibles antes de usar el scooter.
+
+**Los cambios específicos en el código fueron:**
+
+* Formulario de Reporte de Daños: Se agregó un formulario que permite a los clientes registrar daños visibles antes de iniciar la reserva. Este formulario incluye campos para describir el daño.
+
+**Capturas de Pantalla**
+
+*Vista de Escritorio (Desktop View)*
+
+<img src="assets/chapter-08/frontend4.png" alt="Formulario Simplificado" width="600">
+
+*Vista Móvil (Mobile View)*
+
+<img src="assets/chapter-08/frontend-mobile3.png" alt="Formulario Simplificado Móvil" width="600">  
+
+
+
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
@@ -6523,6 +6598,9 @@ Todos los endpoints están protegidos por autenticación y siguen las mejores pr
 
 ## 8.6. To-Be Software Platform Pre-launch
 ### 8.6.1. About-the-Product Intro Video
+
+<td>Nuestro Video About The Product</td>
+<td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/EYNcmZpNH6NLsZ5s0G630iABhZWL8cImsc4pwBsfBDvk7A?e=gLEQYZ">Video About The Product</a></td>
 
 
 # [Conclusiones](#conclusiones)
