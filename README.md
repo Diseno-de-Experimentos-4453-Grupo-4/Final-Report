@@ -6608,6 +6608,38 @@ Todos los endpoints están protegidos por autenticación y siguen las mejores pr
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas.
 #### 8.3.4.2. Registro de Entrevistas.
+
+### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: Sebastian Valente
+* Apellidos: Lobato Pozo
+
+Datos del entrevistado:
+* Nombres: Diego
+* Apellidos: Jara
+* Edad: 20
+* Distrito de residencia: La Molina
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EeqQarCqteJDg0rAFvO-b1cB6d_8sW9IveU1SQazPwAp6g?e=8AcLfU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![Entrevista Diego](assets/chapter-08/entrevista_diego.png)
+
+* Duración de la entrevista: 3:12
+
+**Informe del resumen de la entrevista:**
+
+Diego Jara expresó que lo primero que le llamó la atención fue el diseño moderno y limpio de la aplicación. El mensaje sobre ganar dinero con su scooter le resultó interesante aunque inicialmente generó cierta desconfianza.
+
+Sobre el formulario simplificado, indicó que definitivamente reduciría el esfuerzo necesario, ya que odia los formularios largos. Expresó que si se limitaba a subir fotos, precio y datos básicos, le parecería perfecto.
+
+Las alertas en tiempo real le darían mucha tranquilidad para gestionar el mantenimiento y seguridad, ya que su mayor miedo sería que dañen su scooter sin enterarse.
+
+Respecto a las calificaciones, las comparó con Uber - una calificación de 4.8 estrellas le generaría confianza. Calificaciones menores a 4 estrellas lo llevarían a buscar otra opción.
+
+El reporte de daños preexistentes le pareció súper importante ya que su mayor temor sería ser culpado por daños que ya existían. Poder documentar todo le daría mucha paz mental.
+
+Sobre la usabilidad, encontró el proceso directo e intuitivo, similar a otras apps que ha usado, sin identificar pasos confusos.
+
 ## 8.4. Experiment Aftermath & Analysis
 ### 8.4.1. Analysis and Interpretation of Results
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
