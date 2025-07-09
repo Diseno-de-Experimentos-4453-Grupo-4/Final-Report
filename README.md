@@ -6351,7 +6351,63 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 
 ## 8.3 Experimentation
 ### 8.3.1. To-Be User Stories
-<table> <tr> <th>Epic / Story ID</th> <th>Título</th> <th>Descripción</th> <th>Criterios de Aceptación</th> <th>Relacionado con (Epic ID)</th> </tr> <tr> <td>US19</td> <td>Visualización destacada de beneficios para Owners</td> <td><b>Como</b> visitante de la landing page<br><b>Quiero</b> visualizar claramente los beneficios económicos y la seguridad de alquilar<br><b>Para</b> motivarme a registrarme como Owner.</td> <td> <b>Scenario 1: Visualización de beneficios en pantalla principal</b><br/> <b>Dado que</b> el visitante accede a la landing page<br/> <b>Cuando</b> se muestre el banner principal<br/> <b>Entonces</b> este incluye texto o íconos destacando ganancias y medidas de seguridad.<br/><br/> <b>Scenario 2: Ausencia del componente</b><br/> <b>Dado que</b> el sistema tenga fallas de carga<br/> <b>Cuando</b> el banner no se muestre<br/> <b>Entonces</b> el usuario no verá incentivos visibles y se reportará como error. </td> <td>EP01</td> </tr> <tr> <td>US20</td> <td>Formulario simplificado para publicación de scooter</td> <td><b>Como</b> Owner registrado<br><b>Quiero</b> acceder a un formulario simple para publicar mi scooter<br><b>Para</b> agilizar el proceso y reducir el esfuerzo de publicación.</td> <td> <b>Scenario 1: Publicación con datos mínimos</b><br/> <b>Dado que</b> el Owner esté en “Publicar Scooter”<br/> <b>Cuando</b> complete marca, modelo, ubicación y cargue una foto<br/> <b>Entonces</b> el sistema permite publicar sin necesidad de más campos.<br/><br/> <b>Scenario 2: Interfaz de edición posterior</b><br/> <b>Dado que</b> el Owner publique exitosamente<br/> <b>Cuando</b> desee agregar más datos<br/> <b>Entonces</b> accede a una sección "Editar detalles". </td> <td>EP03</td> </tr> <tr> <td>US21</td> <td>Verificación visual con insignia de confianza</td> <td><b>Como</b> Owner<br><b>Quiero</b> recibir una insignia de “Verificado” tras validar mi identidad<br><b>Para</b> generar mayor confianza en los clientes.</td> <td> <b>Scenario 1: Verificación exitosa</b><br/> <b>Dado que</b> el Owner cargue un documento válido y su foto<br/> <b>Cuando</b> el sistema valide los datos<br/> <b>Entonces</b> se mostrará una insignia de confianza en su perfil.<br/><br/> <b>Scenario 2: Verificación fallida</b><br/> <b>Dado que</b> el documento sea inválido<br/> <b>Cuando</b> el sistema detecte inconsistencias<br/> <b>Entonces</b> no se otorgará la insignia y se enviará una alerta al usuario. </td> <td>EP02</td> </tr> <tr> <td>US22</td> <td>Mostrar reseñas y calificaciones del Owner</td> <td><b>Como</b> cliente de MoviRent<br><b>Quiero</b> visualizar reseñas y calificación promedio del dueño<br><b>Para</b> sentirme más seguro al alquilar su scooter.</td> <td> <b>Scenario 1: Calificación visible en vista de scooter</b><br/> <b>Dado que</b> el cliente navega en detalles del scooter<br/> <b>Cuando</b> acceda a la publicación<br/> <b>Entonces</b> se muestra el promedio de calificación y opiniones anteriores.<br/><br/> <b>Scenario 2: Scooter sin reseñas</b><br/> <b>Dado que</b> sea un Owner nuevo<br/> <b>Cuando</b> no existan calificaciones<br/> <b>Entonces</b> el sistema mostrará un aviso indicando “Sin reseñas aún”. </td> <td>EP04</td> </tr> <tr> </tr> <tr> <td>US23</td> <td>Reporte de daños antes del uso</td> <td><b>Como</b> cliente de MoviRent<br><b>Quiero</b> registrar daños visibles antes de usar un scooter<br><b>Para</b> evitar ser responsable por fallas que no cometí.</td> <td> <b>Escenario 1: Reporte de daño registrado</b><br/> <b>Dado que</b> el cliente detecte un daño antes del uso<br/> <b>Cuando</b> complete el formulario de daños<br/> <b>Entonces</b> el reporte se guarda con fecha, hora y foto.<br/><br/> <b>Escenario 2: Scooter sin daños visibles</b><br/> <b>Dado que</b> el cliente no detecte ningún problema<br/> <b>Cuando</b> pase a la siguiente etapa<br/> <b>Entonces</b> el sistema lo registra como "sin observaciones". </td> <td>EP04</td> </tr> <tr> <td>US24</td> <td>Notificación de daños al Owner</td> <td><b>Como</b> Owner de MoviRent<br><b>Quiero</b> recibir alertas de los daños reportados en mis scooters<br><b>Para</b> actuar rápidamente y mantenerlos en buen estado.</td> <td> <b>Escenario 1: Notificación automática al Owner</b><br/> <b>Dado que</b> un cliente reporte un daño<br/> <b>Cuando</b> el reporte se registre<br/> <b>Entonces</b> el sistema notifica al Owner por correo y en la app.<br/><br/> <b>Escenario 2: Scooter sin reportes</b><br/> <b>Dado que</b> no se haya registrado ningún daño<br/> <b>Cuando</b> culmine la sesión<br/> <b>Entonces</b> el Owner no recibe ninguna notificación. </td> <td>EP03</td> </tr> <tr> <td>US25</td> <td>Usabilidad para distintos rangos de edad</td> <td><b>Como</b> usuario de entre 18 y 65 años<br><b>Quiero</b> usar la app sin necesidad de ayuda<br><b>Para</b> completar reservas fácilmente sin soporte técnico.</td> <td> <b>Escenario 1: Uso sin asistencia</b><br/> <b>Dado que</b> el usuario esté en el flujo de reserva<br/> <b>Cuando</b> siga los pasos guiados<br/> <b>Entonces</b> puede completar la acción en menos de 10 minutos sin ayuda.<br/><br/> <b>Escenario 2: Dificultad para completar reserva</b><br/> <b>Dado que</b> el usuario enfrente una interfaz confusa<br/> <b>Cuando</b> no pueda avanzar<br/> <b>Entonces</b> se ofrecerá un acceso rápido a tutoriales o asistencia. </td> <td>EP04</td> </tr>  </table>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24</td>
+      <td>US20</td>
+      <td>Visualización destacada de beneficios para Owners</td>
+      <td>Como visitante de la landing page quiero visualizar claramente los beneficios económicos y la seguridad de alquilar para motivarme a registrarme como Owner.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>US21</td>
+      <td>Formulario simplificado para publicación de scooter</td>
+      <td>Como Owner registrado quiero acceder a un formulario simple para publicar mi scooter para agilizar el proceso y reducir el esfuerzo de publicación.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>US24</td>
+      <td>Mostrar calificaciones del Owner</td>
+      <td>Como cliente de MoviRent quiero visualizar la calificación promedio del dueño para sentirme más seguro al alquilar su scooter.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>US27</td>
+      <td>Reporte de daños antes del uso</td>
+      <td>Como cliente de MoviRent quiero registrar daños visibles antes de usar un scooter para evitar ser responsable por fallas que no cometí.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>US28</td>
+      <td>Notificación de daños al Owner</td>
+      <td>Como Owner de MoviRent quiero recibir alertas de los daños reportados en mis scooters para actuar rápidamente y mantenerlos en buen estado.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>US29</td>
+      <td>Usabilidad para distintos rangos de edad</td>
+      <td>Como usuario de entre 18 y 65 años quiero usar la app sin necesidad de ayuda para completar reservas fácilmente sin soporte técnico.</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 8.3.2. To-Be Product Backlog
 
@@ -6366,7 +6422,7 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 |----------|---------------------------------------------------------------------|--------------|--------|-------------------|
 | HU20-T01 | Implementación de la sección de beneficios de la landing page.      | 2            | Done   | Mathias Hidalgo   |
 | HU21-T01 | Simplificar el formulario en la aplicación web usando drawers       | 3            | Done   | Gustavo Huilca    |
-| HU21-T02 | Simplificar el formulario en la aplicación móvil usando drawers     | 2            | Done   | Mathias Jave      |
+| HU21-T02 | Simplificar el formulario en la aplicación móvil usando dropdowns    | 2            | Done   | Mathias Jave      |
 | HU24-T01 | Modificación de backend para incluir las calificaciones.            | 3            | Done   | Mathias Jave      |
 | HU24-T02 | Modificación de la aplicación web para mostrar las calificaciones   | 2            | Done   | Gustavo Huilca    |
 | HU24-T03 | Modificación de la aplicación móvil para mostrar las calificaciones | 3            | Done   | Belen Ramos       |
