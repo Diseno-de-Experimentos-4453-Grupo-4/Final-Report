@@ -88,7 +88,9 @@
 
 ## Project Report Collaboration Insights
 
-**TB1**
+**TF**
+
+<img src="assets/chapter-01/insights-tf.png" alt="TF Insights" width="100%">
 
 <div style="page-break-before: always;"></div>
 
