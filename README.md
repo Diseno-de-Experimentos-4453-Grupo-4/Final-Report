@@ -65,139 +65,30 @@
 
 ## Registro de versiones del informe
 
-<center>
-<table>
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- TB1 -->
-    <tr>
-      <td rowspan="7">0.1</td>
-      <td>29/03/2025</td>
-      <td>Mathias Adriano Hidalgo Lopez</td>
-      <td>
-        TB1
-      </td>
-    </tr>
-    <tr>
-      <td>29/03/2025</td>
-      <td>Gustavo Huilca Chipana</td>
-      <td>
-        TB1
-      </td>
-    </tr>
-    <tr>
-      <td>29/03/2025</td>
-      <td>Alexandra Belen Ramos Argüelles</td>
-      <td>
-        TB1
-      </td>
-    </tr>
-    <tr>
-      <td>29/03/2025</td>
-      <td>Mathias Alejandro Jave Diaz</td>
-      <td>
-        TB1
-      </td>
-    </tr>
-    <tr>
-      <td>29/03/2025</td>
-      <td>Sebastian Valente Lobato Pozo</td>
-      <td>
-        TB1
-      </td>
-    </tr>
-    <!-- TB2 -->
-    <tr>
-      <td rowspan="7">2.0</td>
-      <td>18/06/2025</td>
-      <td>Mathias Adriano Hidalgo Lopez</td>
-      <td>
-        TB2
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Gustavo Huilca Chipana</td>
-      <td>
-        TB2
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Alexandra Belen Ramos Argüelles</td>
-      <td>
-        <ul>
-          TB2
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Mathias Alejandro Jave Diaz</td>
-      <td>
-        <ul>
-          TB2
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Sebastian Valente Lobato Pozo</td>
-      <td>
-        TB2
-      </td>
-    </tr>
-    <!-- TF -->
-    <tr>
-      <td rowspan="7">2.0</td>
-      <td>18/06/2025</td>
-      <td>Mathias Adriano Hidalgo Lopez</td>
-      <td>
-        TF
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Gustavo Huilca Chipana</td>
-      <td>
-        TF
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Alexandra Belen Ramos Argüelles</td>
-      <td>
-        <ul>
-          TF
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Mathias Alejandro Jave Diaz</td>
-      <td>
-        <ul>
-          F
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18/06/2025</td>
-      <td>Sebastian Valente Lobato Pozo</td>
-      <td>
-        TF
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
+| Versión | Fecha       | Autor                           | Descripción de modificación |
+|---------|-------------|---------------------------------|-----------------------------|
+| 0.1     | 29/03/2025  | Mathias Adriano Hidalgo Lopez   | TB1                         |
+| 0.1     | 29/03/2025  | Gustavo Huilca Chipana          | TB1                         |
+| 0.1     | 29/03/2025  | Alexandra Belen Ramos Argüelles | TB1                         |
+| 0.1     | 29/03/2025  | Mathias Alejandro Jave Diaz     | TB1                         |
+| 0.1     | 29/03/2025  | Sebastian Valente Lobato Pozo   | TB1                         |
+| 1.0     | 29/03/2025  | Mathias Adriano Hidalgo Lopez   | TP                          |
+| 1.0     | 29/03/2025  | Gustavo Huilca Chipana          | TP                          |
+| 1.0     | 29/03/2025  | Alexandra Belen Ramos Argüelles | TP                          |
+| 1.0     | 29/03/2025  | Mathias Alejandro Jave Diaz     | TP                          |
+| 1.0     | 29/03/2025  | Sebastian Valente Lobato Pozo   | TP                          |
+| 2.0     | 18/06/2025  | Mathias Adriano Hidalgo Lopez   | TB2                         |
+| 2.0     | 18/06/2025  | Gustavo Huilca Chipana          | TB2                         |
+| 2.0     | 18/06/2025  | Alexandra Belen Ramos Argüelles | TB2                         |
+| 2.0     | 18/06/2025  | Mathias Alejandro Jave Diaz     | TB2                         |
+| 2.0     | 18/06/2025  | Sebastian Valente Lobato Pozo   | TB2                         |
+| 2.0     | 18/06/2025  | Mathias Adriano Hidalgo Lopez   | TF                          |
+| 2.0     | 18/06/2025  | Gustavo Huilca Chipana          | TF                          |
+| 2.0     | 18/06/2025  | Alexandra Belen Ramos Argüelles | TF                          |
+| 2.0     | 18/06/2025  | Mathias Alejandro Jave Diaz     | TF                          |
+| 2.0     | 18/06/2025  | Sebastian Valente Lobato Pozo   | TF                          |
+
+
 
 <div style="page-break-before: always;"></div>
 
