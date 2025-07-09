@@ -6607,6 +6607,17 @@ Todos los endpoints están protegidos por autenticación y siguen las mejores pr
 
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas.
+
+Preguntas para las entrevistas
+¿qué es lo primero que te llama la atención? ¿El mensaje sobre los beneficios económicos y la seguridad te parece claro y convincente?
+¿Crees que este formulario simplificado reduciría el esfuerzo necesario para empezar a alquilar tu vehículo?
+¿Crees que recibir estas alertas en tiempo real te ayudaría a gestionar mejor el mantenimiento y la seguridad de tu scooter?
+¿Ver esta calificación te haría sentir más seguro o confiado para completar el alquiler?
+¿Qué tanto influiría una buena o mala calificación del dueño en tu decisión de alquilar su vehículo?
+¿Saber que puedes reportar daños preexistentes te daría más tranquilidad para no ser considerado responsable por ellos?
+¿te parece que el proceso para encontrar un scooter, ver sus detalles y reservarlo es fácil de entender y usar sin necesidad de ayuda?
+¿Hubo algún paso o botón que te generó confusión o que crees que podría ser más simple?
+
 #### 8.3.4.2. Registro de Entrevistas.
 
 ### Entrevista 1:
