@@ -6379,6 +6379,8 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
+8.3.3.2. Implemented To-Be Landing Page Evidence
+
 **Hipótesis y User Story Asociada**
 
 El presente experimento busca validar la hipótesis de que destacar los beneficios económicos y de seguridad para los dueños de scooters (Owners) aumenta su motivación para registrarse. Esta implementación da cumplimiento directo a la siguiente Historia de Usuario del Product Backlog:
@@ -6389,15 +6391,35 @@ Como visitante de la landing page quiero visualizar claramente los beneficios ec
 
 **Descripción de la Implementación "To-Be"**
 
-Para ejecutar el experimento y cumplir con la US20, se desarrolló una versión modificada ("To-Be") de la landing page. La implementación se centró en la sección principal (<section id="hero">) del archivo index.html para transformar el mensaje de bienvenida en una propuesta de valor clara para los propietarios de scooters.
+Para ejecutar el experimento y cumplir con la US20, se realizó una modificación sustancial en la estructura del archivo index.html mediante la adición de una sección completamente nueva y dedicada, diseñada para exponer de manera clara y atractiva los beneficios para los propietarios.
 
 **Los cambios específicos en el código fueron:**
 
-Titular Enfocado en el Beneficio: El encabezado general "Bienvenido a MoviRent" fue reemplazado por un titular que comunica directamente el principal beneficio para el Owner: "Genera Ingresos Extra con tu Scooter".
+*Creación de una Nueva Sección de Beneficios (#benefits):*
 
-Subtítulo con Propuesta de Valor: El subtítulo anterior, "¿ESTÁS LISTO PARA NUEVAS AVENTURAS?", fue sustituido por un texto que detalla la propuesta de valor de ganancia y seguridad: "Alquila tu vehículo de forma segura con MoviRent y gana hasta S/500 al mes. ¡Tu inversión está protegida!".
+Se introdujo una nueva <section> con el id="benefits" justo después de la sección "Sobre Nosotros".
 
-Llamado a la Acción (Call to Action) Claro: El texto del botón principal se cambió de "Empieza Ya!" a "¡Registra tu Scooter Ahora!" para guiar al usuario hacia la acción deseada. Adicionalmente, se enlazó este botón a la aplicación web (https://movirent-tb2.web.app/) para facilitar el inicio del proceso de registro.
+Esta sección se estructuró con un título principal y cuatro tarjetas (benefit-card), cada una destacando una ventaja clave:
+
+Genera Ingresos Extra: Enfatiza el potencial económico.
+
+Flexibilidad y Control: Subraya la autonomía del propietario.
+
+Seguridad en Cada Viaje: Resalta la protección y confianza.
+
+Amplia Cobertura: Muestra el alcance y la facilidad de uso.
+
+Cada tarjeta fue diseñada con un ícono representativo de Font Awesome, un título y un párrafo descriptivo para comunicar el valor de forma rápida y visual.
+
+**Actualización de la Navegación Principal:*
+
+Se modificó el enlace "Beneficios" en la barra de navegación para que apunte a la nueva sección (href="#benefits"), asegurando que los usuarios puedan acceder directamente a esta información clave.
+
+**Implementación de Estilos CSS Dedicados:**
+
+Se añadieron nuevas reglas al archivo styles.css para estilizar la sección #benefits y sus componentes (benefit-card, benefit-icon).
+
+Los estilos incluyen un fondo limpio para la sección, tarjetas con bordes redondeados, sombras sutiles y efectos interactivos hover que mejoran la experiencia de usuario.
 
 **Capturas de Pantalla Comparativas**
 
