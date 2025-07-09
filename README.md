@@ -6353,6 +6353,22 @@ Tras la implementación inicial, se establecerá un sistema de monitoreo continu
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 #### 8.3.3.1. To-Be Sprint Backlogs
+
+| HUX-TXX  | Nombre Task                                                         | Story Points | STATUS | Usuario           |
+|----------|---------------------------------------------------------------------|--------------|--------|-------------------|
+| HU20-T01 | Implementación de la sección de beneficios de la landing page.      | 2            | Done   | Mathias Hidalgo   |
+| HU21-T01 | Simplificar el formulario en la aplicación web usando drawers       | 3            | Done   | Gustavo Huilca    |
+| HU21-T02 | Simplificar el formulario en la aplicación móvil usando drawers     | 2            | Done   | Mathias Jave      |
+| HU24-T01 | Modificación de la entidad Profile para incluir las calificaciones. | 3            | Done   | Mathias Jave      |
+| HU24-T02 | Modificación de la aplicación web para mostrar las calificaciones   | 2            | Done   | Gustavo Huilca    |
+| HU24-T03 | Modificación de la aplicación móvil para mostrar las calificaciones | 3            | Done   | Belen Ramos       |
+| HU27-T01 | Implementación de las reseñas en el backend                         | 2            | Done   | Belen Ramos       |
+| HU27-T02 | Implementacion de las reseñas en la aplicación web                  | 3            | Done   | Gustavo Huilca    |
+| HU27-T03 | Implementacion de las reseñas en la aplicación móvil                | 1            | Done   | Mathias Hidalgo   |
+| HU28-T01 | Integracion de notificaciones en el backend                         | 2            | Done   | Sebastian Valente |
+| HU29-T01 | Mejorar la usabilidad en la aplicación web                          | 2            | Done   | Sebastian Valente |
+| HU29-T02 | Mejorar la usabilidad en la aplicación móvil                        | 1            | Done   | Mathias Hidalgo   |
+
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
 **Hipótesis y User Story Asociada**
