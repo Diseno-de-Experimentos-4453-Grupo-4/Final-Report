@@ -6403,10 +6403,10 @@ Llamado a la Acción (Call to Action) Claro: El texto del botón principal se ca
 
 *Vista de Escritorio (Desktop View)*
 
-![Landingpage1](assets/chapter-08/Landing1)
-![Landingpage2](assets/chapter-08/Landing2)
-![Landingpage3](assets/chapter-08/Landing3)
-![Landingpage4](assets/chapter-08/Landing4)
+![Landingpage1](assets/chapter-08/Landing1.png)
+![Landingpage2](assets/chapter-08/Landing2.png)
+![Landingpage3](assets/chapter-08/Landing3.png)
+![Landingpage4](assets/chapter-08/Landing4.png)
 
 *Vista Móvil (Mobile View)*
 
