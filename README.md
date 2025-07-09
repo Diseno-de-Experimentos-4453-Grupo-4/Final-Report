@@ -6403,19 +6403,11 @@ Llamado a la Acción (Call to Action) Claro: El texto del botón principal se ca
 
 *Vista de Escritorio (Desktop View)*
 
-![Landingpage1](assets/chapter-08/Landing1.png)
-![Landingpage2](assets/chapter-08/Landing2.png)
-![Landingpage3](assets/chapter-08/Landing3.png)
-![Landingpage4](assets/chapter-08/Landing4.png)
-
-*Vista Móvil (Mobile View)*
-
-![LandingMovile1](assets/chapter-08/LanMov1.jpeg)
-![LandingMovile2](assets/chapter-08/LanMov2.jpeg)
-![LandingMovile3](assets/chapter-08/LanMov3.jpeg)
-![LandingMovile4](assets/chapter-08/LanMov4.jpeg)
-![LandingMovile5](assets/chapter-08/LanMov5.jpeg)
-![LandingMovile6](assets/chapter-08/LanMov6.jpeg)
+![Landingpage1](assets/chapter-08/LandingPage1.png)
+![Landingpage2](assets/chapter-08/LandingPage2.png)
+![Landingpage3](assets/chapter-08/LandingPage3.png)
+![Landingpage4](assets/chapter-08/LandingPage4.png)
+![Landingpage4](assets/chapter-08/LandingPage5.png)
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
