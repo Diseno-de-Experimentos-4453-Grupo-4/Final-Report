@@ -6398,11 +6398,17 @@ https://movirentlandingpage.netlify.app
 
 #### 8.3.3.6. Team Collaboration Insights
 
+
+
 ![insight-1](assets/chapter-08/insight-image1.png)
 ![insight-2](assets/chapter-08/insight-image2.png)
 ![insight-3](assets/chapter-08/insight-image3.png)
+
+
+
 ![insight-4](assets/chapter-08/insight-image4.png)
-![insight5](assets/chapter-08/insight-image5.png)
+![insight-5](assets/chapter-08/insight-image5.png)
+![insight-6](assets/chapter-08/insight-image6.png)
 
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas.
@@ -6412,6 +6418,11 @@ https://movirentlandingpage.netlify.app
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
+
+
+
+![shareback-1](assets/chapter-08/shareback1.png)
+
 ## 8.6. To-Be Software Platform Pre-launch
 ### 8.6.1. About-the-Product Intro Video
 
