@@ -6611,35 +6611,26 @@ En esta sección se documenta la evidencia de la implementación de mejoras espe
 
 ##### Rate Endpoints - Sistema de Calificación Automatizada
 
-Los endpoints de Rate han sido mejorados para implementar un sistema de calificación promedio automatizada que se calcula en tiempo real:
+![rate_evidence_1](assets/chapter-08/rate_evidence_1.png)
 
-![rate](assets/chapter-08/endpoint_rate.png)
+Esta imagen muestra la sección de reseñas donde los usuarios pueden ver las calificaciones específicas otorgadas por otros clientes. El sistema recopila estas calificaciones individuales para calcular automáticamente el promedio que se muestra en la vista anterior.
 
-**Funcionalidades Clave:**
-- **POST /api/v1/rate**: Crea una nueva calificación y activa el **cálculo automático de calificación promedio del Owner**
-- **GET /api/v1/rate/scooter**: Obtiene todas las calificaciones de un scooter específico para mostrar el historial
-- **GET /api/v1/rate/profile**: Obtiene las calificaciones de un Owner con su **calificación promedio actualizada**
-- **DELETE /api/v1/rate/{id}**: Elimina una calificación y **recalcula automáticamente el promedio**
-- **PUT /api/v1/rate/{id}**: Actualiza una calificación y **ajusta el promedio en tiempo real**
+![rate_evidence_2](assets/chapter-08/rate_evidence_2.png)
 
-**Mejora Implementada:**
-Cuando un usuario devuelve un scooter y crea una calificación, el sistema automáticamente calcula la calificación promedio del Owner del scooter. Esto permite que otros usuarios puedan ver instantáneamente la reputación actualizada del propietario, mejorando la confianza y la toma de decisiones en futuras reservas.
+En esta imagen se muestra la sección de detalles del scooter donde aparece la calificación del dueño (4.0 estrellas). Esta calificación se calcula automáticamente cada vez que un usuario devuelve un scooter y crea una nueva calificación, permitiendo que otros usuarios vean la reputación actualizada del propietario.
 
 ##### Report Endpoints - Sistema de Notificación Automática
 
-Los endpoints de Report han sido mejorados para incluir un sistema de notificación automática por correo electrónico:
+![report_evidence_2](assets/chapter-08/report_evidence_2.png)
 
-![report](assets/chapter-08/endpoint_report.png)
+Esta imagen muestra el formulario de reporte de incidentes donde los usuarios pueden reportar problemas con el scooter (en este caso "El scooter está dañado"). Al enviar este reporte, el sistema automáticamente genera y envía un correo electrónico de notificación al propietario del scooter.
 
-**Funcionalidades Clave:**
-- **POST /api/v1/report**: Crea un nuevo reporte y **envía automáticamente un correo electrónico de notificación al Owner**
-- **GET /api/v1/report/scooter**: Obtiene todos los reportes asociados a un scooter específico
-- **GET /api/v1/report/profile**: Obtiene el historial de reportes recibidos por un Owner
-- **DELETE /api/v1/report/{id}**: Elimina un reporte del sistema
-- **PUT /api/v1/report/{id}**: Actualiza la información de un reporte existente
+![report_evidence_1](assets/chapter-08/report_evidence_1.png)
 
-**Mejora Implementada:**
-Cuando se crea un reporte sobre un scooter (por daños, problemas o incidentes), el sistema automáticamente envía un correo electrónico de notificación al Owner del scooter reportado. Esta funcionalidad garantiza que los propietarios estén inmediatamente informados sobre cualquier problema con sus vehículos, permitiendo una respuesta rápida para el mantenimiento y la resolución de incidencias.
+Esta imagen muestra el correo electrónico que recibe automáticamente el propietario del scooter cuando se crea un reporte. El correo incluye el título "Scooter notificado" e información específica sobre el scooter reportado (Xiaomi Pro1 en Calle 123, San Miguel), permitiendo al owner tomar acción inmediata sobre el problema reportado.
+
+**Impacto en la Experiencia del Usuario:**
+Estas implementaciones mejoran significativamente la confianza en la plataforma al proporcionar transparencia en las calificaciones y comunicación inmediata sobre el estado de los vehículos, elementos clave para el éxito de una plataforma de economía colaborativa.
 
 #### 8.3.3.6. Team Collaboration Insights
 
