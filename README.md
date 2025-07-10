@@ -6582,6 +6582,29 @@ Para ejecutar el experimento y cumplir con la US27, se desarrolló una versión 
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
+En esta sección se evidencia la implementación de las To-Be User Stories en nuestra aplicación móvil, para ello se consideraron las siguientes mejoras a la aplicación.
+
+- Visualización de calificación promedio del dueño de un scooter
+
+Se implementó la visualización de la calificación promedio del dueño que alquila el scooter
+
+<img src="./assets/chapter-08/ToBe-Mobile-1.jpeg" alt="Visualización de calificacion promedio del owner"/>
+
+- Crear reportes sobre daños visibles de un scooter
+
+Se implementó una sección para la creación de reportes en caso de desperfectos en un scooter
+
+<img src="./assets/chapter-08/ToBe-Mobile-2.jpeg" alt="Creación de reporte"/>
+
+
+- Simplificación de formulario de publicación de scooter
+
+Se simplifico el formulario de publicación de scooter, se reemplazo las opciones de distritos disponibles por un dropdown
+
+<img src="./assets/chapter-08/ToBe-Mobile-3.jpeg" alt="Formulario de publicación de scooter"/>
+
+
+
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
 En esta sección se documenta la evidencia de la implementación de mejoras específicas en la API RESTful de MoviRent. Se han implementado dos funcionalidades clave que potencian la experiencia del usuario y mejoran la gestión de la plataforma.
