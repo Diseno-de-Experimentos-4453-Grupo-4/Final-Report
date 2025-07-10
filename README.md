@@ -6789,7 +6789,8 @@ El 17% restante considera que aún se deben hacer mejorar respecto a la accesibi
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
-
+Figma (Prototipo): El prototipo interactivo desarrollado en Figma refleja las interfaces de Movirent. El diseño se basó en las necesidades y expectativas de los usuarios, mostrando cómo el equipo iteró y ajustó elementos visuales y funcionales durante el proceso para optimizar la experiencia.
+[https://www.figma.com/design/gqbumDrCfKyToI6GwtpCRE/Web-App---MoviRent?node-id=0-1&p=f&t=CZ5VMxN6CIlN3itn-0](https://www.figma.com/design/gqbumDrCfKyToI6GwtpCRE/Web-App---MoviRent?node-id=0-1&p=f&t=CZ5VMxN6CIlN3itn-0)
 
 ![shareback-1](assets/chapter-08/shareback1.png)
 
