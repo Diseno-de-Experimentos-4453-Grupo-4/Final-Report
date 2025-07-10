@@ -6737,6 +6737,36 @@ Finalmente, Julio expresó que el proceso para encontrar un scooter, ver sus det
 
 ## 8.4. Experiment Aftermath & Analysis
 ### 8.4.1. Analysis and Interpretation of Results
+
+A partir de las entrevistas realizadas se llegaron a las siguientes conclusiones:
+
+El 83% de los usuarios entrevistados consideran que la visualización destacada de beneficios para Owners en la Landing Page les genera mayor confianza y motivación para registrarse en la aplicación.
+El 17% restante considera que aún tiene dudas sobre la seguridad de la aplicación, sobre todo en los aspectos de seguridad de pagos y báucheres.
+
+<img src="assets/chapter-08/graph1.png" alt="Gráfico de resultados de la Landing Page" width="600">
+
+El 66% de los usuarios considera que el formulario más simplificado les ha permitido realizar el registro de un nuevo scooter de forma más rápida
+El 34% restante considerar que el registro del número de cuenta bancaria se podría simplificar para que el proceso tome menos tiempo
+
+<img src="assets/chapter-08/graph2.png" alt="Gráfico de resultados del formulario simplificado" width="600">
+
+El 100% de los usuarios considera que las calificaciones del Owner ofrecen mejor perspectiva y seguridad al momento de elegir el scooter que van a alquilar.
+
+<img src="assets/chapter-08/graph3.png" alt="Gráfico de resultados de las calificaciones del Owner" width="600">
+
+El 100% de usuarios considera que el reporte de daños antes del uso a través de las reseñas es beneficial y mejora la seguridad de los alquileres.
+
+<img src="assets/chapter-08/graph4.png" alt="Gráfico de resultados del reporte de daños" width="600">
+
+El 100% de los usuarios considera que las notificaciones de reseñas y daños ofrecen una mejora sustancial sobre la atención de daños de los scooters.
+
+<img src="assets/chapter-08/graph5.png" alt="Gráfico de resultados de las notificaciones de daños" width="600">
+
+El 83% de los usuarios considera que la usabilidad de la aplicación mejoró tras la última actualización de las aplicaciones.
+El 17% restante considera que aún se deben hacer mejorar respecto a la accesibilidad y usabilidad
+
+<img src="assets/chapter-08/graph6.png" alt="Gráfico de resultados de la usabilidad de la aplicación" width="600">
+
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
