@@ -6567,85 +6567,39 @@ Para ejecutar el experimento y cumplir con la US27, se desarrolló una versión 
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 
-En esta sección se documenta la evidencia de la implementación de la API RESTful y los servicios backend de MoviRent. La API fue desarrollada en .NET y proporciona los endpoints necesarios para el funcionamiento completo de la aplicación web y móvil.
+En esta sección se documenta la evidencia de la implementación de mejoras específicas en la API RESTful de MoviRent. Se han implementado dos funcionalidades clave que potencian la experiencia del usuario y mejoran la gestión de la plataforma.
 
-##### Booking Endpoints
+##### Rate Endpoints - Sistema de Calificación Automatizada
 
-Los endpoints de Booking permiten gestionar las reservas de scooters en el sistema:
-
-![booking](assets/chapter-08/endpoint_booking.png)
-
-- **GET /api/v1/booking**: Obtiene todas las reservas
-- **POST /api/v1/booking**: Crea una nueva reserva
-- **PATCH /api/v1/booking**: Actualiza parcialmente una reserva
-- **GET /api/v1/booking/own/state**: Obtiene el estado de las reservas propias
-- **DELETE /api/v1/booking/{bookingId}**: Elimina una reserva específica
-
-##### Profile Endpoints
-
-Los endpoints de Profile gestionan la información de perfiles de usuarios:
-
-![profile](assets/chapter-08/endpoint_profile.png)
-
-- **GET /api/v1/profile/{email}**: Obtiene el perfil por email
-- **GET /api/v1/profile/{id}**: Obtiene el perfil por ID
-- **PUT /api/v1/profile/{id}**: Actualiza completamente un perfil
-- **POST /api/v1/profile**: Crea un nuevo perfil
-
-##### Rate Endpoints
-
-Los endpoints de Rate permiten gestionar las calificaciones y reseñas:
+Los endpoints de Rate han sido mejorados para implementar un sistema de calificación promedio automatizada que se calcula en tiempo real:
 
 ![rate](assets/chapter-08/endpoint_rate.png)
 
-- **POST /api/v1/rate**: Crea una nueva calificación
-- **GET /api/v1/rate/scooter**: Obtiene calificaciones por scooter
-- **GET /api/v1/rate/profile**: Obtiene calificaciones por perfil
-- **DELETE /api/v1/rate/{id}**: Elimina una calificación
-- **PUT /api/v1/rate/{id}**: Actualiza una calificación
+**Funcionalidades Clave:**
+- **POST /api/v1/rate**: Crea una nueva calificación y activa el **cálculo automático de calificación promedio del Owner**
+- **GET /api/v1/rate/scooter**: Obtiene todas las calificaciones de un scooter específico para mostrar el historial
+- **GET /api/v1/rate/profile**: Obtiene las calificaciones de un Owner con su **calificación promedio actualizada**
+- **DELETE /api/v1/rate/{id}**: Elimina una calificación y **recalcula automáticamente el promedio**
+- **PUT /api/v1/rate/{id}**: Actualiza una calificación y **ajusta el promedio en tiempo real**
 
-##### Report Endpoints
+**Mejora Implementada:**
+Cuando un usuario devuelve un scooter y crea una calificación, el sistema automáticamente calcula la calificación promedio del Owner del scooter. Esto permite que otros usuarios puedan ver instantáneamente la reputación actualizada del propietario, mejorando la confianza y la toma de decisiones en futuras reservas.
 
-Los endpoints de Report gestionan los reportes del sistema:
+##### Report Endpoints - Sistema de Notificación Automática
+
+Los endpoints de Report han sido mejorados para incluir un sistema de notificación automática por correo electrónico:
 
 ![report](assets/chapter-08/endpoint_report.png)
 
-- **POST /api/v1/report**: Crea un nuevo reporte
-- **GET /api/v1/report/scooter**: Obtiene reportes por scooter
-- **GET /api/v1/report/profile**: Obtiene reportes por perfil
-- **DELETE /api/v1/report/{id}**: Elimina un reporte
-- **PUT /api/v1/report/{id}**: Actualiza un reporte
+**Funcionalidades Clave:**
+- **POST /api/v1/report**: Crea un nuevo reporte y **envía automáticamente un correo electrónico de notificación al Owner**
+- **GET /api/v1/report/scooter**: Obtiene todos los reportes asociados a un scooter específico
+- **GET /api/v1/report/profile**: Obtiene el historial de reportes recibidos por un Owner
+- **DELETE /api/v1/report/{id}**: Elimina un reporte del sistema
+- **PUT /api/v1/report/{id}**: Actualiza la información de un reporte existente
 
-##### Scooter Endpoints
-
-Los endpoints de Scooter gestionan la información de los scooters disponibles:
-
-![scooter](assets/chapter-08/endpoint_scooter.png)
-
-- **GET /api/v1/scooter/address/{address}**: Busca scooters por dirección
-- **GET /api/v1/scooter/district**: Obtiene scooters por distrito
-- **GET /api/v1/scooter/profile**: Obtiene scooters por perfil
-- **POST /api/v1/scooter**: Crea un nuevo scooter
-- **PUT /api/v1/scooter/{scooterId}**: Actualiza un scooter
-- **DELETE /api/v1/scooter/{id}**: Elimina un scooter
-- **GET /api/v1/scooter/{id}**: Obtiene un scooter específico
-
-##### Firebase Authentication Integration
-
-El sistema utiliza Firebase Authentication para la gestión de usuarios y autenticación:
-
-![firebase](assets/chapter-08/firebase_authentication.png)
-
-La integración con Firebase proporciona:
-- Autenticación segura de usuarios
-- Gestión de sesiones
-- Verificación de identidad
-- Compatibilidad con múltiples métodos de acceso
-- Integración con Identity Platform
-
-Todos los endpoints están protegidos por autenticación y siguen las mejores prácticas de seguridad API REST.
-
-
+**Mejora Implementada:**
+Cuando se crea un reporte sobre un scooter (por daños, problemas o incidentes), el sistema automáticamente envía un correo electrónico de notificación al Owner del scooter reportado. Esta funcionalidad garantiza que los propietarios estén inmediatamente informados sobre cualquier problema con sus vehículos, permitiendo una respuesta rápida para el mantenimiento y la resolución de incidencias.
 
 #### 8.3.3.6. Team Collaboration Insights
 
