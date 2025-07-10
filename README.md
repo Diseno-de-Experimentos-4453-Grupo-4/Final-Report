@@ -6768,6 +6768,16 @@ El 17% restante considera que aún se deben hacer mejorar respecto a la accesibi
 <img src="assets/chapter-08/graph6.png" alt="Gráfico de resultados de la usabilidad de la aplicación" width="600">
 
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+| # | Question | Estado | Valor | Riesgo | Nueva Prioridad | Acción siguiente |
+|---|----------|--------|-------|--------|------------------|-------------------|
+| 1 | ¿Los dueños de scooters están dispuestos a alquilar? | Parcial | Alto | Alto | 5 | Re-test con mayor muestra |
+| 2 | ¿Interfaz simple mejora conversión? | Validado | Alto | Bajo | 2 | Iterar diseño final |
+| 3 | ¿Medidas de seguridad generan confianza? | Validado | Medio | Bajo | 2 | Comunicar beneficios |
+| 4 | ¿Motivación económica es suficiente? | No validado | Alto | Medio | 3 | Profundizar entrevistas |
+| 5 | ¿La app es usable para 18-65 años? | Parcial | Alto | Medio | 3 | Nuevas pruebas con mayores de 55 |
+
+
 ## 8.5. Continuous Learning
 ### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
