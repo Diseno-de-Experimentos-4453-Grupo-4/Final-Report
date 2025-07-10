@@ -463,10 +463,15 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
       - [8.3.3.2. Implemented To-Be Landing Page Evidence](#8332-implemented-to-be-landing-page-evidence)
       - [8.3.3.3. Implemented To-Be Frontend-Web Application Evidence](#8333-implemented-to-be-frontend-web-application-evidence)
       - [8.3.3.4. Implemented To-Be Native-Mobile Application Evidence](#8334-implemented-to-be-native-mobile-application-evidence)
+      - [8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8335-implemented-to-be-restful-api-andor-serverless-backend-evidence)
+        - [Rate Endpoints - Sistema de Calificación Automatizada](#rate-endpoints---sistema-de-calificación-automatizada)
+        - [Report Endpoints - Sistema de Notificación Automática](#report-endpoints---sistema-de-notificación-automática)
       - [8.3.3.6. Team Collaboration Insights](#8336-team-collaboration-insights)
     - [8.3.4. To-Be Validation Interviews](#834-to-be-validation-interviews)
       - [8.3.4.1. Diseño de Entrevistas.](#8341-diseño-de-entrevistas)
       - [8.3.4.2. Registro de Entrevistas.](#8342-registro-de-entrevistas)
+    - [Entrevista 1:](#entrevista-1-4)
+    - [Entrevista 2:](#entrevista-2-4)
   - [8.4. Experiment Aftermath \& Analysis](#84-experiment-aftermath--analysis)
     - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
     - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
@@ -6660,6 +6665,37 @@ Respecto a las calificaciones, las comparó con Uber - una calificación de 4.8 
 El reporte de daños preexistentes le pareció súper importante ya que su mayor temor sería ser culpado por daños que ya existían. Poder documentar todo le daría mucha paz mental.
 
 Sobre la usabilidad, encontró el proceso directo e intuitivo, similar a otras apps que ha usado, sin identificar pasos confusos.
+
+### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Alexandra Belen
+* Apellidos: Ramos Argüelles
+
+Datos del entrevistado:
+* Nombres: Renzo
+* Apellidos: Silva
+* Edad: 20
+* Distrito de residencia: Surco
+* Enlace a la entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215164_upc_edu_pe/EaOmoyV0E2dPktKbpfx74BkBzwNNBFDNILMfYhH5Wq1yoA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uGWJjk](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215164_upc_edu_pe/EaOmoyV0E2dPktKbpfx74BkBzwNNBFDNILMfYhH5Wq1yoA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uGWJjk)
+
+![Entrevista Renzo](assets/chapter-08/entrevista_renzo.png)
+
+* Duración de la entrevista: 4:52
+
+**Informe del resumen de la entrevista:**
+
+Renzo Silva expresó que fue de su agrado el orden de las secciones y información que brinda cada una de ellas. Menciona que MoviRent le inspira confianza y que se siente emocionado de probar una aplicación tan fácil e intuitiva.
+
+Sobre el formulario simplificado, indicó que le parece muy práctico un formulario para registrar su scooter y que facilitaría el proceso de publicación de scooters.
+
+Las alertas en tiempo real le serían de mucha ayuda para saber cuando y dónde ha ocurrido un percance con su scooter. Así podría tratar de solucionar el problema.
+
+Respecto a las calificaciones, considera que es bueno saber que es lo que opinan las personas que pagan por utilizar su scooter.
+
+El reporte de daños preexistentes le pareció muy importante para dar a conocer que él no fue el responsable y de esa manera buscar quién es el responsable realmente.
+
+
 
 ## 8.4. Experiment Aftermath & Analysis
 ### 8.4.1. Analysis and Interpretation of Results
