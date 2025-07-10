@@ -6181,59 +6181,48 @@ A continuación, se presenta la bitácora de preguntas priorizadas para MoviRent
 
 ### 8.1.5. Experiment Cards.
 
-<table>
- <thead>
-    <th> Nombre del experimento </th>
-  <th>Hipótesis </th>
-  <th> Métrica clave </th>
-  <th> Duración </th>
-  <th> Resultado esperado </th>
- </thead>
- <tbody>
+<h3>8.1.5. Experiment Cards</h3>
 
- </tbody>
+<h4>Fake door test para arrendadores</h4>
+<ul>
+  <li><strong>Question:</strong> ¿Los dueños de scooters harán clic y dejarán sus datos si les presentamos una propuesta de alquiler entre pares?</li>
+  <li><strong>Why:</strong> Necesitamos validar el interés real de los dueños para participar como arrendadores antes de desarrollar funciones costosas.</li>
+  <li><strong>What:</strong> Mostrar un botón “Quiero alquilar mi scooter” en la landing page y medir el % de clics y formularios completados.</li>
+  <li><strong>Hypothesis:</strong> Si al menos el 40% de 100 visitantes únicos hace clic y deja sus datos, entonces existe una demanda cualificada para lanzar la funcionalidad.</li>
+</ul>
 
-   <tr>
-      <td>
-        Fake door test para arrendadores
-      </td>
-      <td>
-     ¿Los dueños de scooters harán clic y dejarán sus datos si les presentamos una propuesta de alquiler entre pares?
-      </td>
-      <td>% de clics en "Quiero alquilar mi scooter" en landing page</td>
-      <td>30 días</td>
-      <td>Al menos 40% de conversión sobre 100 visitas únicas</td>
-   </tr>
-   <tr>
-      <td>A/B Test de interfaz simple vs avanzada</td>
-      <td>¿Los usuarios completarán más rápido el flujo de reserva en una interfaz simple que en una avanzada?</td>
-      <td>Tiempo promedio para completar una reserva</td>
-      <td>3 minutos</td>
-      <td>70% prefiere o termina antes con la interfaz simple (&lt; 3 minutos)</td>
-    </tr>
-    <tr>
-      <td>Prueba de confianza en medidas de seguridad</td>
-      <td>¿La presencia de verificación de identidad y reputación del usuario genera suficiente confianza como para registrarse y alquilar?</td>
-      <td>% de usuarios que completan registro y manifiestan confianza</td>
-      <td>5 días</td>
-      <td>≥ 80% manifiesta sentirse seguro con la app</td>
-    </tr>
-    <tr>
-      <td>Entrevistas sobre motivación económica</td>
-      <td>¿Los propietarios consideran que generar ≥ S/80 al mes es suficiente motivación para participar en la app?</td>
-      <td>% de entrevistados dispuestos a publicar con ese ingreso</td>
-      <td>1 semana</td>
-      <td>≥ 60% respondería afirmativamente</td>
-    </tr>
-    <tr>
-      <td>Pruebas de usabilidad multietaria</td>
-      <td>¿Personas de entre 18 y 65 años logran utilizar la app sin ayuda durante el proceso de reserva?</td>
-      <td>% que completa el flujo sin ayuda</td>
-      <td>4 días</td>
-      <td>≥ 85% completa la acción sin asistencia en &lt; 10 minutos</td>
-    </tr>
+<h4>A/B Test de interfaz simple vs avanzada</h4>
+<ul>
+  <li><strong>Question:</strong> ¿Los usuarios completarán más rápido el flujo de reserva en una interfaz simple que en una avanzada?</li>
+  <li><strong>Why:</strong> Queremos optimizar la tasa de conversión reduciendo fricciones en la experiencia de reserva.</li>
+  <li><strong>What:</strong> Desplegar dos versiones del flujo de reserva y comparar el tiempo promedio para completarlo.</li>
+  <li><strong>Hypothesis:</strong> Si la interfaz simple logra que el 70% de usuarios complete la reserva en menos de 3 minutos, se validará que una interfaz simplificada mejora la eficiencia.</li>
+</ul>
 
-</table>
+<h4>Prueba de confianza en medidas de seguridad</h4>
+<ul>
+  <li><strong>Question:</strong> ¿La presencia de verificación de identidad y reputación genera suficiente confianza como para registrarse y alquilar?</li>
+  <li><strong>Why:</strong> Queremos reducir la barrera de desconfianza inicial para incentivar nuevos registros.</li>
+  <li><strong>What:</strong> Mostrar insignias de verificación y encuestar a los usuarios después del registro.</li>
+  <li><strong>Hypothesis:</strong> Si ≥ 80% de los usuarios manifiesta sentirse seguro con la app, entonces las medidas de seguridad son efectivas para aumentar la confianza.</li>
+</ul>
+
+<h4>Entrevistas sobre motivación económica</h4>
+<ul>
+  <li><strong>Question:</strong> ¿Los propietarios consideran que generar ≥ S/80 al mes es suficiente motivación para participar en la app?</li>
+  <li><strong>Why:</strong> Necesitamos saber si la propuesta económica es lo bastante atractiva para captar arrendadores.</li>
+  <li><strong>What:</strong> Realizar entrevistas cualitativas y cuantificar respuestas afirmativas.</li>
+  <li><strong>Hypothesis:</strong> Si al menos el 60% indica estar dispuesto a alquilar con un ingreso promedio de ≥ S/80, entonces la propuesta económica es viable.</li>
+</ul>
+
+<h4>Pruebas de usabilidad multietaria</h4>
+<ul>
+  <li><strong>Question:</strong> ¿Personas de entre 18 y 65 años logran utilizar la app sin ayuda durante el proceso de reserva?</li>
+  <li><strong>Why:</strong> Es fundamental garantizar accesibilidad y usabilidad para diferentes rangos de edad.</li>
+  <li><strong>What:</strong> Observar sesiones de prueba y registrar cuántos completan la reserva sin asistencia.</li>
+  <li><strong>Hypothesis:</strong> Si ≥ 85% de los usuarios completa el proceso sin ayuda en menos de 10 minutos, entonces la interfaz es intuitiva y accesible.</li>
+</ul>
+
 
 ### 8.2. Experiment Design
 
