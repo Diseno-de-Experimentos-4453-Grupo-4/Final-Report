@@ -34,7 +34,7 @@
         </tr>
         <tr>
             <td> Mathias Alejandro Jave Diaz </td>
-            <td>U202212721</td>
+            <td>u202212721</td>
         </tr>
         <tr>
             <td>Mathias Adriano Hidalgo Lopez</td>
@@ -42,22 +42,18 @@
         </tr>
         <tr>
             <td>Alexandra Belen Ramos Argüelles </td>
-            <td>U202215164</td>
+            <td>u202215164</td>
         </tr>
         <tr>
             <td>Sebastian Valente Lobato Pozo </td>
-            <td>U202215312</td>
-        </tr>
-        <tr>
-            <td>Integrante</td>
-            <td>codigo</td>
+            <td>u202215312</td>
         </tr>
     </tbody>
 </table>
 
 <br/><br/>
   
-  ## **Abril, 2025**
+  ## **Julio, 2025**
 
 </div>
 
@@ -144,6 +140,7 @@ software
               TB2:Como encargado de las Experiment-Ready Questions y de la selección de métodos experimentales, me aseguré de formular preguntas claras, útiles y orientadas a mejorar la experiencia del usuario. Consideré con responsabilidad que los métodos escogidos fueran inclusivos y respetaran la diversidad de perfiles de usuarios. Además, cuidé que la ejecución de los experimentos evitara cualquier tipo de sesgo o manipulación que pudiera afectar la validez de los resultados. Al aplicar criterios de equidad y transparencia en la definición metodológica, ejercí mi rol con conciencia ética y profesionalismo.
               TF: Como responsable de evidenciar los endpoints realizados y mejorados en esta entrega, pude identificar que estas mejoras facilitan la escalabilidad global de la plataforma, reducen costos operativos al eliminar intervención manual, y la transparencia en las calificaciones fortalece la credibilidad del sistema y permite que los usuarios tomen decisiones informadas.   
                 <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
+
 
 TB1: En esta entrga, me ancargué de evaluar si el diseño del software considera la accesibilidad y la inclusión de todos los usuarios, y propuse mejoras para garantizar que la aplicación sea accesible para personas con discapacidades. Esto me permitió mejorar mis habilidades en la identificación y gestión de riesgos éticos en proyectos de software, así como en la promoción de la inclusión y la diversidad en el desarrollo de software.
 
@@ -6646,6 +6643,7 @@ Para el desarrollo de la app web todos los repositorios se realizaron en GitHub.
 ![insight-2](assets/chapter-08/insight-image2.png)
 ![insight-3](assets/chapter-08/insight-image3.png)
 
+<img src="assets/chapter-01/insights-tf.png" alt="Team Collaboration Insight 1" width="600">
 
 
 ![insight-4](assets/chapter-08/insight-image4.png)
