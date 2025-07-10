@@ -139,10 +139,16 @@ software
               TP1: Al diseñar los System Tests, trabajé con el equipo para simular escenarios realistas, incluyendo fallos éticos potenciales (como manejo de datos sensibles). Integré checks automatizados en el pipeline de despliegue para asegurar el cumplimiento de normativas como GDPR y licencias de código abierto.
               TB2:Como encargado de las Experiment-Ready Questions y de la selección de métodos experimentales, me aseguré de formular preguntas claras, útiles y orientadas a mejorar la experiencia del usuario. Consideré con responsabilidad que los métodos escogidos fueran inclusivos y respetaran la diversidad de perfiles de usuarios. Además, cuidé que la ejecución de los experimentos evitara cualquier tipo de sesgo o manipulación que pudiera afectar la validez de los resultados. Al aplicar criterios de equidad y transparencia en la definición metodológica, ejercí mi rol con conciencia ética y profesionalismo.
                 <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
-                TB1: En esta entrga, me ancargué de evaluar si el diseño del software considera la accesibilidad y la inclusión de todos los usuarios, y propuse mejoras para garantizar que la aplicación sea accesible para personas con discapacidades. Esto me permitió mejorar mis habilidades en la identificación y gestión de riesgos éticos en proyectos de software, así como en la promoción de la inclusión y la diversidad en el desarrollo de software.
-              TP1: Al aplicar Behavior-Driven Development (BDD), facilité talleres con stakeholders para definir criterios de aceptación claros y éticos, asegurando que las funcionalidades desarrolladas cumplieran con las necesidades reales de los usuarios sin exclusiones.
-              TB2:Tuve a mi cargo la elaboración de los insumos iniciales (Raw Material), los cálculos de escala (Scale Calculations) y la definición de los indicadores clave de rendimiento (KPIs y métricas). En mi trabajo, consideré fundamental sustentar cada supuesto con evidencia confiable, evitando afirmaciones infundadas. Durante los cálculos y proyecciones, mantuve un criterio realista y evité exageraciones que pudieran inducir a conclusiones erróneas. Al seleccionar los KPIs, prioricé aquellos que reflejaran el impacto real en los usuarios y que fueran éticamente apropiados para la medición de desempeño. Esta responsabilidad me permitió fortalecer mi compromiso con el desarrollo ético de software basado en datos verificados y objetivos.
-          
+
+TB1: En esta entrga, me ancargué de evaluar si el diseño del software considera la accesibilidad y la inclusión de todos los usuarios, y propuse mejoras para garantizar que la aplicación sea accesible para personas con discapacidades. Esto me permitió mejorar mis habilidades en la identificación y gestión de riesgos éticos en proyectos de software, así como en la promoción de la inclusión y la diversidad en el desarrollo de software.
+
+TP1: Al aplicar Behavior-Driven Development (BDD), facilité talleres con stakeholders para definir criterios de aceptación claros y éticos, asegurando que las funcionalidades desarrolladas cumplieran con las necesidades reales de los usuarios sin exclusiones.
+
+TB2:Tuve a mi cargo la elaboración de los insumos iniciales (Raw Material), los cálculos de escala (Scale Calculations) y la definición de los indicadores clave de rendimiento (KPIs y métricas). En mi trabajo, consideré fundamental sustentar cada supuesto con evidencia confiable, evitando afirmaciones infundadas. Durante los cálculos y proyecciones, mantuve un criterio realista y evité exageraciones que pudieran inducir a conclusiones erróneas. Al seleccionar los KPIs, prioricé aquellos que reflejaran el impacto real en los usuarios y que fueran éticamente apropiados para la medición de desempeño. Esta responsabilidad me permitió fortalecer mi compromiso con el desarrollo ético de software basado en datos verificados y objetivos.
+
+TF: En esta última entrega, trabajé en conjunto con el equipo para identificar y mitigar riesgos éticos relacionados con la privacidad y la seguridad de los datos de los usuarios. Me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales, considerando su impacto en la sociedad.
+
+
 <p style="font-weight:bold"> Alexandra Belen Ramos Argüelles:</p>
                 TB1: Me encargué de la revisión y la justificación del uso de herramientas y bibliotecas de terceros considerando aspectos éticos como licencias y propiedad intelectual durante esta entrega, de forma que pudiera asegurarme de que el proyecto cumpla con los estándares éticos y legales establecidos.
               TP1: Al desarrollar los Integration Tests, verifiqué que las interacciones entre módulos cumplieran con estándares éticos, como el manejo adecuado de errores y la consistencia en el tratamiento de datos críticos. Documenté cada flujo para facilitar auditorías futuras. 
@@ -171,9 +177,15 @@ sociales
               TP1: Al configurar los despliegues por etapas (dev, staging, prod), establecí políticas de retención de datos temporales para entornos no productivos, minimizando riesgos de exposición de información sensible y reduciendo el almacenamiento innecesario.
                  TB2:trabajé en el Question Backlog y en definir las condiciones de prueba. En este proceso, analicé diferentes escenarios de despliegue y validación, considerando restricciones económicas y operativas que podrían darse en distintos contextos. Esto me permitió tomar decisiones informadas, priorizando no solo lo funcional, sino también lo sostenible y viable a largo plazo.
 <p style="font-weight:bold">Gustavo Huilca Chipana:</p>
-                TB1: En esta entrega, evalué el impacto social del software en la movilidad urbana y propuse soluciones para mejorar la calidad de vida de los usuarios. Me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales, considerando su impacto en la sociedad.
-              TP1: Al optimizar el Build & Test Suite, prioricé la detección temprana de vulnerabilidades (como las del OWASP Top 10) y reduje el tiempo de ejecución de pruebas, lo que disminuyó el consumo energético asociado al proceso de CI/CD.
-              TB2: En esta entrega, trabajé en conjunto con el equipo para identificar y mitigar riesgos éticos relacionados con la privacidad y la seguridad de los datos de los usuarios. Me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales, considerando su impacto en la sociedad.
+
+TB1: En esta entrega, evalué el impacto social del software en la movilidad urbana y propuse soluciones para mejorar la calidad de vida de los usuarios. Me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales, considerando su impacto en la sociedad.
+
+TP1: Al optimizar el Build & Test Suite, prioricé la detección temprana de vulnerabilidades (como las del OWASP Top 10) y reduje el tiempo de ejecución de pruebas, lo que disminuyó el consumo energético asociado al proceso de CI/CD.
+
+TB2: En esta entrega, trabajé en conjunto con el equipo para identificar y mitigar riesgos éticos relacionados con la privacidad y la seguridad de los datos de los usuarios. Me aseguré de que el desarrollo del software cumpla con estándares éticos y profesionales, considerando su impacto en la sociedad.
+
+TF: En esta última entrega, trabajé en conjunto con el equipo para evaluar el impacto social, económico y ambiental del software en la movilidad urbana. Se promovió un entorno de trabajo colaborativo e inclusivo, alentando la participación y aportes de todos los miembros del equipo. Se establecieron metas claras y se planificaron las tareas necesarias para cumplir con los objetivos del proyecto.
+
 <p style="font-weight:bold">Sebastian Valente Lobato Pozo:</p>
                 TB1: Durante esta entrega, trabajé activamente para fomentar un entorno de trabajo colaborativo e inclusivo, alentando la participación y aportes de todos los miembros del equipo. Junto con mis compañeros, ayudamos a establecer metas claras y a planificar las tareas necesarias para cumplir con los objetivos del proyecto.
               TP1: Al configurar el pipeline de producción, analicé el costo ambiental de los recursos en la nube y propuse estrategias para minimizar la huella de carbono, como programar despliegues en horarios de baja demanda energética o usar instancias más eficientes.
@@ -6695,6 +6707,29 @@ Respecto a las calificaciones, considera que es bueno saber que es lo que opinan
 
 El reporte de daños preexistentes le pareció muy importante para dar a conocer que él no fue el responsable y de esa manera buscar quién es el responsable realmente.
 
+
+
+### Entrevista 3:
+
+Datos del entrevistado:
+
+* Nombre: Julio Enrique Chipana Barrientos
+* Edad: 56 años
+* Residencia: Ayacucho, Perú
+* Enlace a la entrevista: [Entrevista Julio Chipana](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213983_upc_edu_pe/ERBNMIqRcctDnM14VeRg090Bpw_DLCf3TxU7Y4vsMYNm2Q?e=FSpKeN)
+
+<img src="assets/chapter-08/entrevista-enrique.png" alt="Entrevista Julio Chipana" width="600">
+
+**Duración de la entrevista: 5:36 minutos**
+
+### Resumen de la entrevista:
+
+El entrevistado, Julio Enrique Chipana Barrientos, es un usuario de 56 años que reside en Ayacucho, Perú. Durante la entrevista, en primer lugar, nos mencionó que el mensaje sobre los beneficios económicos y la seguridad de alquilar le pareció claro y convincente, destacando que la seguridad es un aspecto fundamental para él.
+En cuanto al formulario simplificado, expresó que le gustaría que fuera aún más sencillo, sugiriendo que se eliminen campos innecesarios y, sobre todo, agilizar el proceso de registro de la cuenta bancaria.
+También mencionó que recibir alertas en tiempo real sobre el estado de su scooter le ayudaría a gestionar mejor el mantenimiento y la seguridad, ya que le permitiría estar al tanto de cualquier problema de inmediato.
+En relación a la calificación del dueño, Julio indicó que le haría sentir más seguro y confiado para completar el alquiler, ya que una buena calificación refleja la calidad del servicio y la atención al cliente.
+En cuanto a la influencia de una buena o mala calificación del dueño en su decisión de alquilar, Julio mencionó que definitivamente influiría en su elección, ya que una buena reputación del dueño genera confianza.
+Finalmente, Julio expresó que el proceso para encontrar un scooter, ver sus detalles y reservarlo le pareció fácil de entender y usar sin necesidad de ayuda. Sin embargo, sugirió que algunos botones podrían ser más intuitivos para mejorar la experiencia del usuario.
 
 
 ## 8.4. Experiment Aftermath & Analysis
