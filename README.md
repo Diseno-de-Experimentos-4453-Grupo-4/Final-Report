@@ -484,6 +484,8 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
       - [8.3.4.2. Registro de Entrevistas.](#8342-registro-de-entrevistas)
     - [Entrevista 1:](#entrevista-1-4)
     - [Entrevista 2:](#entrevista-2-4)
+    - [Entrevista 3:](#entrevista-3-4)
+    - [Resumen de la entrevista:](#resumen-de-la-entrevista)
   - [8.4. Experiment Aftermath \& Analysis](#84-experiment-aftermath--analysis)
     - [8.4.1. Analysis and Interpretation of Results](#841-analysis-and-interpretation-of-results)
     - [8.4.2. Re-scored and Re-prioritized Question Backlog](#842-re-scored-and-re-prioritized-question-backlog)
@@ -6623,7 +6625,13 @@ Estas implementaciones mejoran significativamente la confianza en la plataforma 
 
 #### 8.3.3.6. Team Collaboration Insights
 
-
+Para el desarrollo de la app web todos los repositorios se realizaron en GitHub. A continuación, se mostrará el gráfico de commits de las diferentes repositorios:
+- **INFORME**
+  ![INFORME](image-6.png)
+- **FRONTEND**
+  ![FRONTED](image-8.png)
+- **MOBILE**
+![MOBILE](image-7.png)
 
 ![insight-1](assets/chapter-08/insight-image1.png)
 ![insight-2](assets/chapter-08/insight-image2.png)
